@@ -1,2 +1,7 @@
 site_name: TJH Knowledge Base
 site_url: https://tendil.github.io/tjh-knowledge-base
+nav:
+  - Home: index.md
+
+theme: readthedocs
+
