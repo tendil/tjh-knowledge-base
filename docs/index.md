@@ -1,588 +1,588 @@
 # Запитання для співбесіди на теми
 
-- [1. Python](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#1-python)
+- [1. Python](https://tendil.github.io/tjh-knowledge-base#1-python)
 
-- [2. GIT](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#2-git)
+- [2. GIT](https://tendil.github.io/tjh-knowledge-base#2-git)
 
-- [3. JavaScript](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#3-javascript)
+- [3. JavaScript](https://tendil.github.io/tjh-knowledge-base#3-javascript)
 
-- [4. Java](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#4-java)
+- [4. Java](https://tendil.github.io/tjh-knowledge-base#4-java)
 
-- [5. QA Manual](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#5-qa-manual)
+- [5. QA Manual](https://tendil.github.io/tjh-knowledge-base#5-qa-manual)
 
-- [6. QA Automation](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#6-qa-automation)
+- [6. QA Automation](https://tendil.github.io/tjh-knowledge-base#6-qa-automation)
 
-- [7. TypeScript](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#7-typescript)
+- [7. TypeScript](https://tendil.github.io/tjh-knowledge-base#7-typescript)
 
-- [8. CI CD](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#8-ci-cd)
+- [8. CI CD](https://tendil.github.io/tjh-knowledge-base#8-ci-cd)
 
-- [9. Основні принципи програмування](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#9-основні-принципи-програмування)
+- [9. Основні принципи програмування](https://tendil.github.io/tjh-knowledge-base#9-основні-принципи-програмування)
 
-- [10. Теорія тестування](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#10-теорія-тестування)
+- [10. Теорія тестування](https://tendil.github.io/tjh-knowledge-base#10-теорія-тестування)
 
-- [11. Бази данних](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#11-бази-данних)
+- [11. Бази данних](https://tendil.github.io/tjh-knowledge-base#11-бази-данних)
 
-- [12. Загальні питання](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#12-загальні-питання)
+- [12. Загальні питання](https://tendil.github.io/tjh-knowledge-base#12-загальні-питання)
 
 ---
 
 ## 1. Python
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 
-- [1. Види типізації](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#1-види-типізації)
-- [2. Типізація python](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#2-що-таке-змінна)
-- [3. Що таке змінна](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#3-що-таке-змінна)
-- [4. Числа в python](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#4-числа-в-python)
-- [5. Рядки в python](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#5-рядки-в-python)
-- [6. Списки і кортежі в python](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#6-рядки-в-python)
-- [7. Словник в python](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#7-cловник-в-python)
-- [8. Які типи даних відносяться до структур даних](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#8-які-типи-даних-відносяться-до-структур-даних)
-- [9. Що таке віртуальне середовище](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#9-що-таке-віртуальне-середовище)
-- [10. Як встановити віртуальне середовище](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#10-як-встановити-віртуальне-середовище)
-- [11. Види форматування рядків](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#11-види-форматування-рядків)
-- [12. Зрізи або срізи в python](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#12-cрізи-або-срізи-в-python)
-- [13. Що таке ітерація](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#13-що-таке-ітерація)
-- [14. Які цикли існують в python](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#14-які-цикли-існують-в-python)
-- [15. В чому різниця між while та for](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#15-в-чому-різниця-між-while-та-for)
-- [16. Як реалізоване розгалуження в python](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#16-як-реалізоване-розгалуження-в-python)
-- [17. Як запросити в користувача ввід](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#17-як-запитати-в-користувача-ввід)
-- [18. Приведення типів](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#18-приведення-типів)
-- [19. Що таке анотація типів](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#19-що-таке-анотація-типів)
-- [20. Рядок це послідовність чи ні](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#20-рядок-це-послідовність-чи-ні)
-- [21. Що таке PEP8](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#21-що-таке-pep)
-- [22. Що таке функція range](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#22-що-таке-функція-range)
-- [23. Що робить enumerate](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#23-що-робить-enumerate)
-- [24. Які методи списків](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#24-які-методи-списків)
-- [25. Що в python не є об'єктом](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#25-що-в-python-не-є-об'єктом)
-- [26. Назви змінних](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#26-назви-змінних)
-- [27. Що таке літерали](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#27-що-таке-літерали)
-- [28. Чи можна число зробити рядком](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#28-чи-можна-число-зробити-рядком)
-- [29. Що робить метод split()](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#29-що-робить-метод-split)
-- [30. Що робить метод join()](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#30-що-робить-метод-join)
-- [31. Як імпортувати модуль](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#31-як-імпортувати-модуль)
-- [32. Як імпортувати весь вміст модуля](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#32-як-імпортувати-весь-вміст-модуля)
-- [33. Скільки пар ключ-значення може бути в словнику](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#33-скільки-пар-ключ-значення-може-бути-в-словнику)
-- [34. Який тип даних може бути значенням в словнику](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#34-який-тип-даних-може-бути-значенням-в-словнику)
-- [35. Як дізнатися id елемента](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#35-як-дізнатися-id-елемента)
-- [36. Як дізнатися версію python](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#36-як-дізнатися-версію-python)
-- [37. Відмінності другого python від 3](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#37-відмінності-другого-python-від-3)
-- [38. Як перервати виконання циклу](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#38-як-перервати-виконання-циклу)
-- [39. Що означає continue](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#39-що-означає-continue)
-- [40. Що буде, якщо порівняти 5 і 5.0](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#40-що-буде-якщо-порівняти-5-і-50)
-- [41. Що швидше: python або c++](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#41-що-швидше-python-або-c)
-- [42. Що таке байт-код](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#42-що-таке-байт-код)
-- [43. Як уникнути конфліктів при імпорті файлів](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#43-як-уникнути-конфліктів-при-імпорті-файлів)
-- [44. Що означає %s %d](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#44-що-означає-s-d)
-- [45. Що таке клас](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#45-що-таке-клас)
-- [46. Що таке успадкування](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#46-що-таке-спадкування)
-- [47. Що таке інкапсуляція](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#47-що-таке-інкапсуляція)
-- [48. Що таке поліморфізм](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#48-що-таке-поліморфізм)
-- [49. Скільки може бути батьків і спадкоємців у класу](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#49-скільки-може-бути-батьків-і-спадкоємців-у-класу)
-- [50. Що таке перевантаження операторів](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#50-що-таке-перевантаження-операторів)
-- [51. Магічні методи](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#51-магічні-методи)
-- [52. Модифікатори доступу](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#52-модифікатори-доступу)
-- [53. Генератори](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#53-генератори)
-- [54. Як пишуться коментарі в python](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#54-як-пишуться-коментарі-в-python)
-- [55. Як можна змінити (зворотній) порядок елементів у списку](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#55-як-можна-змінити-зворотній-порядок-елементів-у-списку)
-- [56. Якщо ми не поставимо двокрапку в кінці рядка для циклу "do-while", він все одно виконається?](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#56-якщо-ми-не-поставимо-двокрапку-в-кінці-рядка-для-циклу-do-while-він-все-одно-виконається)
-- [57. Як видалити зі списку дублікат елемента](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#57-як-видалити-зі-списку-дублікат-елемента)
-- [58. Розкажіть про арифметичні оператори //, %, і **](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#58-розкажіть-про-арифметичні-оператори---і-)
-- [59. Як порахувати довжину рядка (string)](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#59-як-порахувати-довжину-рядка-string)
-- [60. Розкажіть про генератори списків (list comprehension)](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#60-розкажіть-про-генератори-списків-list-comprehension)
-- [61. Що таке HTTP](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#61-що-таке-http)
-- [62. Що таке json, xml](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#62-що-таке-json-xml)
-- [63. Чим відрізняється HTML від XML](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#63-чим-відрізняється-html-від-xml)
-- [64. Що таке CRUD](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#64-що-таке-crud)
-- [65. Який патерн програмування реалізує Django](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#65-який-патерн-програмування-реалізує-django)
-- [66. На якому етапі в додатку Django відбувається запит до бази даних](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#66-на-якому-етапі-в-додатку-django-відбувається-запит-до-бази-даних)
-- [67. Який результат буде Post.objects.all() і якого типу верне](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#67-який-результат-буде-postobjectsall-і-якого-типу-верне)
-- [68. Що таке SQL](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#68-що-таке-sql)
-- [69. Яким запитом я можу витягнути всі дані з таблиці](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#69-яким-запитом-я-можу-витягнути-всі-дані-з-таблиці)
-- [70. Що таке багато-до-багатьох (многие-ко-многим)](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#70-що-таке-багато-до-багатьох-многие-ко-многим)
-- [71. Як реалізується М2М в SQL](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#71-як-реалізується-м2м-в-sql)
-- [72. Що таке JOIN і яким він може бути](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#72-що-таке-join-і-яким-він-може-бути)
-- [73. Що таке View](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#73-що-таке-view)
-- [74. Що таке міксини](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#74-що-таке-міксини)
-- [75. Префіксні та інфіксні оператори](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#75-префіксні-та-інфіксні-оператори)
-- [76. Два способи створення класу](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#76-два-способи-створення-класу)
-- [77. Чим файл .pyc відрізняється від .py](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#77-чим-файл-pyc-відрізняється-від-py)
-- [78. Що робить python об'єктно-орієнтованим](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#78-що-робить-python-обєктно-орієнтованим)
-- [79. Як проводиться відлагодження програми на Python](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#79-як-проводиться-відлагодження-програми-на-python)
-- [80. Що таке GIL](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#80-що-таке-gil)
-- [81. Що таке Django Middleware](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#81-що-таке-django-middleware)
-- [82. Як вставити об'єкт так, щоб він опинився під певним індексом?](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#82-як-вставити-обєкт-так-щоб-він-опинився-під-певним-індексом)
-- [83. Що потрібно зробити, щоб функція повертала значення? Використовувати оператор return або yield](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#83-що-потрібно-зробити-щоб-функція-повертала-значення)
-- [84. Що якщо в функції не буде return, чи вона щось поверне?](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#84-що-якщо-в-функції-не-буде-return-чи-вона-щось-поверне)
-- [85. Напишіть в одну строку, як можна отримати найпізнішу за кодом літеру у рядку](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#85-напишіть-в-одну-строку-як-можна-отримати-найпізнішу-за-кодом-літеру-у-рядку)
-- [86. Як конвертувати список в рядок?](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#86-як-конвертувати-список-в-рядок)
-- [87. Принципи SOLID](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#87-принципи-solid)
-- [88. SQL JOIN](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#88-sql-join)
-- [89. SQL оператор HAVING](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#89-sql-оператор-having)
-- [90. Метакласи в Python](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#90-метакласи-в-python)
-- [91. Множинне успадкування](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#91-множинне-спадкування)
-- [92. Компоненти django](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#92-компоненти-django)
-- [93. Які вбудовані типи доступні в Python](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#93-які-вбудовані-типи-доступні-в-python)
-- [94. Mutable та immutable типи даних](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#94-mutable-та-immutable-типи-даних)
-- [95. Лямбда-функція в Python](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#95-лямбда-функція-в-python)
-- [96. Що означає простір імен](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#96-що-означає-простір-імен)
-- [97. Чим відрізняється pickling від unpickling](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#97-чим-відрізняється-pickling-від-unpickling)
-- [98. Різниця між генераторами та ітераторами](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#98-різниця-між-генераторами-та-ітераторами)
-- [99. Як перетворити число в рядок](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#99-як-перетворити-число-в-рядок)
-- [100. Обов'язково чи функція Python повинна повертати значення](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#100-обовязково-чи-функція-python-повинна-повертати-значення)
-- [101. Чи існує в Python функція main()](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#101-чи-існує-в-python-функція-main)
-- [102. Який метод використовувався перед оператором «in» для перевірки наявності ключа в словнику](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#102-який-метод-використовувався-перед-оператором-in-для-перевірки-наявності-ключа-в-словнику)
-- [103. Управління пам'яттю в Python](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#103-управління-памяттю-в-python)
-- [104. Що таке PYTHONPATH](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#104-що-таке-pythonpath)
-- [105. Що таке модулі Python](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#105-що-таке-модулі-python)
-- [106. Що означає self в Python](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#106-що-означає-self-в-python)
-- [107. Як Python інтерпретується як мова](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#107-як-python-інтерпретується-як-мова)
-- [108. Як інтерпретується Python](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#108-як-інтерпретується-python)
-- [109. Як в Python керується пам'ятю](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#109-як-в-python-керується-памятю)
-- [110. Що таке функція в Python](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#110-що-таке-функція-в-python)
-- [111. Що таке локальні та глобальні змінні в Python](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#111-що-таке-локальні-та-глобальні-змінні-в-python)
-- [112. Чому лямбда-форми в Python не мають операторів](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#112-чому-лямбда-форми-в-python-не-мають-операторів)
-- [113. Від'ємні індекси і чому їх використовують](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#113-відємні-індекси-і-чому-їх-використовують)
-- [114. Як отримати список усіх ключів в словнику](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#114-як-отримати-список-усіх-ключів-в-словнику)
-- [115. Різниця між списком та кортежем](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#115-різниця-між-списком-та-кортежем)
-- [116. Що таке ітератори в Python](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#116-що-таке-ітератори-в-python)
-- [117. Що таке функція map в Python](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#117-що-таке-функція-map-в-python)
-- [118. Що таке поверхнева копія](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#118-що-таке-поверхнева-копія)
-- [119. Що таке глибока копія](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#119-що-таке-глибока-копія)
-- [120. Що робить функція zip()](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#120-що-робить-функція-zip)
-- [121. Що робить оператор with в Python](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#121-що-робить-оператор-with-в-python)
-- [122. Коли виконується блок except в конструкції try-except](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#122-коли-виконується-блок-except-в-конструкції-try-except)
-- [123. Де ви будете використовувати while замість for](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#123-де-ви-будете-використовувати-while-замість-for)
-- [124. Чи є масиви NumPy в Python кращими за списки](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#124-чи-є-масиви-numpy-в-python-кращими-за-списки)
-- [125. Як отримати поточний робочий каталог за допомогою Python](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#125-як-отримати-поточний-робочий-каталог-за-допомогою-python)
-- [126. Що таке приведення в Python](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#126-що-таке-приведення-в-python)
-- [127. Як можна видалити змінні в Python](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#127-як-можна-видалити-змінні-в-python)
-- [128. В чому різниця між методами append та extend](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#128-в-чому-різниця-між-методами-append-та-extend)
-- [129. Що означає *args, **kwargs і навіщо нам їх використовувати](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#129-що-означає-args-kwargs-і-навіщо-нам-їх-використовувати)
-- [130. Що означає одинарний і подвійний підкреслення перед ім'ям об'єкта (dunder methods)](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#130-що-означає-одинарний-і-подвійний-підкреслення-перед-ім'ям-об'єкта-dunder-methods)
-- [131. Що таке генератор](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#131-що-таке-генератор)
-- [132. Яка мета одинарної змінної підкреслення в Python](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#132-яка-мета-одинарної-змінної-підкреслення-в-python)
-- [133. Які типи успадкування існують в Python](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#133-які-типи-спадкування-в-python)
-- [134. Що таке розпакування кортежу](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#134-що-таке-розпакування-кортежу)
-- [135. Чи звільняється вся пам'ять після виходу з Python](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#135-чи-звільняється-вся-пам'ять-після-виходу-з-python)
-- [136. Чи є функція дійсною, якщо вона не має оператора return](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#136-чи-є-функція-дійсною-якщо-вона-не-має-оператора-return)
-- [137. На що корисно використовувати ООП](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#137-на-що-корисно-використовувати-ооп)
-- [138. Що таке об'єкт](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#138-що-таке-об'єкт)
-- [139. В чому різниця між класом та структурою](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#139-в-чому-різниця-між-класом-та-структурою)
-- [140. Чи можете ви викликати метод базового класу без створення екземпляру](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#140-чи-можете-ви-викликати-метод-базового-класу-без-створення-екземпляру)
-- [141. В чому різниця між класом та об'єктом](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#141-в-чому-різниця-між-класом-та-об'єктом)
-- [142. Що таке суперклас](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#142-що-таке-суперклас)
-- [143. Що таке підклас](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#143-що-таке-підклас)
-- [144. Що таке абстракція](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#144-що-таке-абстракція)
-- [145. Різниця між процедурним програмуванням та ООП](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#145-різниця-між-процедурним-програмуванням-та-ооп)
-- [146. В чому різниця між модулем та пакетом в Python](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#146-в-чому-різниця-між-модулем-та-пакетом-в-python)
+- [1. Види типізації](https://tendil.github.io/tjh-knowledge-base#1-види-типізації)
+- [2. Типізація python](https://tendil.github.io/tjh-knowledge-base#2-що-таке-змінна)
+- [3. Що таке змінна](https://tendil.github.io/tjh-knowledge-base#3-що-таке-змінна)
+- [4. Числа в python](https://tendil.github.io/tjh-knowledge-base#4-числа-в-python)
+- [5. Рядки в python](https://tendil.github.io/tjh-knowledge-base#5-рядки-в-python)
+- [6. Списки і кортежі в python](https://tendil.github.io/tjh-knowledge-base#6-рядки-в-python)
+- [7. Словник в python](https://tendil.github.io/tjh-knowledge-base#7-cловник-в-python)
+- [8. Які типи даних відносяться до структур даних](https://tendil.github.io/tjh-knowledge-base#8-які-типи-даних-відносяться-до-структур-даних)
+- [9. Що таке віртуальне середовище](https://tendil.github.io/tjh-knowledge-base#9-що-таке-віртуальне-середовище)
+- [10. Як встановити віртуальне середовище](https://tendil.github.io/tjh-knowledge-base#10-як-встановити-віртуальне-середовище)
+- [11. Види форматування рядків](https://tendil.github.io/tjh-knowledge-base#11-види-форматування-рядків)
+- [12. Зрізи або срізи в python](https://tendil.github.io/tjh-knowledge-base#12-cрізи-або-срізи-в-python)
+- [13. Що таке ітерація](https://tendil.github.io/tjh-knowledge-base#13-що-таке-ітерація)
+- [14. Які цикли існують в python](https://tendil.github.io/tjh-knowledge-base#14-які-цикли-існують-в-python)
+- [15. В чому різниця між while та for](https://tendil.github.io/tjh-knowledge-base#15-в-чому-різниця-між-while-та-for)
+- [16. Як реалізоване розгалуження в python](https://tendil.github.io/tjh-knowledge-base#16-як-реалізоване-розгалуження-в-python)
+- [17. Як запросити в користувача ввід](https://tendil.github.io/tjh-knowledge-base#17-як-запитати-в-користувача-ввід)
+- [18. Приведення типів](https://tendil.github.io/tjh-knowledge-base#18-приведення-типів)
+- [19. Що таке анотація типів](https://tendil.github.io/tjh-knowledge-base#19-що-таке-анотація-типів)
+- [20. Рядок це послідовність чи ні](https://tendil.github.io/tjh-knowledge-base#20-рядок-це-послідовність-чи-ні)
+- [21. Що таке PEP8](https://tendil.github.io/tjh-knowledge-base#21-що-таке-pep)
+- [22. Що таке функція range](https://tendil.github.io/tjh-knowledge-base#22-що-таке-функція-range)
+- [23. Що робить enumerate](https://tendil.github.io/tjh-knowledge-base#23-що-робить-enumerate)
+- [24. Які методи списків](https://tendil.github.io/tjh-knowledge-base#24-які-методи-списків)
+- [25. Що в python не є об'єктом](https://tendil.github.io/tjh-knowledge-base#25-що-в-python-не-є-об'єктом)
+- [26. Назви змінних](https://tendil.github.io/tjh-knowledge-base#26-назви-змінних)
+- [27. Що таке літерали](https://tendil.github.io/tjh-knowledge-base#27-що-таке-літерали)
+- [28. Чи можна число зробити рядком](https://tendil.github.io/tjh-knowledge-base#28-чи-можна-число-зробити-рядком)
+- [29. Що робить метод split()](https://tendil.github.io/tjh-knowledge-base#29-що-робить-метод-split)
+- [30. Що робить метод join()](https://tendil.github.io/tjh-knowledge-base#30-що-робить-метод-join)
+- [31. Як імпортувати модуль](https://tendil.github.io/tjh-knowledge-base#31-як-імпортувати-модуль)
+- [32. Як імпортувати весь вміст модуля](https://tendil.github.io/tjh-knowledge-base#32-як-імпортувати-весь-вміст-модуля)
+- [33. Скільки пар ключ-значення може бути в словнику](https://tendil.github.io/tjh-knowledge-base#33-скільки-пар-ключ-значення-може-бути-в-словнику)
+- [34. Який тип даних може бути значенням в словнику](https://tendil.github.io/tjh-knowledge-base#34-який-тип-даних-може-бути-значенням-в-словнику)
+- [35. Як дізнатися id елемента](https://tendil.github.io/tjh-knowledge-base#35-як-дізнатися-id-елемента)
+- [36. Як дізнатися версію python](https://tendil.github.io/tjh-knowledge-base#36-як-дізнатися-версію-python)
+- [37. Відмінності другого python від 3](https://tendil.github.io/tjh-knowledge-base#37-відмінності-другого-python-від-3)
+- [38. Як перервати виконання циклу](https://tendil.github.io/tjh-knowledge-base#38-як-перервати-виконання-циклу)
+- [39. Що означає continue](https://tendil.github.io/tjh-knowledge-base#39-що-означає-continue)
+- [40. Що буде, якщо порівняти 5 і 5.0](https://tendil.github.io/tjh-knowledge-base#40-що-буде-якщо-порівняти-5-і-50)
+- [41. Що швидше: python або c++](https://tendil.github.io/tjh-knowledge-base#41-що-швидше-python-або-c)
+- [42. Що таке байт-код](https://tendil.github.io/tjh-knowledge-base#42-що-таке-байт-код)
+- [43. Як уникнути конфліктів при імпорті файлів](https://tendil.github.io/tjh-knowledge-base#43-як-уникнути-конфліктів-при-імпорті-файлів)
+- [44. Що означає %s %d](https://tendil.github.io/tjh-knowledge-base#44-що-означає-s-d)
+- [45. Що таке клас](https://tendil.github.io/tjh-knowledge-base#45-що-таке-клас)
+- [46. Що таке успадкування](https://tendil.github.io/tjh-knowledge-base#46-що-таке-спадкування)
+- [47. Що таке інкапсуляція](https://tendil.github.io/tjh-knowledge-base#47-що-таке-інкапсуляція)
+- [48. Що таке поліморфізм](https://tendil.github.io/tjh-knowledge-base#48-що-таке-поліморфізм)
+- [49. Скільки може бути батьків і спадкоємців у класу](https://tendil.github.io/tjh-knowledge-base#49-скільки-може-бути-батьків-і-спадкоємців-у-класу)
+- [50. Що таке перевантаження операторів](https://tendil.github.io/tjh-knowledge-base#50-що-таке-перевантаження-операторів)
+- [51. Магічні методи](https://tendil.github.io/tjh-knowledge-base#51-магічні-методи)
+- [52. Модифікатори доступу](https://tendil.github.io/tjh-knowledge-base#52-модифікатори-доступу)
+- [53. Генератори](https://tendil.github.io/tjh-knowledge-base#53-генератори)
+- [54. Як пишуться коментарі в python](https://tendil.github.io/tjh-knowledge-base#54-як-пишуться-коментарі-в-python)
+- [55. Як можна змінити (зворотній) порядок елементів у списку](https://tendil.github.io/tjh-knowledge-base#55-як-можна-змінити-зворотній-порядок-елементів-у-списку)
+- [56. Якщо ми не поставимо двокрапку в кінці рядка для циклу "do-while", він все одно виконається?](https://tendil.github.io/tjh-knowledge-base#56-якщо-ми-не-поставимо-двокрапку-в-кінці-рядка-для-циклу-do-while-він-все-одно-виконається)
+- [57. Як видалити зі списку дублікат елемента](https://tendil.github.io/tjh-knowledge-base#57-як-видалити-зі-списку-дублікат-елемента)
+- [58. Розкажіть про арифметичні оператори //, %, і **](https://tendil.github.io/tjh-knowledge-base#58-розкажіть-про-арифметичні-оператори---і-)
+- [59. Як порахувати довжину рядка (string)](https://tendil.github.io/tjh-knowledge-base#59-як-порахувати-довжину-рядка-string)
+- [60. Розкажіть про генератори списків (list comprehension)](https://tendil.github.io/tjh-knowledge-base#60-розкажіть-про-генератори-списків-list-comprehension)
+- [61. Що таке HTTP](https://tendil.github.io/tjh-knowledge-base#61-що-таке-http)
+- [62. Що таке json, xml](https://tendil.github.io/tjh-knowledge-base#62-що-таке-json-xml)
+- [63. Чим відрізняється HTML від XML](https://tendil.github.io/tjh-knowledge-base#63-чим-відрізняється-html-від-xml)
+- [64. Що таке CRUD](https://tendil.github.io/tjh-knowledge-base#64-що-таке-crud)
+- [65. Який патерн програмування реалізує Django](https://tendil.github.io/tjh-knowledge-base#65-який-патерн-програмування-реалізує-django)
+- [66. На якому етапі в додатку Django відбувається запит до бази даних](https://tendil.github.io/tjh-knowledge-base#66-на-якому-етапі-в-додатку-django-відбувається-запит-до-бази-даних)
+- [67. Який результат буде Post.objects.all() і якого типу верне](https://tendil.github.io/tjh-knowledge-base#67-який-результат-буде-postobjectsall-і-якого-типу-верне)
+- [68. Що таке SQL](https://tendil.github.io/tjh-knowledge-base#68-що-таке-sql)
+- [69. Яким запитом я можу витягнути всі дані з таблиці](https://tendil.github.io/tjh-knowledge-base#69-яким-запитом-я-можу-витягнути-всі-дані-з-таблиці)
+- [70. Що таке багато-до-багатьох (многие-ко-многим)](https://tendil.github.io/tjh-knowledge-base#70-що-таке-багато-до-багатьох-многие-ко-многим)
+- [71. Як реалізується М2М в SQL](https://tendil.github.io/tjh-knowledge-base#71-як-реалізується-м2м-в-sql)
+- [72. Що таке JOIN і яким він може бути](https://tendil.github.io/tjh-knowledge-base#72-що-таке-join-і-яким-він-може-бути)
+- [73. Що таке View](https://tendil.github.io/tjh-knowledge-base#73-що-таке-view)
+- [74. Що таке міксини](https://tendil.github.io/tjh-knowledge-base#74-що-таке-міксини)
+- [75. Префіксні та інфіксні оператори](https://tendil.github.io/tjh-knowledge-base#75-префіксні-та-інфіксні-оператори)
+- [76. Два способи створення класу](https://tendil.github.io/tjh-knowledge-base#76-два-способи-створення-класу)
+- [77. Чим файл .pyc відрізняється від .py](https://tendil.github.io/tjh-knowledge-base#77-чим-файл-pyc-відрізняється-від-py)
+- [78. Що робить python об'єктно-орієнтованим](https://tendil.github.io/tjh-knowledge-base#78-що-робить-python-обєктно-орієнтованим)
+- [79. Як проводиться відлагодження програми на Python](https://tendil.github.io/tjh-knowledge-base#79-як-проводиться-відлагодження-програми-на-python)
+- [80. Що таке GIL](https://tendil.github.io/tjh-knowledge-base#80-що-таке-gil)
+- [81. Що таке Django Middleware](https://tendil.github.io/tjh-knowledge-base#81-що-таке-django-middleware)
+- [82. Як вставити об'єкт так, щоб він опинився під певним індексом?](https://tendil.github.io/tjh-knowledge-base#82-як-вставити-обєкт-так-щоб-він-опинився-під-певним-індексом)
+- [83. Що потрібно зробити, щоб функція повертала значення? Використовувати оператор return або yield](https://tendil.github.io/tjh-knowledge-base#83-що-потрібно-зробити-щоб-функція-повертала-значення)
+- [84. Що якщо в функції не буде return, чи вона щось поверне?](https://tendil.github.io/tjh-knowledge-base#84-що-якщо-в-функції-не-буде-return-чи-вона-щось-поверне)
+- [85. Напишіть в одну строку, як можна отримати найпізнішу за кодом літеру у рядку](https://tendil.github.io/tjh-knowledge-base#85-напишіть-в-одну-строку-як-можна-отримати-найпізнішу-за-кодом-літеру-у-рядку)
+- [86. Як конвертувати список в рядок?](https://tendil.github.io/tjh-knowledge-base#86-як-конвертувати-список-в-рядок)
+- [87. Принципи SOLID](https://tendil.github.io/tjh-knowledge-base#87-принципи-solid)
+- [88. SQL JOIN](https://tendil.github.io/tjh-knowledge-base#88-sql-join)
+- [89. SQL оператор HAVING](https://tendil.github.io/tjh-knowledge-base#89-sql-оператор-having)
+- [90. Метакласи в Python](https://tendil.github.io/tjh-knowledge-base#90-метакласи-в-python)
+- [91. Множинне успадкування](https://tendil.github.io/tjh-knowledge-base#91-множинне-спадкування)
+- [92. Компоненти django](https://tendil.github.io/tjh-knowledge-base#92-компоненти-django)
+- [93. Які вбудовані типи доступні в Python](https://tendil.github.io/tjh-knowledge-base#93-які-вбудовані-типи-доступні-в-python)
+- [94. Mutable та immutable типи даних](https://tendil.github.io/tjh-knowledge-base#94-mutable-та-immutable-типи-даних)
+- [95. Лямбда-функція в Python](https://tendil.github.io/tjh-knowledge-base#95-лямбда-функція-в-python)
+- [96. Що означає простір імен](https://tendil.github.io/tjh-knowledge-base#96-що-означає-простір-імен)
+- [97. Чим відрізняється pickling від unpickling](https://tendil.github.io/tjh-knowledge-base#97-чим-відрізняється-pickling-від-unpickling)
+- [98. Різниця між генераторами та ітераторами](https://tendil.github.io/tjh-knowledge-base#98-різниця-між-генераторами-та-ітераторами)
+- [99. Як перетворити число в рядок](https://tendil.github.io/tjh-knowledge-base#99-як-перетворити-число-в-рядок)
+- [100. Обов'язково чи функція Python повинна повертати значення](https://tendil.github.io/tjh-knowledge-base#100-обовязково-чи-функція-python-повинна-повертати-значення)
+- [101. Чи існує в Python функція main()](https://tendil.github.io/tjh-knowledge-base#101-чи-існує-в-python-функція-main)
+- [102. Який метод використовувався перед оператором «in» для перевірки наявності ключа в словнику](https://tendil.github.io/tjh-knowledge-base#102-який-метод-використовувався-перед-оператором-in-для-перевірки-наявності-ключа-в-словнику)
+- [103. Управління пам'яттю в Python](https://tendil.github.io/tjh-knowledge-base#103-управління-памяттю-в-python)
+- [104. Що таке PYTHONPATH](https://tendil.github.io/tjh-knowledge-base#104-що-таке-pythonpath)
+- [105. Що таке модулі Python](https://tendil.github.io/tjh-knowledge-base#105-що-таке-модулі-python)
+- [106. Що означає self в Python](https://tendil.github.io/tjh-knowledge-base#106-що-означає-self-в-python)
+- [107. Як Python інтерпретується як мова](https://tendil.github.io/tjh-knowledge-base#107-як-python-інтерпретується-як-мова)
+- [108. Як інтерпретується Python](https://tendil.github.io/tjh-knowledge-base#108-як-інтерпретується-python)
+- [109. Як в Python керується пам'ятю](https://tendil.github.io/tjh-knowledge-base#109-як-в-python-керується-памятю)
+- [110. Що таке функція в Python](https://tendil.github.io/tjh-knowledge-base#110-що-таке-функція-в-python)
+- [111. Що таке локальні та глобальні змінні в Python](https://tendil.github.io/tjh-knowledge-base#111-що-таке-локальні-та-глобальні-змінні-в-python)
+- [112. Чому лямбда-форми в Python не мають операторів](https://tendil.github.io/tjh-knowledge-base#112-чому-лямбда-форми-в-python-не-мають-операторів)
+- [113. Від'ємні індекси і чому їх використовують](https://tendil.github.io/tjh-knowledge-base#113-відємні-індекси-і-чому-їх-використовують)
+- [114. Як отримати список усіх ключів в словнику](https://tendil.github.io/tjh-knowledge-base#114-як-отримати-список-усіх-ключів-в-словнику)
+- [115. Різниця між списком та кортежем](https://tendil.github.io/tjh-knowledge-base#115-різниця-між-списком-та-кортежем)
+- [116. Що таке ітератори в Python](https://tendil.github.io/tjh-knowledge-base#116-що-таке-ітератори-в-python)
+- [117. Що таке функція map в Python](https://tendil.github.io/tjh-knowledge-base#117-що-таке-функція-map-в-python)
+- [118. Що таке поверхнева копія](https://tendil.github.io/tjh-knowledge-base#118-що-таке-поверхнева-копія)
+- [119. Що таке глибока копія](https://tendil.github.io/tjh-knowledge-base#119-що-таке-глибока-копія)
+- [120. Що робить функція zip()](https://tendil.github.io/tjh-knowledge-base#120-що-робить-функція-zip)
+- [121. Що робить оператор with в Python](https://tendil.github.io/tjh-knowledge-base#121-що-робить-оператор-with-в-python)
+- [122. Коли виконується блок except в конструкції try-except](https://tendil.github.io/tjh-knowledge-base#122-коли-виконується-блок-except-в-конструкції-try-except)
+- [123. Де ви будете використовувати while замість for](https://tendil.github.io/tjh-knowledge-base#123-де-ви-будете-використовувати-while-замість-for)
+- [124. Чи є масиви NumPy в Python кращими за списки](https://tendil.github.io/tjh-knowledge-base#124-чи-є-масиви-numpy-в-python-кращими-за-списки)
+- [125. Як отримати поточний робочий каталог за допомогою Python](https://tendil.github.io/tjh-knowledge-base#125-як-отримати-поточний-робочий-каталог-за-допомогою-python)
+- [126. Що таке приведення в Python](https://tendil.github.io/tjh-knowledge-base#126-що-таке-приведення-в-python)
+- [127. Як можна видалити змінні в Python](https://tendil.github.io/tjh-knowledge-base#127-як-можна-видалити-змінні-в-python)
+- [128. В чому різниця між методами append та extend](https://tendil.github.io/tjh-knowledge-base#128-в-чому-різниця-між-методами-append-та-extend)
+- [129. Що означає *args, **kwargs і навіщо нам їх використовувати](https://tendil.github.io/tjh-knowledge-base#129-що-означає-args-kwargs-і-навіщо-нам-їх-використовувати)
+- [130. Що означає одинарний і подвійний підкреслення перед ім'ям об'єкта (dunder methods)](https://tendil.github.io/tjh-knowledge-base#130-що-означає-одинарний-і-подвійний-підкреслення-перед-ім'ям-об'єкта-dunder-methods)
+- [131. Що таке генератор](https://tendil.github.io/tjh-knowledge-base#131-що-таке-генератор)
+- [132. Яка мета одинарної змінної підкреслення в Python](https://tendil.github.io/tjh-knowledge-base#132-яка-мета-одинарної-змінної-підкреслення-в-python)
+- [133. Які типи успадкування існують в Python](https://tendil.github.io/tjh-knowledge-base#133-які-типи-спадкування-в-python)
+- [134. Що таке розпакування кортежу](https://tendil.github.io/tjh-knowledge-base#134-що-таке-розпакування-кортежу)
+- [135. Чи звільняється вся пам'ять після виходу з Python](https://tendil.github.io/tjh-knowledge-base#135-чи-звільняється-вся-пам'ять-після-виходу-з-python)
+- [136. Чи є функція дійсною, якщо вона не має оператора return](https://tendil.github.io/tjh-knowledge-base#136-чи-є-функція-дійсною-якщо-вона-не-має-оператора-return)
+- [137. На що корисно використовувати ООП](https://tendil.github.io/tjh-knowledge-base#137-на-що-корисно-використовувати-ооп)
+- [138. Що таке об'єкт](https://tendil.github.io/tjh-knowledge-base#138-що-таке-об'єкт)
+- [139. В чому різниця між класом та структурою](https://tendil.github.io/tjh-knowledge-base#139-в-чому-різниця-між-класом-та-структурою)
+- [140. Чи можете ви викликати метод базового класу без створення екземпляру](https://tendil.github.io/tjh-knowledge-base#140-чи-можете-ви-викликати-метод-базового-класу-без-створення-екземпляру)
+- [141. В чому різниця між класом та об'єктом](https://tendil.github.io/tjh-knowledge-base#141-в-чому-різниця-між-класом-та-об'єктом)
+- [142. Що таке суперклас](https://tendil.github.io/tjh-knowledge-base#142-що-таке-суперклас)
+- [143. Що таке підклас](https://tendil.github.io/tjh-knowledge-base#143-що-таке-підклас)
+- [144. Що таке абстракція](https://tendil.github.io/tjh-knowledge-base#144-що-таке-абстракція)
+- [145. Різниця між процедурним програмуванням та ООП](https://tendil.github.io/tjh-knowledge-base#145-різниця-між-процедурним-програмуванням-та-ооп)
+- [146. В чому різниця між модулем та пакетом в Python](https://tendil.github.io/tjh-knowledge-base#146-в-чому-різниця-між-модулем-та-пакетом-в-python)
 
 ## 2. GIT
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 
-- [1. Що таке Git](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#1-що-таке-git)
-- [2. Як створити локальний Git репозиторій](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#2-як-створити-локальний-git-репозиторій)
-- [3. Що таке git push](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#3-що-таке-git-push)
-- [4. Що робить git commit](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#4-що-робить-git-commit)
-- [5. Git merge та rebase](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#5-git-merge-та-rebase)
-- [6. Для чого використовують системи контролю версій](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#6-для-чого-використовують-системи-контролю-версій)
-- [7. Що таке Git і GitHub?](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#7-що-таке-git-і-github)
-- [8. Яка різниця між Git і GitHub?](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#8-яка-різниця-між-git-і-github)
-- [9. Які основні відмінності між Git і SVN?](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#9-які-основні-відмінності-між-git-і-svn)
-- [10. Які переваги використання GIT?](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#10-які-переваги-використання-git)
-- [11. Яка мова використовується в GIT](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#11-яка-мова-використовується-в-git)
-- [12. Що таке Git Bash](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#12-що-таке-git-bash)
-- [13. Що означає «Індекс» або «Посадкова область» у git (Staging Area)](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#13-що-означає-індекс-або-посадкова-область-у-git-staging-area)
-- [14. Що таке тегування в Git (tagging)](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#14-що-таке-тегування-в-git-tagging)
-- [15. Що таке forking в Git](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#15-що-таке-forking-в-git)
-- [16. Для чого корисний Git clone](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#16-для-чого-корисний-git-clone)
-- [17. Який процес створення репозиторію в Git](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#17-17-який-процес-створення-репозиторію-в-git)
-- [18. Що таке cherry-pick у Git](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#18-що-таке-cherry-pick-у-git)
-- [19. Що таке origin у Git](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#19-що-таке-origin-у-git)
-- [20. Що таке команда git pull](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#20-що-таке-команда-git-pull)
-- [21. Яка різниця між git fetch і git pull](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#21-яка-різниця-між-git-fetch-і-git-pull)
-- [22. Поясніть git checkout у Git](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#22-поясніть-git-checkout-у-git)
-- [23. Що робить git rebase](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#23-що-робить-git-rebase)
-- [24. Яка різниця між git rebase і git merge](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#24-яка-різниця-між-git-rebase-і-git-merge)
-- [25. Що таке git revert](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#25-що-таке-git-revert)
-- [26. Яка різниця між between resetting and reverting](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#26-яка-різниця-між-between-resetting-and-reverting)
-- [27. Яка різниця між «git remote» і «git clone»](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#27-яка-різниця-між-git-remote-і-git-clone)
-- [28. Що таке GIT stash](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#28-що-таке-git-stash)
-- [29. Чим fork, branch, и clone відрізняються один від одного](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#29-чим-fork-branch-и-clone-відрізняються-один-від-одного)
-- [30. Яка різниця між git reflog і log](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#30-яка-різниця-між-git-reflog-і-log)
-- [31. Що таке GIT stash drop](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#31-що-таке-git-stash-drop)
-- [32. Як визначити, чи певну гілку було об’єднано в головну](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#32-як-визначити-чи-певну-гілку-було-обєднано-в-головну)
-- [33. Для чого нам потрібні розгалуження в GIT](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#33-для-чого-нам-потрібні-розгалуження-в-git)
-- [34. Що містять складові об’єкта коміту](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#34-що-містять-складові-обєкта-коміту)
-- [35. Що таке HEAD у Git і скільки HEAD можна створити в репозиторії](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#35-що-таке-head-у-git-і-скільки-head-можна-створити-в-репозиторії)
-- [36. Який звичайний спосіб розгалуження в GIT](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#36-який-звичайний-спосіб-розгалуження-в-git)
-- [37. Як ви визначаєте «конфлікт» у git](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#37-як-ви-визначаєте-конфлікт-у-git)
-- [38. Як вирішити конфлікт у Git](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#38-як-вирішити-конфлікт-у-git)
-- [](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#)
-- [](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#)
-- [](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#)
-- [](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#)
-- [](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#)
-- [](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#)
-- [](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#)
-- [](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#)
-- [](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#)
-- [](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#)
-- [](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#)
-- [](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#)
-- [](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#)
-- [](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#)
+- [1. Що таке Git](https://tendil.github.io/tjh-knowledge-base#1-що-таке-git)
+- [2. Як створити локальний Git репозиторій](https://tendil.github.io/tjh-knowledge-base#2-як-створити-локальний-git-репозиторій)
+- [3. Що таке git push](https://tendil.github.io/tjh-knowledge-base#3-що-таке-git-push)
+- [4. Що робить git commit](https://tendil.github.io/tjh-knowledge-base#4-що-робить-git-commit)
+- [5. Git merge та rebase](https://tendil.github.io/tjh-knowledge-base#5-git-merge-та-rebase)
+- [6. Для чого використовують системи контролю версій](https://tendil.github.io/tjh-knowledge-base#6-для-чого-використовують-системи-контролю-версій)
+- [7. Що таке Git і GitHub?](https://tendil.github.io/tjh-knowledge-base#7-що-таке-git-і-github)
+- [8. Яка різниця між Git і GitHub?](https://tendil.github.io/tjh-knowledge-base#8-яка-різниця-між-git-і-github)
+- [9. Які основні відмінності між Git і SVN?](https://tendil.github.io/tjh-knowledge-base#9-які-основні-відмінності-між-git-і-svn)
+- [10. Які переваги використання GIT?](https://tendil.github.io/tjh-knowledge-base#10-які-переваги-використання-git)
+- [11. Яка мова використовується в GIT](https://tendil.github.io/tjh-knowledge-base#11-яка-мова-використовується-в-git)
+- [12. Що таке Git Bash](https://tendil.github.io/tjh-knowledge-base#12-що-таке-git-bash)
+- [13. Що означає «Індекс» або «Посадкова область» у git (Staging Area)](https://tendil.github.io/tjh-knowledge-base#13-що-означає-індекс-або-посадкова-область-у-git-staging-area)
+- [14. Що таке тегування в Git (tagging)](https://tendil.github.io/tjh-knowledge-base#14-що-таке-тегування-в-git-tagging)
+- [15. Що таке forking в Git](https://tendil.github.io/tjh-knowledge-base#15-що-таке-forking-в-git)
+- [16. Для чого корисний Git clone](https://tendil.github.io/tjh-knowledge-base#16-для-чого-корисний-git-clone)
+- [17. Який процес створення репозиторію в Git](https://tendil.github.io/tjh-knowledge-base#17-17-який-процес-створення-репозиторію-в-git)
+- [18. Що таке cherry-pick у Git](https://tendil.github.io/tjh-knowledge-base#18-що-таке-cherry-pick-у-git)
+- [19. Що таке origin у Git](https://tendil.github.io/tjh-knowledge-base#19-що-таке-origin-у-git)
+- [20. Що таке команда git pull](https://tendil.github.io/tjh-knowledge-base#20-що-таке-команда-git-pull)
+- [21. Яка різниця між git fetch і git pull](https://tendil.github.io/tjh-knowledge-base#21-яка-різниця-між-git-fetch-і-git-pull)
+- [22. Поясніть git checkout у Git](https://tendil.github.io/tjh-knowledge-base#22-поясніть-git-checkout-у-git)
+- [23. Що робить git rebase](https://tendil.github.io/tjh-knowledge-base#23-що-робить-git-rebase)
+- [24. Яка різниця між git rebase і git merge](https://tendil.github.io/tjh-knowledge-base#24-яка-різниця-між-git-rebase-і-git-merge)
+- [25. Що таке git revert](https://tendil.github.io/tjh-knowledge-base#25-що-таке-git-revert)
+- [26. Яка різниця між between resetting and reverting](https://tendil.github.io/tjh-knowledge-base#26-яка-різниця-між-between-resetting-and-reverting)
+- [27. Яка різниця між «git remote» і «git clone»](https://tendil.github.io/tjh-knowledge-base#27-яка-різниця-між-git-remote-і-git-clone)
+- [28. Що таке GIT stash](https://tendil.github.io/tjh-knowledge-base#28-що-таке-git-stash)
+- [29. Чим fork, branch, и clone відрізняються один від одного](https://tendil.github.io/tjh-knowledge-base#29-чим-fork-branch-и-clone-відрізняються-один-від-одного)
+- [30. Яка різниця між git reflog і log](https://tendil.github.io/tjh-knowledge-base#30-яка-різниця-між-git-reflog-і-log)
+- [31. Що таке GIT stash drop](https://tendil.github.io/tjh-knowledge-base#31-що-таке-git-stash-drop)
+- [32. Як визначити, чи певну гілку було об’єднано в головну](https://tendil.github.io/tjh-knowledge-base#32-як-визначити-чи-певну-гілку-було-обєднано-в-головну)
+- [33. Для чого нам потрібні розгалуження в GIT](https://tendil.github.io/tjh-knowledge-base#33-для-чого-нам-потрібні-розгалуження-в-git)
+- [34. Що містять складові об’єкта коміту](https://tendil.github.io/tjh-knowledge-base#34-що-містять-складові-обєкта-коміту)
+- [35. Що таке HEAD у Git і скільки HEAD можна створити в репозиторії](https://tendil.github.io/tjh-knowledge-base#35-що-таке-head-у-git-і-скільки-head-можна-створити-в-репозиторії)
+- [36. Який звичайний спосіб розгалуження в GIT](https://tendil.github.io/tjh-knowledge-base#36-який-звичайний-спосіб-розгалуження-в-git)
+- [37. Як ви визначаєте «конфлікт» у git](https://tendil.github.io/tjh-knowledge-base#37-як-ви-визначаєте-конфлікт-у-git)
+- [38. Як вирішити конфлікт у Git](https://tendil.github.io/tjh-knowledge-base#38-як-вирішити-конфлікт-у-git)
+- [](https://tendil.github.io/tjh-knowledge-base#)
+- [](https://tendil.github.io/tjh-knowledge-base#)
+- [](https://tendil.github.io/tjh-knowledge-base#)
+- [](https://tendil.github.io/tjh-knowledge-base#)
+- [](https://tendil.github.io/tjh-knowledge-base#)
+- [](https://tendil.github.io/tjh-knowledge-base#)
+- [](https://tendil.github.io/tjh-knowledge-base#)
+- [](https://tendil.github.io/tjh-knowledge-base#)
+- [](https://tendil.github.io/tjh-knowledge-base#)
+- [](https://tendil.github.io/tjh-knowledge-base#)
+- [](https://tendil.github.io/tjh-knowledge-base#)
+- [](https://tendil.github.io/tjh-knowledge-base#)
+- [](https://tendil.github.io/tjh-knowledge-base#)
+- [](https://tendil.github.io/tjh-knowledge-base#)
 
 ## 3. JavaScript
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 
 | №   | Питання                                                                                                                                                                                                                                                                                     |
 |-----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1   | [Які існують способи створення об'єктів у JavaScript](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#1-які-існують-способи-створення-обєктів-у-javascript)                                                                                             |
-| 2   | [Що таке ланцюг прототипів](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#2-що-таке-ланцюг-прототипів)                                                                                                                                                |
-| 3   | [В чому різниця між методами Call, Apply та Bind](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#3-в-чому-різниця-між-методами-call-apply-та-bind)                                                                                                     |
-| 4   | [Що таке JSON та його загальні операції](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#4-що-таке-json-та-його-загальні-операції)                                                                                                                      |
-| 5   | [Яка мета методу slice для масиву](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#5-яка-мета-методу-slice-для-масиву)                                                                                                                                  |
-| 6   | [Яка мета методу splice для масиву](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#6-яка-мета-методу-splice-для-масиву)                                                                                                                                |
-| 7   | [В чому різниця між slice та splice](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#7-в-чому-різниця-між-slice-та-splice)                                                                                                                              |
-| 8   | [Як порівняти Об'єкт із Map](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#8-як-порівняти-обєкт-із-map)                                                                                                                                               |
-| 9   | [В чому різниця між операторами == та ===](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#9-в-чому-різниця-між-операторами--та--operators)                                                                                                             |
-| 10  | [Що таке лямбда- або стрілкові функції](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#10-що-таке-лямбда-або-стрілкові-функції)                                                                                                                        |
-| 11  | [Що таке функція першого класу](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#11-що-таке-функція-першого-класу)                                                                                                                                       |
-| 12  | [Що таке функція першого порядку](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#12-що-таке-функція-першого-порядку)                                                                                                                                   |
-| 13  | [Що таке функція вищого порядку](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#13-що-таке-функція-вищого-порядку)                                                                                                                                     |
-| 14  | [Що таке унарна функція](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#14-що-таке-унарна-функція)                                                                                                                                                     |
-| 15  | [Що таке функція каррінг](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#15-що-таке-функція-каррінг)                                                                                                                                                   |
-| 16  | [Що таке чиста функція](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#16-що-таке-чиста-функція)                                                                                                                                                       |
-| 17  | [Яка мета ключового слова let](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#17-яка-мета-ключового-слова-let)                                                                                                                                         |
-| 18  | [В чому різниця між let та var](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#18-в-чому-різниця-між-let-та-var)                                                                                                                                       |
-| 19  | [Яка причина вибору назви let як ключового слова](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#19-яка-причина-вибору-назви-let-як-ключового-слова)                                                                                                   |
-| 20  | [Як перевизначити змінні в switch блоку без помилки](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#20-як-перевизначити-змінні-в-switch-блоку-без-помилки)                                                                                             |
-| 21  | [Що таке Тимчасова мертва зона](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#21-що-таке-тимчасова-мертва-зона)                                                                                                                                       |
-| 22  | [Що таке Негайно Викликані Функціональні Вирази (IIFE)](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#22-що-таке-негайно-викликані-функціональні-вирази-iife)                                                                                         |
-| 23  | [Як декодувати або закодувати URL в JavaScript?](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#23-як-декодувати-або-закодувати-url-в-javascript)                                                                                                      |
-| 24  | [Що таке мемоізація](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#24-що-таке-мемоізація)                                                                                                                                                             |
-| 25  | [Що таке Хойстінг](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#25-що-таке-хойстінг)                                                                                                                                                                 |
-| 26  | [Що таке класи в ES6](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#26-що-таке-класи-в-es6)                                                                                                                                                           |
-| 27  | [Що таке замикання](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#27-що-таке-замикання)                                                                                                                                                               |
-| 28  | [Що таке модулі](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#28-що-таке-модулі)                                                                                                                                                                     |
-| 29  | [Чому вам потрібні модулі](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#29-чому-вам-потрібні-модулі)                                                                                                                                                 |
-| 30  | [Що таке область видимості в JavaScript](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#30-що-таке-область-видимості-в-javascript)                                                                                                                     |
-| 31  | [Що таке сервісний працівник (service worker)](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#31-що-таке-сервісний-працівник-service-worker)                                                                                                           |
-| 32  | [Як ви змінюєте DOM, використовуючи сервісний працівник (service worker)](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#32-як-ви-змінюєте-dom-використовуючи-сервісний-працівник-service-worker)                                                      |
-| 33  | [Як ви перевикористовуєте інформацію під час перезапуску сервісного працівника (service worker)](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#33-як-ви-перевикористовуєте-інформацію-під-час-перезапуску-сервісного-працівника-service-worker)       |
-| 34  | [Що таке IndexedDB](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#34-що-таке-indexeddb)                                                                                                                                                               |
-| 35  | [Що таке веб-сховище (web storage)](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#35-що-таке-веб-сховище-web-storage)                                                                                                                                 |
-| 36  | [Що таке пост-повідомлення (post message)](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#36-що-таке-пост-повідомлення-post-message)                                                                                                                   |
-| 37  | [Що таке кука (cookie)](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#37-що-таке-кука-cookie)                                                                                                                                                         |
-| 38  | [Чому вам потрібна кука (cookie)](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#38-чому-вам-потрібна-кука-cookie)                                                                                                                                     |
-| 39  | [Які параметри куки (cookie)](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#39-які-параметри-куки-cookie)                                                                                                                                             |
-| 40  | [Як видаляти куку (cookie)](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#40-як-видаляти-куку-cookie)                                                                                                                                                 |
-| 41  | [Яка різниця між кукою, локальним сховищем та сеансовим сховищем (local storage та session storage)](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#41-яка-різниця-між-кукою-локальним-сховищем-та-сеансовим-сховищем-local-storage-та-session-storage) |
-| 42  | [Яка основна різниця між localStorage та sessionStorage](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#42-яка-основна-різниця-між-localstorage-та-sessionstorage)                                                                                     |
-| 43  | [Як отримати доступ до веб-сховища (web storage)](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#43-як-отримати-доступ-до-веб-сховища-web-storage)                                                                                                     |
-| 44  | [Які методи доступні для сеансового сховища (session storage)](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#44-які-методи-доступні-для-сеансового-сховища-session-storage)                                                                           |
-| 45  | [Що таке подія сховища (storage event) та його обробник події (event handler)](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#45-що-таке-подія-сховища-storage-event-та-його-обробник-події-event-handler)                                             |
-| 46  | [Чому вам потрібне веб-сховище (web storage)](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#46-чому-вам-потрібне-веб-сховище-web-storage)                                                                                                             |
-| 47  | [Як перевірити підтримку веб-сховища браузером (browser support)](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#47-як-перевірити-підтримку-веб-сховища-браузером-browser-support)                                                                     |
-| 48  | [Як перевірити підтримку веб-працівників браузером (browser support)](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#48-як-перевірити-підтримку-веб-працівників-браузером-browser-support)                                                             |
-| 49  | [Надайте приклад веб-працівника (web worker)](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#49-надайте-приклад-веб-працівника-web-worker)                                                                                                             |
-| 50  | [Які обмеження веб-працівників на DOM](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#50-які-обмеження-веб-працівників-на-dom)                                                                                                                         |
-| 51  | [Що таке обіцянка (promise)](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#51-що-таке-обіцянка-promise)                                                                                                                                               |
-| 52  | [Чому вам потрібна обіцянка (promise)](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#52-чому-вам-потрібна-обіцянка-promise)                                                                                                                           |
-| 53  | [Які три стани у обіцянки (promise)](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#53-які-три-стані-у-обіцянки-promise)                                                                                                                               |
-| 54  | [Що таке зворотний виклик (callback function)](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#54-що-таке-зворотний-виклик-callback-function)                                                                                                           |
-| 55  | [Чому нам потрібні зворотні виклики (callbacks)](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#55-чому-нам-потрібні-зворотні-виклики-callbacks)                                                                                                       |
-| 56  | [Що таке "інферно зворотніх викликів" (callback hell)](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#56-що-таке-інферно-зворотніх-викликів-callback-hell)                                                                                             |
-| 57  | [Що таке події, відправлені з сервера (server-sent events)](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#57-що-таке-події-відправлені-з-сервера-server-sent-events)                                                                                  |
-| 58  | [Як ви отримуєте повідомлення подій, відправлених з сервера (server-sent events)](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#58-як-ви-отримуєте-повідомлення-подій-відправлених-з-сервера-server-sent-events)                                      |
-| 59  | [Як перевірити підтримку браузером для подій, відправлених з сервера (server-sent events)](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#59-як-перевірити-підтримку-браузером-для-подій-відправлених-з-сервера-server-sent-events)                    |
-| 60  | [Які події доступні для подій, відправлених з сервера (server-sent events)](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#60-які-події-доступні-для-подій-відправлених-з-сервера-server-sent-events)                                                  |
-| 61  | [Які події доступні для подій, відправлених з сервера (server-sent events)](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#60-які-події-доступні-для-подій-відправлених-з-сервера-server-sent-events)                                                  |
-| 62  | [Які основні правила обіцянок (promise)](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#61-які-основні-правила-обіцянок-promise)                                                                                                                       |                                                                                                                                                                                                             |
-| 63  | [Що таке зворотній виклик у зворотньому виклику (callback in callback)](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#62-що-таке-зворотній-виклик-у-зворотньому-виклику-callback-in-callback)                                                         |
-| 63  | [Що таке ланцюг обіцянок (promise chaining)](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#63-що-таке-ланцюг-обіцянок-promise-chaining)                                                                                                               |
-| 64  | [Що таке promise.all](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#64-що-таке-promiseall)                                                                                                                                                            |
-| 65  | [Яка мета методу race у обіцянок (promise)](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#65-яка-мета-методу-race-у-обіцянок-promise)                                                                                                                 |
-| 66  | [Що таке строгий режим у JavaScript (strict mode)](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#66-що-таке-строгий-режим-у-javascript-strict-mode)                                                                                                   |
-| 67  | [Чому вам потрібен строгий режим (strict mode)](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#67-чому-вам-потрібен-строгий-режим-strict-mode)                                                                                                         |
-| 68  | [Як ви оголошуєте строгий режим (strict mode)](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#68-як-ви-оголошуєте-строгий-режим-strict-mode)                                                                                                           |
-| 69  | [Яка мета подвійного оклику (!!) (double exclamation)](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#69-яка-мета-подвійного-оклику-double-exclamation)                                                                                                |
-| 70  | [Яка мета оператора delete](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#70-яка-мета-оператора-delete)                                                                                                                                               |
-| 71  | [Який оператор typeof](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#71-який-оператор-typeof)                                                                                                                                                         |
-| 72  | [Що таке властивість undefined](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#72-що-таке-властивість-undefined)                                                                                                                                       |
-| 73  | [Що таке значення null](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#73-що-таке-значення-null)                                                                                                                                                       |
-| 74  | [Яка різниця між значенням null та undefined](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#74-яка-різниця-між-значенням-null-та-undefined)                                                                                                           |
-| 75  | [Що таке функція eval](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#75-що-таке-функція-eval)                                                                                                                                                         |
-| 76  | [Яка різниця між об'єктом window та document](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#76-яка-різниця-між-об'єктом-window-та-document)                                                                                                           |
-| 77  | [Як ви отримуєте доступ до історії у JavaScript](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#77-як-ви-отримуєте-доступ-до-історії-у-javascript)                                                                                                     |
-| 78  | [Як ви визначаєте, чи включена клавіша Caps Lock, чи ні](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#78-як-ви-визначаєте-чи-включена-клавіша-caps-lock-чи-ні)                                                                                       |
-| 79  | [Що таке функція isNaN](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#79-що-таке-функція-isnan)                                                                                                                                                       |
+| 1   | [Які існують способи створення об'єктів у JavaScript](https://tendil.github.io/tjh-knowledge-base#1-які-існують-способи-створення-обєктів-у-javascript)                                                                                             |
+| 2   | [Що таке ланцюг прототипів](https://tendil.github.io/tjh-knowledge-base#2-що-таке-ланцюг-прототипів)                                                                                                                                                |
+| 3   | [В чому різниця між методами Call, Apply та Bind](https://tendil.github.io/tjh-knowledge-base#3-в-чому-різниця-між-методами-call-apply-та-bind)                                                                                                     |
+| 4   | [Що таке JSON та його загальні операції](https://tendil.github.io/tjh-knowledge-base#4-що-таке-json-та-його-загальні-операції)                                                                                                                      |
+| 5   | [Яка мета методу slice для масиву](https://tendil.github.io/tjh-knowledge-base#5-яка-мета-методу-slice-для-масиву)                                                                                                                                  |
+| 6   | [Яка мета методу splice для масиву](https://tendil.github.io/tjh-knowledge-base#6-яка-мета-методу-splice-для-масиву)                                                                                                                                |
+| 7   | [В чому різниця між slice та splice](https://tendil.github.io/tjh-knowledge-base#7-в-чому-різниця-між-slice-та-splice)                                                                                                                              |
+| 8   | [Як порівняти Об'єкт із Map](https://tendil.github.io/tjh-knowledge-base#8-як-порівняти-обєкт-із-map)                                                                                                                                               |
+| 9   | [В чому різниця між операторами == та ===](https://tendil.github.io/tjh-knowledge-base#9-в-чому-різниця-між-операторами--та--operators)                                                                                                             |
+| 10  | [Що таке лямбда- або стрілкові функції](https://tendil.github.io/tjh-knowledge-base#10-що-таке-лямбда-або-стрілкові-функції)                                                                                                                        |
+| 11  | [Що таке функція першого класу](https://tendil.github.io/tjh-knowledge-base#11-що-таке-функція-першого-класу)                                                                                                                                       |
+| 12  | [Що таке функція першого порядку](https://tendil.github.io/tjh-knowledge-base#12-що-таке-функція-першого-порядку)                                                                                                                                   |
+| 13  | [Що таке функція вищого порядку](https://tendil.github.io/tjh-knowledge-base#13-що-таке-функція-вищого-порядку)                                                                                                                                     |
+| 14  | [Що таке унарна функція](https://tendil.github.io/tjh-knowledge-base#14-що-таке-унарна-функція)                                                                                                                                                     |
+| 15  | [Що таке функція каррінг](https://tendil.github.io/tjh-knowledge-base#15-що-таке-функція-каррінг)                                                                                                                                                   |
+| 16  | [Що таке чиста функція](https://tendil.github.io/tjh-knowledge-base#16-що-таке-чиста-функція)                                                                                                                                                       |
+| 17  | [Яка мета ключового слова let](https://tendil.github.io/tjh-knowledge-base#17-яка-мета-ключового-слова-let)                                                                                                                                         |
+| 18  | [В чому різниця між let та var](https://tendil.github.io/tjh-knowledge-base#18-в-чому-різниця-між-let-та-var)                                                                                                                                       |
+| 19  | [Яка причина вибору назви let як ключового слова](https://tendil.github.io/tjh-knowledge-base#19-яка-причина-вибору-назви-let-як-ключового-слова)                                                                                                   |
+| 20  | [Як перевизначити змінні в switch блоку без помилки](https://tendil.github.io/tjh-knowledge-base#20-як-перевизначити-змінні-в-switch-блоку-без-помилки)                                                                                             |
+| 21  | [Що таке Тимчасова мертва зона](https://tendil.github.io/tjh-knowledge-base#21-що-таке-тимчасова-мертва-зона)                                                                                                                                       |
+| 22  | [Що таке Негайно Викликані Функціональні Вирази (IIFE)](https://tendil.github.io/tjh-knowledge-base#22-що-таке-негайно-викликані-функціональні-вирази-iife)                                                                                         |
+| 23  | [Як декодувати або закодувати URL в JavaScript?](https://tendil.github.io/tjh-knowledge-base#23-як-декодувати-або-закодувати-url-в-javascript)                                                                                                      |
+| 24  | [Що таке мемоізація](https://tendil.github.io/tjh-knowledge-base#24-що-таке-мемоізація)                                                                                                                                                             |
+| 25  | [Що таке Хойстінг](https://tendil.github.io/tjh-knowledge-base#25-що-таке-хойстінг)                                                                                                                                                                 |
+| 26  | [Що таке класи в ES6](https://tendil.github.io/tjh-knowledge-base#26-що-таке-класи-в-es6)                                                                                                                                                           |
+| 27  | [Що таке замикання](https://tendil.github.io/tjh-knowledge-base#27-що-таке-замикання)                                                                                                                                                               |
+| 28  | [Що таке модулі](https://tendil.github.io/tjh-knowledge-base#28-що-таке-модулі)                                                                                                                                                                     |
+| 29  | [Чому вам потрібні модулі](https://tendil.github.io/tjh-knowledge-base#29-чому-вам-потрібні-модулі)                                                                                                                                                 |
+| 30  | [Що таке область видимості в JavaScript](https://tendil.github.io/tjh-knowledge-base#30-що-таке-область-видимості-в-javascript)                                                                                                                     |
+| 31  | [Що таке сервісний працівник (service worker)](https://tendil.github.io/tjh-knowledge-base#31-що-таке-сервісний-працівник-service-worker)                                                                                                           |
+| 32  | [Як ви змінюєте DOM, використовуючи сервісний працівник (service worker)](https://tendil.github.io/tjh-knowledge-base#32-як-ви-змінюєте-dom-використовуючи-сервісний-працівник-service-worker)                                                      |
+| 33  | [Як ви перевикористовуєте інформацію під час перезапуску сервісного працівника (service worker)](https://tendil.github.io/tjh-knowledge-base#33-як-ви-перевикористовуєте-інформацію-під-час-перезапуску-сервісного-працівника-service-worker)       |
+| 34  | [Що таке IndexedDB](https://tendil.github.io/tjh-knowledge-base#34-що-таке-indexeddb)                                                                                                                                                               |
+| 35  | [Що таке веб-сховище (web storage)](https://tendil.github.io/tjh-knowledge-base#35-що-таке-веб-сховище-web-storage)                                                                                                                                 |
+| 36  | [Що таке пост-повідомлення (post message)](https://tendil.github.io/tjh-knowledge-base#36-що-таке-пост-повідомлення-post-message)                                                                                                                   |
+| 37  | [Що таке кука (cookie)](https://tendil.github.io/tjh-knowledge-base#37-що-таке-кука-cookie)                                                                                                                                                         |
+| 38  | [Чому вам потрібна кука (cookie)](https://tendil.github.io/tjh-knowledge-base#38-чому-вам-потрібна-кука-cookie)                                                                                                                                     |
+| 39  | [Які параметри куки (cookie)](https://tendil.github.io/tjh-knowledge-base#39-які-параметри-куки-cookie)                                                                                                                                             |
+| 40  | [Як видаляти куку (cookie)](https://tendil.github.io/tjh-knowledge-base#40-як-видаляти-куку-cookie)                                                                                                                                                 |
+| 41  | [Яка різниця між кукою, локальним сховищем та сеансовим сховищем (local storage та session storage)](https://tendil.github.io/tjh-knowledge-base#41-яка-різниця-між-кукою-локальним-сховищем-та-сеансовим-сховищем-local-storage-та-session-storage) |
+| 42  | [Яка основна різниця між localStorage та sessionStorage](https://tendil.github.io/tjh-knowledge-base#42-яка-основна-різниця-між-localstorage-та-sessionstorage)                                                                                     |
+| 43  | [Як отримати доступ до веб-сховища (web storage)](https://tendil.github.io/tjh-knowledge-base#43-як-отримати-доступ-до-веб-сховища-web-storage)                                                                                                     |
+| 44  | [Які методи доступні для сеансового сховища (session storage)](https://tendil.github.io/tjh-knowledge-base#44-які-методи-доступні-для-сеансового-сховища-session-storage)                                                                           |
+| 45  | [Що таке подія сховища (storage event) та його обробник події (event handler)](https://tendil.github.io/tjh-knowledge-base#45-що-таке-подія-сховища-storage-event-та-його-обробник-події-event-handler)                                             |
+| 46  | [Чому вам потрібне веб-сховище (web storage)](https://tendil.github.io/tjh-knowledge-base#46-чому-вам-потрібне-веб-сховище-web-storage)                                                                                                             |
+| 47  | [Як перевірити підтримку веб-сховища браузером (browser support)](https://tendil.github.io/tjh-knowledge-base#47-як-перевірити-підтримку-веб-сховища-браузером-browser-support)                                                                     |
+| 48  | [Як перевірити підтримку веб-працівників браузером (browser support)](https://tendil.github.io/tjh-knowledge-base#48-як-перевірити-підтримку-веб-працівників-браузером-browser-support)                                                             |
+| 49  | [Надайте приклад веб-працівника (web worker)](https://tendil.github.io/tjh-knowledge-base#49-надайте-приклад-веб-працівника-web-worker)                                                                                                             |
+| 50  | [Які обмеження веб-працівників на DOM](https://tendil.github.io/tjh-knowledge-base#50-які-обмеження-веб-працівників-на-dom)                                                                                                                         |
+| 51  | [Що таке обіцянка (promise)](https://tendil.github.io/tjh-knowledge-base#51-що-таке-обіцянка-promise)                                                                                                                                               |
+| 52  | [Чому вам потрібна обіцянка (promise)](https://tendil.github.io/tjh-knowledge-base#52-чому-вам-потрібна-обіцянка-promise)                                                                                                                           |
+| 53  | [Які три стани у обіцянки (promise)](https://tendil.github.io/tjh-knowledge-base#53-які-три-стані-у-обіцянки-promise)                                                                                                                               |
+| 54  | [Що таке зворотний виклик (callback function)](https://tendil.github.io/tjh-knowledge-base#54-що-таке-зворотний-виклик-callback-function)                                                                                                           |
+| 55  | [Чому нам потрібні зворотні виклики (callbacks)](https://tendil.github.io/tjh-knowledge-base#55-чому-нам-потрібні-зворотні-виклики-callbacks)                                                                                                       |
+| 56  | [Що таке "інферно зворотніх викликів" (callback hell)](https://tendil.github.io/tjh-knowledge-base#56-що-таке-інферно-зворотніх-викликів-callback-hell)                                                                                             |
+| 57  | [Що таке події, відправлені з сервера (server-sent events)](https://tendil.github.io/tjh-knowledge-base#57-що-таке-події-відправлені-з-сервера-server-sent-events)                                                                                  |
+| 58  | [Як ви отримуєте повідомлення подій, відправлених з сервера (server-sent events)](https://tendil.github.io/tjh-knowledge-base#58-як-ви-отримуєте-повідомлення-подій-відправлених-з-сервера-server-sent-events)                                      |
+| 59  | [Як перевірити підтримку браузером для подій, відправлених з сервера (server-sent events)](https://tendil.github.io/tjh-knowledge-base#59-як-перевірити-підтримку-браузером-для-подій-відправлених-з-сервера-server-sent-events)                    |
+| 60  | [Які події доступні для подій, відправлених з сервера (server-sent events)](https://tendil.github.io/tjh-knowledge-base#60-які-події-доступні-для-подій-відправлених-з-сервера-server-sent-events)                                                  |
+| 61  | [Які події доступні для подій, відправлених з сервера (server-sent events)](https://tendil.github.io/tjh-knowledge-base#60-які-події-доступні-для-подій-відправлених-з-сервера-server-sent-events)                                                  |
+| 62  | [Які основні правила обіцянок (promise)](https://tendil.github.io/tjh-knowledge-base#61-які-основні-правила-обіцянок-promise)                                                                                                                       |                                                                                                                                                                                                             |
+| 63  | [Що таке зворотній виклик у зворотньому виклику (callback in callback)](https://tendil.github.io/tjh-knowledge-base#62-що-таке-зворотній-виклик-у-зворотньому-виклику-callback-in-callback)                                                         |
+| 63  | [Що таке ланцюг обіцянок (promise chaining)](https://tendil.github.io/tjh-knowledge-base#63-що-таке-ланцюг-обіцянок-promise-chaining)                                                                                                               |
+| 64  | [Що таке promise.all](https://tendil.github.io/tjh-knowledge-base#64-що-таке-promiseall)                                                                                                                                                            |
+| 65  | [Яка мета методу race у обіцянок (promise)](https://tendil.github.io/tjh-knowledge-base#65-яка-мета-методу-race-у-обіцянок-promise)                                                                                                                 |
+| 66  | [Що таке строгий режим у JavaScript (strict mode)](https://tendil.github.io/tjh-knowledge-base#66-що-таке-строгий-режим-у-javascript-strict-mode)                                                                                                   |
+| 67  | [Чому вам потрібен строгий режим (strict mode)](https://tendil.github.io/tjh-knowledge-base#67-чому-вам-потрібен-строгий-режим-strict-mode)                                                                                                         |
+| 68  | [Як ви оголошуєте строгий режим (strict mode)](https://tendil.github.io/tjh-knowledge-base#68-як-ви-оголошуєте-строгий-режим-strict-mode)                                                                                                           |
+| 69  | [Яка мета подвійного оклику (!!) (double exclamation)](https://tendil.github.io/tjh-knowledge-base#69-яка-мета-подвійного-оклику-double-exclamation)                                                                                                |
+| 70  | [Яка мета оператора delete](https://tendil.github.io/tjh-knowledge-base#70-яка-мета-оператора-delete)                                                                                                                                               |
+| 71  | [Який оператор typeof](https://tendil.github.io/tjh-knowledge-base#71-який-оператор-typeof)                                                                                                                                                         |
+| 72  | [Що таке властивість undefined](https://tendil.github.io/tjh-knowledge-base#72-що-таке-властивість-undefined)                                                                                                                                       |
+| 73  | [Що таке значення null](https://tendil.github.io/tjh-knowledge-base#73-що-таке-значення-null)                                                                                                                                                       |
+| 74  | [Яка різниця між значенням null та undefined](https://tendil.github.io/tjh-knowledge-base#74-яка-різниця-між-значенням-null-та-undefined)                                                                                                           |
+| 75  | [Що таке функція eval](https://tendil.github.io/tjh-knowledge-base#75-що-таке-функція-eval)                                                                                                                                                         |
+| 76  | [Яка різниця між об'єктом window та document](https://tendil.github.io/tjh-knowledge-base#76-яка-різниця-між-об'єктом-window-та-document)                                                                                                           |
+| 77  | [Як ви отримуєте доступ до історії у JavaScript](https://tendil.github.io/tjh-knowledge-base#77-як-ви-отримуєте-доступ-до-історії-у-javascript)                                                                                                     |
+| 78  | [Як ви визначаєте, чи включена клавіша Caps Lock, чи ні](https://tendil.github.io/tjh-knowledge-base#78-як-ви-визначаєте-чи-включена-клавіша-caps-lock-чи-ні)                                                                                       |
+| 79  | [Що таке функція isNaN](https://tendil.github.io/tjh-knowledge-base#79-що-таке-функція-isnan)                                                                                                                                                       |
 | 80  | [Яка різниця між змінними, які не оголошені, та змінними, які мають значення undefined](#яка-різниця-між-змінними-які-не-оголошені-та-змінними-які-мають-значення-undefined)                                                                                                                |
-| 81  | [Що таке глобальні змінні](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#81-що-таке-глобальні-змінні)                                                                                                                                                 |
-| 82  | [Які проблеми із глобальними змінними](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#82-які-проблеми-із-глобальними-змінними)                                                                                                                         |
-| 83  | [Що таке властивість NaN](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#83-що-таке-властивість-nan)                                                                                                                                                   |
-| 84  | [Яка мета функції isFinite](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#84-яка-мета-функції-isfinite)                                                                                                                                               |
-| 85  | [Що таке потік подій (event flow)](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#85-що-таке-потік-подій-event-flow)                                                                                                                                   |
-| 86  | [Що таке всплиття подій (event bubbling)](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#86-що-таке-всплиття-подій-event-bubbling)                                                                                                                     |
-| 87  | [Що таке захоплення подій (event capturing)](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#87-що-таке-захоплення-подій-event-capturing)                                                                                                               |
-| 88  | [Як ви відправляєте форму за допомогою JavaScript](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#88-як-ви-відправляєте-форму-за-допомогою-javascript)                                                                                                 |
-| 89  | [Як ви знаходите деталі операційної системи](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#89-як-ви-знаходите-деталі-операційної-системи)                                                                                                             |
-| 90  | [Яка різниця між подіями document load та DOMContentLoaded](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#90-яка-різниця-між-подіями-document-load-та-domcontentloaded)                                                                               |
-| 91  | [Яка різниця між вбудованими (native), господарськими (host) та користувацькими (user) об'єктами](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#91-яка-різниця-між-вбудованими-native-господарськими-host-та-користувацькими-user-обєктами)           |
-| 92  | [Які інструменти або техніки використовуються для відлагодження коду JavaScript](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#92-які-інструменти-або-техніки-використовуються-для-відлагодження-коду-javascript)                                     |
-| 93  | [Які переваги та недоліки обіцянок (promises) порівняно зі зворотніми викликами (callbacks)](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#93-які-переваги-та-недоліки-обіцянок-promises-порівняно-зі-зворотніми-викликами-callbacks)                 |
-| 94  | [Яка різниця між атрибутом та властивістю (property)](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#94-яка-різниця-між-атрибутом-та-властивістю-property)                                                                                             |
-| 95  | [Що таке політика однакового походження (same-origin policy)](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#95-що-таке-політика-однакового-походження-same-origin-policy)                                                                             |
-| 96  | [Яка мета фрази void 0](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#96-яка-мета-фрази-void-0)                                                                                                                                                       |
-| 97  | [Чи є JavaScript компільованою чи інтерпретованою мовою](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#97-чи-є-javascript-компільованою-чи-інтерпретованою-мовою)                                                                                     |
-| 98  | [Чи є JavaScript чутливою до регістру мовою](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#98-чи-є-javascript-чутливою-до-регістру-мовою)                                                                                                             |
-| 99  | [Чи існує якась зв'язок між Java та JavaScript](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#99-чи-існує-якась-зв'язок-між-java-та-javascript)                                                                                                       |
-| 100 | [Що таке події (events)](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#100-що-таке-події-events)                                                                                                                                                      |
+| 81  | [Що таке глобальні змінні](https://tendil.github.io/tjh-knowledge-base#81-що-таке-глобальні-змінні)                                                                                                                                                 |
+| 82  | [Які проблеми із глобальними змінними](https://tendil.github.io/tjh-knowledge-base#82-які-проблеми-із-глобальними-змінними)                                                                                                                         |
+| 83  | [Що таке властивість NaN](https://tendil.github.io/tjh-knowledge-base#83-що-таке-властивість-nan)                                                                                                                                                   |
+| 84  | [Яка мета функції isFinite](https://tendil.github.io/tjh-knowledge-base#84-яка-мета-функції-isfinite)                                                                                                                                               |
+| 85  | [Що таке потік подій (event flow)](https://tendil.github.io/tjh-knowledge-base#85-що-таке-потік-подій-event-flow)                                                                                                                                   |
+| 86  | [Що таке всплиття подій (event bubbling)](https://tendil.github.io/tjh-knowledge-base#86-що-таке-всплиття-подій-event-bubbling)                                                                                                                     |
+| 87  | [Що таке захоплення подій (event capturing)](https://tendil.github.io/tjh-knowledge-base#87-що-таке-захоплення-подій-event-capturing)                                                                                                               |
+| 88  | [Як ви відправляєте форму за допомогою JavaScript](https://tendil.github.io/tjh-knowledge-base#88-як-ви-відправляєте-форму-за-допомогою-javascript)                                                                                                 |
+| 89  | [Як ви знаходите деталі операційної системи](https://tendil.github.io/tjh-knowledge-base#89-як-ви-знаходите-деталі-операційної-системи)                                                                                                             |
+| 90  | [Яка різниця між подіями document load та DOMContentLoaded](https://tendil.github.io/tjh-knowledge-base#90-яка-різниця-між-подіями-document-load-та-domcontentloaded)                                                                               |
+| 91  | [Яка різниця між вбудованими (native), господарськими (host) та користувацькими (user) об'єктами](https://tendil.github.io/tjh-knowledge-base#91-яка-різниця-між-вбудованими-native-господарськими-host-та-користувацькими-user-обєктами)           |
+| 92  | [Які інструменти або техніки використовуються для відлагодження коду JavaScript](https://tendil.github.io/tjh-knowledge-base#92-які-інструменти-або-техніки-використовуються-для-відлагодження-коду-javascript)                                     |
+| 93  | [Які переваги та недоліки обіцянок (promises) порівняно зі зворотніми викликами (callbacks)](https://tendil.github.io/tjh-knowledge-base#93-які-переваги-та-недоліки-обіцянок-promises-порівняно-зі-зворотніми-викликами-callbacks)                 |
+| 94  | [Яка різниця між атрибутом та властивістю (property)](https://tendil.github.io/tjh-knowledge-base#94-яка-різниця-між-атрибутом-та-властивістю-property)                                                                                             |
+| 95  | [Що таке політика однакового походження (same-origin policy)](https://tendil.github.io/tjh-knowledge-base#95-що-таке-політика-однакового-походження-same-origin-policy)                                                                             |
+| 96  | [Яка мета фрази void 0](https://tendil.github.io/tjh-knowledge-base#96-яка-мета-фрази-void-0)                                                                                                                                                       |
+| 97  | [Чи є JavaScript компільованою чи інтерпретованою мовою](https://tendil.github.io/tjh-knowledge-base#97-чи-є-javascript-компільованою-чи-інтерпретованою-мовою)                                                                                     |
+| 98  | [Чи є JavaScript чутливою до регістру мовою](https://tendil.github.io/tjh-knowledge-base#98-чи-є-javascript-чутливою-до-регістру-мовою)                                                                                                             |
+| 99  | [Чи існує якась зв'язок між Java та JavaScript](https://tendil.github.io/tjh-knowledge-base#99-чи-існує-якась-зв'язок-між-java-та-javascript)                                                                                                       |
+| 100 | [Що таке події (events)](https://tendil.github.io/tjh-knowledge-base#100-що-таке-події-events)                                                                                                                                                      |
 
 
 ## 4. Java
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
-- [1. Типи даних у Java](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#1-типи-даних-у-java)
-- [2. Відмінності об'єкта від примітивних типів даних](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#2-відмінності-обєкта-від-примітивних-типів-даних)
-- [3. Різниця передачі параметрів за посиланням і за значенням](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#3-різниця-передачі-параметрів-за-посиланням-і-за-значенням)
-- [4. Bytecode](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#4-bytecode)
-- [5. JVM, JDK, JRE](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#5-jvm-jdk-jre)
-- [6. Ознаки JavaBean](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#6-ознаки-javabean)
-- [7. OutOfMemoryError](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#7-outofmemoryerror)
-- [8. Стектрейс і як його отримати](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#8-стектрейс-і-як-його-отримати)
-- [9. Всі методи класу object](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#)
-- [10. Різниця між try-with-resources і try-catch-finally](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#)
-- [11. Конструктори та їхні типи](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#11-конструктори-та-їхні-типи)
-- [12. Параметризований конструктор](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#12-параметризований-конструктор)
-- [13. Побітові операції](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#13-побітові-операції)
-- [14. Кратка характеристика immutable object і навіщо вони потрібні](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#14-кратка-характеристика-immutable-object-і-навіщо-вони-потрібні)
-- [15. Вимоги для створення immutable класу](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#15-вимоги-для-створення-immutable-класу)
-- [16. Об'єкти яких стандартних класів immutable в Java](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#16-обєкти-яких-стандартних-класів-immutable-в-java)
-- [17. Переваги immutable object перед звичайними об'єктами](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#17-переваги-immutable-object-перед-звичайними-обєктами)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
+- [1. Типи даних у Java](https://tendil.github.io/tjh-knowledge-base#1-типи-даних-у-java)
+- [2. Відмінності об'єкта від примітивних типів даних](https://tendil.github.io/tjh-knowledge-base#2-відмінності-обєкта-від-примітивних-типів-даних)
+- [3. Різниця передачі параметрів за посиланням і за значенням](https://tendil.github.io/tjh-knowledge-base#3-різниця-передачі-параметрів-за-посиланням-і-за-значенням)
+- [4. Bytecode](https://tendil.github.io/tjh-knowledge-base#4-bytecode)
+- [5. JVM, JDK, JRE](https://tendil.github.io/tjh-knowledge-base#5-jvm-jdk-jre)
+- [6. Ознаки JavaBean](https://tendil.github.io/tjh-knowledge-base#6-ознаки-javabean)
+- [7. OutOfMemoryError](https://tendil.github.io/tjh-knowledge-base#7-outofmemoryerror)
+- [8. Стектрейс і як його отримати](https://tendil.github.io/tjh-knowledge-base#8-стектрейс-і-як-його-отримати)
+- [9. Всі методи класу object](https://tendil.github.io/tjh-knowledge-base#)
+- [10. Різниця між try-with-resources і try-catch-finally](https://tendil.github.io/tjh-knowledge-base#)
+- [11. Конструктори та їхні типи](https://tendil.github.io/tjh-knowledge-base#11-конструктори-та-їхні-типи)
+- [12. Параметризований конструктор](https://tendil.github.io/tjh-knowledge-base#12-параметризований-конструктор)
+- [13. Побітові операції](https://tendil.github.io/tjh-knowledge-base#13-побітові-операції)
+- [14. Кратка характеристика immutable object і навіщо вони потрібні](https://tendil.github.io/tjh-knowledge-base#14-кратка-характеристика-immutable-object-і-навіщо-вони-потрібні)
+- [15. Вимоги для створення immutable класу](https://tendil.github.io/tjh-knowledge-base#15-вимоги-для-створення-immutable-класу)
+- [16. Об'єкти яких стандартних класів immutable в Java](https://tendil.github.io/tjh-knowledge-base#16-обєкти-яких-стандартних-класів-immutable-в-java)
+- [17. Переваги immutable object перед звичайними об'єктами](https://tendil.github.io/tjh-knowledge-base#17-переваги-immutable-object-перед-звичайними-обєктами)
 
 
 ## 5. QA Manual
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 
 
 ## 6. QA Automation
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 
 
 ## 7. TypeScript
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 
-- [1. Перелічіть вбудовані типи у Typescript](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#1-перелічіть-вбудовані-типи-у-typescript)
-- [2. Що таке модулі в Typescript?](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#2-що-таке-модулі-в-typescript)
-- [3. Що таке Typescript і чому його варто використовувати?](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#3-що-таке-typescript-і-чому-його-варто-використовувати?)
-- [4. Поясніть, що таке узагальнення в TypeScript](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#4-поясніть-що-таке-узагальнення-в-typeScript)
-- [5. Що таке TypeScript і чому я повинен використовувати його замість JavaScript?](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#5-що-таке-typescript-і-чому-я-повинен-використовувати-його-замість-javascript)
-- [6. Що таке TypeScript і навіщо він потрібен?](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#6-що-таке-typescript-і-навіщо-він-потрібен)
-- [7. Які переваги має TypeScript?](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#7-які-переваги-має-typescript)
-- [8. Чи потрібно компілювати файли TypeScript і чому?](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#8-чи-потрібно-компілювати-файли-typescript-і-чому)
-- [9. Як викликати конструктор базового класу з дочірнього класу в TypeScript?](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#9-як-викликати-конструктор-базового-класу-з-дочірнього-класу-в-typescript)
-- [10. Яка різниця між TypeScript та JavaScript?](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#10-яка-різниця-між-typescript-та-javascript)
-- [11. Що таке інтерфейс у TypeScript?](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#11-що-таке-інтерфейс-у-typescript)
-- [12. Коли використовувати інтерфейси, а коли класи в TypeScript?](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#12-коли-використовувати-інтерфейси-а-коли-класи-в-typescript)
-- [13. Яка різниця між класами та інтерфейсами у TypeScript?](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#13-яка-різниця-між-класами-та-інтерфейсами-у-typescript)
-- [14. Що таке "Декоратори" у TypeScript?](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#14-що-таке-декоратори-у-typescript)
-- [15. Що таке getter/setter в TypeScript?](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#15-що-таке-getter-setter-в-typescript)
-- [16. Як можна перевірити null та undefined у TypeScript?](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#16-як-можна-перевірити-null-та-undefined-у-typescript)
-- [17. Як реалізувати константи класу в TypeScript?](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#17-як-реалізувати-константи-класу-в-typescript)
-- [18. Чи можна використовувати TypeScript на бекенді і як?](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#18-чи-можна-використовувати-typescript-на-бекенді-і-як)
-- [19. Чи підтримує TypeScript всі об'єктно-орієнтовані принципи?](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#19-чи-підтримує-typescript-всі-обєктно-орієнтовані-принципи)
-- [20. Які об'єктно-орієнтовані терміни підтримуються у TypeScript?](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#20-які-обєктно-орієнтовані-терміни-підтримуються-у-typescript)
-- [21. Що таке файл TypeScript Map?](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#21-що-таке-файл-typescript-map)
-- [22. Чи можливі в TypeScript сильно типізовані функції в якості параметрів?](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#22-чи-можливі-в-typescript-сильно-типізовані-функції-в-якості-параметрів)
-- [23. Чи є цей код TypeScript коректним? Поясніть чому](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#23-чи-є-цей-код-typescript-коректним-поясніть-чому)
-- [24. Які існують різні компоненти TypeScript?](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#24-які-існують-різні-компоненти-typescript)
-- [25. Як TypeScript є необов'язково статично типізованою мовою](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#25-як-typescript-є-необовязково-статично-типізованою-мовою)
-- [26. Який модифікатор доступу за замовчуванням для членів класу у TypeScript?](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#26-який-модифікатор-доступу-за-замовчуванням-для-членів-класу-у-typescript)
-- [27. Як зробити класи, визначені в модулі, доступними за межами модуля?](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#27-як-зробити-класи-визначені-в-модулі-доступними-за-межами-модуля)
-- [28. Що не так з цим кодом?](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#28-що-не-так-з-цим-кодом)
-- [29. Чи підтримує TypeScript перевантаження функцій?](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#29-чи-підтримує-typescript-перевантаження-функцій)
-- [30. Як використовувати зовнішні бібліотеки простого JavaScript у TypeScript?](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#30-як-використовувати-зовнішні-бібліотеки-простого-javascript-у-typescript)
-- [31. Що таке типізація в TypeScript?](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#31-що-таке-типізація-в-typescript)
-- [32. Яка різниця між операторами "інтерфейс vs тип"?](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#32-яка-різниця-між-операторами-інтерфейс-vs-тип)
-- [33. Як би ви перевантажили конструктор класу у TypeScript?](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#33-як-би-ви-перевантажили-конструктор-класу-у-typescript)
-- [34. Поясніть, чому цей код позначено як WRONG?](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#34-поясніть-чому-цей-код-позначено-я-wrong)
+- [1. Перелічіть вбудовані типи у Typescript](https://tendil.github.io/tjh-knowledge-base#1-перелічіть-вбудовані-типи-у-typescript)
+- [2. Що таке модулі в Typescript?](https://tendil.github.io/tjh-knowledge-base#2-що-таке-модулі-в-typescript)
+- [3. Що таке Typescript і чому його варто використовувати?](https://tendil.github.io/tjh-knowledge-base#3-що-таке-typescript-і-чому-його-варто-використовувати?)
+- [4. Поясніть, що таке узагальнення в TypeScript](https://tendil.github.io/tjh-knowledge-base#4-поясніть-що-таке-узагальнення-в-typeScript)
+- [5. Що таке TypeScript і чому я повинен використовувати його замість JavaScript?](https://tendil.github.io/tjh-knowledge-base#5-що-таке-typescript-і-чому-я-повинен-використовувати-його-замість-javascript)
+- [6. Що таке TypeScript і навіщо він потрібен?](https://tendil.github.io/tjh-knowledge-base#6-що-таке-typescript-і-навіщо-він-потрібен)
+- [7. Які переваги має TypeScript?](https://tendil.github.io/tjh-knowledge-base#7-які-переваги-має-typescript)
+- [8. Чи потрібно компілювати файли TypeScript і чому?](https://tendil.github.io/tjh-knowledge-base#8-чи-потрібно-компілювати-файли-typescript-і-чому)
+- [9. Як викликати конструктор базового класу з дочірнього класу в TypeScript?](https://tendil.github.io/tjh-knowledge-base#9-як-викликати-конструктор-базового-класу-з-дочірнього-класу-в-typescript)
+- [10. Яка різниця між TypeScript та JavaScript?](https://tendil.github.io/tjh-knowledge-base#10-яка-різниця-між-typescript-та-javascript)
+- [11. Що таке інтерфейс у TypeScript?](https://tendil.github.io/tjh-knowledge-base#11-що-таке-інтерфейс-у-typescript)
+- [12. Коли використовувати інтерфейси, а коли класи в TypeScript?](https://tendil.github.io/tjh-knowledge-base#12-коли-використовувати-інтерфейси-а-коли-класи-в-typescript)
+- [13. Яка різниця між класами та інтерфейсами у TypeScript?](https://tendil.github.io/tjh-knowledge-base#13-яка-різниця-між-класами-та-інтерфейсами-у-typescript)
+- [14. Що таке "Декоратори" у TypeScript?](https://tendil.github.io/tjh-knowledge-base#14-що-таке-декоратори-у-typescript)
+- [15. Що таке getter/setter в TypeScript?](https://tendil.github.io/tjh-knowledge-base#15-що-таке-getter-setter-в-typescript)
+- [16. Як можна перевірити null та undefined у TypeScript?](https://tendil.github.io/tjh-knowledge-base#16-як-можна-перевірити-null-та-undefined-у-typescript)
+- [17. Як реалізувати константи класу в TypeScript?](https://tendil.github.io/tjh-knowledge-base#17-як-реалізувати-константи-класу-в-typescript)
+- [18. Чи можна використовувати TypeScript на бекенді і як?](https://tendil.github.io/tjh-knowledge-base#18-чи-можна-використовувати-typescript-на-бекенді-і-як)
+- [19. Чи підтримує TypeScript всі об'єктно-орієнтовані принципи?](https://tendil.github.io/tjh-knowledge-base#19-чи-підтримує-typescript-всі-обєктно-орієнтовані-принципи)
+- [20. Які об'єктно-орієнтовані терміни підтримуються у TypeScript?](https://tendil.github.io/tjh-knowledge-base#20-які-обєктно-орієнтовані-терміни-підтримуються-у-typescript)
+- [21. Що таке файл TypeScript Map?](https://tendil.github.io/tjh-knowledge-base#21-що-таке-файл-typescript-map)
+- [22. Чи можливі в TypeScript сильно типізовані функції в якості параметрів?](https://tendil.github.io/tjh-knowledge-base#22-чи-можливі-в-typescript-сильно-типізовані-функції-в-якості-параметрів)
+- [23. Чи є цей код TypeScript коректним? Поясніть чому](https://tendil.github.io/tjh-knowledge-base#23-чи-є-цей-код-typescript-коректним-поясніть-чому)
+- [24. Які існують різні компоненти TypeScript?](https://tendil.github.io/tjh-knowledge-base#24-які-існують-різні-компоненти-typescript)
+- [25. Як TypeScript є необов'язково статично типізованою мовою](https://tendil.github.io/tjh-knowledge-base#25-як-typescript-є-необовязково-статично-типізованою-мовою)
+- [26. Який модифікатор доступу за замовчуванням для членів класу у TypeScript?](https://tendil.github.io/tjh-knowledge-base#26-який-модифікатор-доступу-за-замовчуванням-для-членів-класу-у-typescript)
+- [27. Як зробити класи, визначені в модулі, доступними за межами модуля?](https://tendil.github.io/tjh-knowledge-base#27-як-зробити-класи-визначені-в-модулі-доступними-за-межами-модуля)
+- [28. Що не так з цим кодом?](https://tendil.github.io/tjh-knowledge-base#28-що-не-так-з-цим-кодом)
+- [29. Чи підтримує TypeScript перевантаження функцій?](https://tendil.github.io/tjh-knowledge-base#29-чи-підтримує-typescript-перевантаження-функцій)
+- [30. Як використовувати зовнішні бібліотеки простого JavaScript у TypeScript?](https://tendil.github.io/tjh-knowledge-base#30-як-використовувати-зовнішні-бібліотеки-простого-javascript-у-typescript)
+- [31. Що таке типізація в TypeScript?](https://tendil.github.io/tjh-knowledge-base#31-що-таке-типізація-в-typescript)
+- [32. Яка різниця між операторами "інтерфейс vs тип"?](https://tendil.github.io/tjh-knowledge-base#32-яка-різниця-між-операторами-інтерфейс-vs-тип)
+- [33. Як би ви перевантажили конструктор класу у TypeScript?](https://tendil.github.io/tjh-knowledge-base#33-як-би-ви-перевантажили-конструктор-класу-у-typescript)
+- [34. Поясніть, чому цей код позначено як WRONG?](https://tendil.github.io/tjh-knowledge-base#34-поясніть-чому-цей-код-позначено-я-wrong)
 
 ## 8. CI CD
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 
-- [1. Що таке CI/CD](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#1-що-таке-ci-cd)
-- [2. Послідовність виконання CI/CD процесу на проекті](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#2-послідовність-виконанняci-cd-процесу-на-проекті)
-- [3. Як автоматичне тестування інтегрується в CI](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#3-як-автоматичне-тестування-інтегрується-в-ci)
-- [4. Які інструменти для генерації репорту після виконання автоматичних тестів ви знаєте](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#4-які-інструменти-для-генерації-репорту-після-виконання-автоматичних-тестів-ви-знаєте)
-- [5. Яку інформацію має містити звіт про виконання автоматичних тестів](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#5-яку-інформацію-має-містити-звіт-про-виконання-автоматичних-тестів)
+- [1. Що таке CI/CD](https://tendil.github.io/tjh-knowledge-base#1-що-таке-ci-cd)
+- [2. Послідовність виконання CI/CD процесу на проекті](https://tendil.github.io/tjh-knowledge-base#2-послідовність-виконанняci-cd-процесу-на-проекті)
+- [3. Як автоматичне тестування інтегрується в CI](https://tendil.github.io/tjh-knowledge-base#3-як-автоматичне-тестування-інтегрується-в-ci)
+- [4. Які інструменти для генерації репорту після виконання автоматичних тестів ви знаєте](https://tendil.github.io/tjh-knowledge-base#4-які-інструменти-для-генерації-репорту-після-виконання-автоматичних-тестів-ви-знаєте)
+- [5. Яку інформацію має містити звіт про виконання автоматичних тестів](https://tendil.github.io/tjh-knowledge-base#5-яку-інформацію-має-містити-звіт-про-виконання-автоматичних-тестів)
 
 ## 9. Основні принципи програмування
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 
-- [1. Статуси відповідей HTTP](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#1-статуси-відповідей-http)
-- [2. Що таке DRY, KISS, YAGNI](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#2-що-таке-DRY-KISS-YAGNI)
-- [3. Які патерни GOF вам відомі? Наведіть приклади їхнього використання](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#3-які-патерни-gof-вам-відомі-наведіть-приклади-їхнього-використання)
-- [4. PageObject та PageFactory](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#4-pageobject-та-pageFactory)
-- [5. Яка ієрархія Collections](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#5-яка-ієрархія-collections)
-- [6. Різниця між Thread class та Runnable interface](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#6-різниця-між-thread-class-та-runnable-interface)
-- [7. Різниця між String, Stringbuffer і Stringbuilder](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#7-різниця-між-string-stringbuffer-і-Stringbuilder)
-- [8. Різниця між final, finally та finalize](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#8-різниця-між-final-finally-та-finalize)
-- [9. ](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#9-)
+- [1. Статуси відповідей HTTP](https://tendil.github.io/tjh-knowledge-base#1-статуси-відповідей-http)
+- [2. Що таке DRY, KISS, YAGNI](https://tendil.github.io/tjh-knowledge-base#2-що-таке-DRY-KISS-YAGNI)
+- [3. Які патерни GOF вам відомі? Наведіть приклади їхнього використання](https://tendil.github.io/tjh-knowledge-base#3-які-патерни-gof-вам-відомі-наведіть-приклади-їхнього-використання)
+- [4. PageObject та PageFactory](https://tendil.github.io/tjh-knowledge-base#4-pageobject-та-pageFactory)
+- [5. Яка ієрархія Collections](https://tendil.github.io/tjh-knowledge-base#5-яка-ієрархія-collections)
+- [6. Різниця між Thread class та Runnable interface](https://tendil.github.io/tjh-knowledge-base#6-різниця-між-thread-class-та-runnable-interface)
+- [7. Різниця між String, Stringbuffer і Stringbuilder](https://tendil.github.io/tjh-knowledge-base#7-різниця-між-string-stringbuffer-і-Stringbuilder)
+- [8. Різниця між final, finally та finalize](https://tendil.github.io/tjh-knowledge-base#8-різниця-між-final-finally-та-finalize)
+- [9. ](https://tendil.github.io/tjh-knowledge-base#9-)
 
 
 ## 10. Теорія тестування
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 
-- [1. Що таке тестування](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#1-що-таке-тестування)
-- [2. Навіщо тестувати програмне забезпечення](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#2-навіщо-тестувати-програмне-забезпечення)
-- [3. Які існують етапи тестування](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#3-які-існують-етапи-тестування)
-- [4. Які типи тестування можна назвати](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#4-які-типи-тестування-можна-назвати)
-- [5. Які рівні тестування ви знаєте](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#5-які-рівні-тестування-знаєте)
-- [6. Які техніки проектування тестів ви знаєте](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#6-які-техніки-тест-дизайну-знаєте)
-- [7. Що таке техніка аналізу класів еквівалентності](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#7-що-таке-техніка-аналізу-класів-еквівалентності)
-- [8. Що таке техніка аналізу межових значень? В чому цінність цієї техніки](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#8-що-таке-техніка-аналізу-межових-значень-в-чому-цінність-цієї-техніки)
-- [9. Що таке Regression і Confirmation тестування, в чому різниця між ними](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#9-що-таке-regression-і-confirmation-тестування-в-чому-різниця-між-ними)
-- [10. Як часто варто проводити регресійне тестування продукту](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#10-як-часто-варто-проводити-регресійне-тестування-продукту)
-- [11. Які існують види інтеграційного тестування](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#11-які-існують-види-інтеграційного-тестування)
-- [12. Що таке Configuration testing](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#12-що-таке-configuration-testing)
-- [13. Що таке Exploratory testing](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#13-що-таке-exploratory-testing)
-- [14. Які існують UI-стандарти](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#14-які-існують-ui-стандарти)
-- [15. Що таке Black/Grey/White Box Testing](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#15-що-таке-blackgreywhite-box-testing)
-- [16. Що таке Performance Testing](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#16-що-таке-performance-testing)
-- [17. Що таке Smoke і Sanity тестування і в чому різниця між ними](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#17-що-таке-smoke-і-sanity-тестування-і-в-чому-різниця-між-ними)
-- [18. Що таке Traceability Matrix](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#18-що-таке-traceability-matrix)
-- [19. Що таке Sanity Testing](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#19-що-таке-sanity-testing)
-- [20. Що таке End-to-End тест](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#20-що-таке-end-to-end-тест)
-- [21. Що таке тестування безпеки](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#21-що-таке-тестування-безпеки)
-- [22. Що таке тестування на основі ризиків](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#22-що-таке-тестування-на-основі-ризиків)
-- [23. Що таке динамічне тестування](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#23-що-таке-динамічне-тестування)
-- [24. Що таке "парадокс пестициду"](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#24-що-таке-парадокс-пестициду)
-- [25. Опишіть основні фази STLC? Надайте визначення Entry і Exit Criteria](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#25-опишіть-основні-фази-stlc-надайте-визначення-entry-і-exit-criteria)
-- [26. Що таке Bug, Error, Failure, Fault](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#26-що-таке-bug-error-failure-fault)
-- [27. Які є атрибути звіту про помилку? Які основні поля для заповнення](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#27-які-є-атрибути-звіту-про-помилку-які-основні-поля-для-заповнення)
-- [28. Яка різниця між пріоритетом і серйозністю](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#28-яка-різниця-між-пріоритетом-і-серйозністю) 
-- [29. Наведіть приклади серйозної, але не пріоритетної помилки](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#29-наведіть-приклади-серйозної-але-не-пріоритетної-помилки) 
-- [30. В чому різниця між валідацією і верифікацією](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#30-в-чому-різниця-між-валідацією-і-верифікацією) 
-- [31. Навіщо потрібна тестова документація і які її види](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#31-навіщо-потрібна-тестова-документація-і-які-її-види) 
-- [32. Що таке тест-план? Які елементи він має](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#32-що-таке-тест-план-які-елементи-він-має) 
-- [33. Яку обов'язкову інформацію має містити тест-план](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#33-яку-обовязкову-інформацію-має-містити-тест-план) 
-- [34. Яка різниця між чеклистом і тест-кейсами](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#34-яка-різниця-між-чеклистом-і-тест-кейсами) 
-- [35. Обязанності QA](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#35-обов'язки-qa)
-- [36. Що знаєте про тестування навантаження? У якому випадку слід проводити таке тестування? На якому етапі готовності продукту](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#36-що-знаєте-про-тестування-навантаження-у-якому-випадку-слід-проводити-таке-тестування-на-якому-етапі-готовності-продукту)
-- [37. Decision table і як її можна використовувати](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#37-decision-table-і-як-її-можна-використовувати)
-- [38. Що може бути критеріями запуску і завершення тестування](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#38-що-може-бути-критеріями-запуску-і-завершення-тестування)
-- [39. Приклади підходів для тестування локалізації](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#39-приклади-підходів-для-тестування-локалізації)
-- [40. A/B тестування](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#40-a-b-тестування)
-- [41. Що таке mock/stub? Які знаєте інструменти для роботи з ними](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#41-що-таке-mockstub-які-знаєте-інструменти-для-роботи-з-ними)
-- [42. Коли потрібно використовувати техніку Pairwise](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#42-коли-потрібно-використовувати-техніку-pairwise)
-- [43. Fuzz-тестування і де його використовують](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#43-fuzz-тестування-і-де-його-використовують)
-- [44. REgexp](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#44-regexp)
-- [45. Як змінюється вартість дефекту під час тестування ПЗ](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#45-як-змінюється-вартість-дефекту-під-час-тестування-пз)
-- [46. Які шляхи аналізу бізнесу клієнта? Як визначити доцільність того чи іншого функціоналу](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#46-які-шляхи-аналізу-бізнесу-клієнта-як-визначити-доцільність-того-чи-іншого-функціоналу)
-- [47. Яке має бути відсоткове співвідношення між позитивним і негативним тестуванням на проєкті](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#47-яке-має-бути-відсоткове-співвідношення-між-позитивним-і-негативним-тестуванням-на-проєкті)
-- [48. Чи є різниця між bug leakage і bug release](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#48-чи-є-різниця-між-bug-leakage-і-bug-release)
-- [49. Що потрібно покривати тест-кейсами, а що вважається надлишковою витратою часу і грошей? Коли недоцільно писати тест-кейси](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#49-що-потрібно-покривати-тест-кейсами-а-що-вважається-надлишковою-витратою-часу-і-грошей-коли-недоцільно-писати-тест-кейси)
-- [50. Як порахувати Cyclomatic complexity](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#50-як-порахувати-cyclomatic-complexity)
-- [51. У чому основна різниця між defect detection percentage і defect removal efficiency](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#51-у-чому-основна-різниця-між-defect-detection-percentage-і-defect-removal-efficiency)
-- [52. Які моделі risk-based testing ви знаєте](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#52-які-моделі-risk-based-testing-ви-знаєте)
-- [53. Тестування API? Інструменти](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#53-тестування-api-інструменти)
-- [54. Load, Stress та Stability testing? Якими інструментами користуються для їх виконання](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#54-load-stress-та-stability-testing-якими-інструментами-користуються-для-їх-виконання)
-- [55. Як ви будуватимете і впроваджуватимете стратегію з автоматизації тестування](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#55-як-ви-будуватимете-і-впроваджуватимете-стратегію-з-автоматизації-тестування)
-- [56. Як обробляти браузерні повідомлення (alerts)](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#56-як-обробляти-браузерні-повідомлення-alerts)
-- [57. Концепція дизайну Appium](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#57-концепція-дизайну-appium)
-- [58. Electron? Як використовувати Selenium для тестування програм на його основ](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#58-electron-як-використовувати-selenium-для-тестування-програм-на-його-основ)
-- [59. Що таке і чим відрізняються віртуальна машина, симулятор та емулятор](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#59-що-таке-і-чим-відрізняються-віртуальна-машина-симулятор-та-емулятор)
-- [60. Контейнер і чим він відрізняється від віртуальної машини](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#60-контейнер-і-чим-він-відрізняється-від-віртуальної-машини)
-- [61. IaaS та PaaS? Приклади використання](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#61-iaas-та-paas-приклади-використання)
-- [62. Configuration Management](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#62-configuration-management)
-- [63. SSH і як ним користуватися](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#63-ssh-і-як-ним-користуватися)
-- [64. Bash і Batch скрипти? Для чого їх використовують](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#64-bash-і-batch-скрипти-для-чого-їх-використовують)
-- [65. Різниця між авторизацією та автентифікацією](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#65-різниця-між-авторизацією-та-автентифікацією)
-- [66. Чи може сервер відправити код 400, якщо проблема на його стороні](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#66-чи-може-сервер-відправити-код-400-якщо-проблема-на-його-стороні)
-- [67. Як перевірити обрив з'єднання WebSocket](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#67-як-перевірити-обрив-зєднання-websocket)
-- [68. Основні види вразливості веб-додатків](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#68-основні-види-вразливості-веб-додатків)
-- [69. Які інструменти для тестування Web performance client-side знаєте](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#69-які-інструменти-для-тестування-web-performance-client-side-знаєте)
-- [70. Cніфери? Які знаєте](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#70-cніфери-які-знаєте)
-- [71. Різниця між DROP та TRUNCATE](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#71-різниця-між-drop-та-truncate)
-- [72. Функція CASE](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#72-функція-case)
-- [73. Що таке collation](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#73-що-таке-collation)
-- [74. Що таке схема GraphQL](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#74-що-таке-схема-graphql)
-- [75. Різниця між OLTP та OLAP](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#75-різниця-між-oltp-та-olap)
-- [76. Типи реплікації в SQL Server?](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#76-типи-реплікації-в-sql-server)
-- [77. Self Join](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#77-self-join)
-- [78. Що такое тестування](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#78-що-такое-тестування)
-- [79. Піраміда тестування](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#79-піраміда-тестування)
-- [80. Навіщо тестувати ПЗ](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#80-навіщо-тестувати-пз)
-- [81. Етапи тестування](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#81-етапи-тестування)
-- [82. Типи тестування](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#82-типи-тестування)
-- [83. Рівні тестування](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#83-рівні-тестування)
-- [84. Техніки тест-дизайну](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#84-техніки-тест-дизайну)
-- [85. Що таке Regression та Confirmation тестування, яка між ними різниця](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#85-що-таке-regression-та-confirmation-тестування-яка-між-ними-різниця)
-- [86. Частота регресійного тестування](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#86-частота-регресійного-тестування)
-- [87. Види інтеграційного тестування](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#87-види-інтеграційного-тестування)
-- [88. Configuration Testing](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#88-configuration-testing)
-- [89. Exploratory Testing](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#89-exploratory-testing)
-- [90. Performance Testing](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#90-performance-testing)
-- [91. Traceability Matrix](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#91-traceability-matrix)
-- [92. End-to-End тест](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#92-end-to-end-тест)
-- [93. Тестування безпеки](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#93-тестування-безпеки)
-- [94. Випробування на основі ризиків](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#94-випробування-на-основі-ризиків)
-- [95. Динамічне тестування](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#95-динамічне-тестування)
-- [96. Основні фази STLC? Дайте визначення Entry та Exit Criteria](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#96-основні-фази-stlc-дайте-визначення-entry-та-exit-criteria)
-- [97. Атрибути баг-репорту? Які основні поля для заповнення](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#97-атрибути-баг-репорту-які-основні-поля-для-заповнення)
-- [98. Різниця між пріоритетом і серйозністю](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#98-різниця-між-пріоритетом-і-серйозністю)
-- [99. Наведіть приклади серйозного, але не пріоритетного бага](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#99-наведіть-приклади-серйозного-але-не-пріоритетного-бага)
-- [100. Навіщо потрібна тестова документація? Які її види](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#100-навіщо-потрібна-тестова-документація-які-її-види)
-- [101. Тест-план? Які елементи має](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#101-тест-план-які-елементи-має)
+- [1. Що таке тестування](https://tendil.github.io/tjh-knowledge-base#1-що-таке-тестування)
+- [2. Навіщо тестувати програмне забезпечення](https://tendil.github.io/tjh-knowledge-base#2-навіщо-тестувати-програмне-забезпечення)
+- [3. Які існують етапи тестування](https://tendil.github.io/tjh-knowledge-base#3-які-існують-етапи-тестування)
+- [4. Які типи тестування можна назвати](https://tendil.github.io/tjh-knowledge-base#4-які-типи-тестування-можна-назвати)
+- [5. Які рівні тестування ви знаєте](https://tendil.github.io/tjh-knowledge-base#5-які-рівні-тестування-знаєте)
+- [6. Які техніки проектування тестів ви знаєте](https://tendil.github.io/tjh-knowledge-base#6-які-техніки-тест-дизайну-знаєте)
+- [7. Що таке техніка аналізу класів еквівалентності](https://tendil.github.io/tjh-knowledge-base#7-що-таке-техніка-аналізу-класів-еквівалентності)
+- [8. Що таке техніка аналізу межових значень? В чому цінність цієї техніки](https://tendil.github.io/tjh-knowledge-base#8-що-таке-техніка-аналізу-межових-значень-в-чому-цінність-цієї-техніки)
+- [9. Що таке Regression і Confirmation тестування, в чому різниця між ними](https://tendil.github.io/tjh-knowledge-base#9-що-таке-regression-і-confirmation-тестування-в-чому-різниця-між-ними)
+- [10. Як часто варто проводити регресійне тестування продукту](https://tendil.github.io/tjh-knowledge-base#10-як-часто-варто-проводити-регресійне-тестування-продукту)
+- [11. Які існують види інтеграційного тестування](https://tendil.github.io/tjh-knowledge-base#11-які-існують-види-інтеграційного-тестування)
+- [12. Що таке Configuration testing](https://tendil.github.io/tjh-knowledge-base#12-що-таке-configuration-testing)
+- [13. Що таке Exploratory testing](https://tendil.github.io/tjh-knowledge-base#13-що-таке-exploratory-testing)
+- [14. Які існують UI-стандарти](https://tendil.github.io/tjh-knowledge-base#14-які-існують-ui-стандарти)
+- [15. Що таке Black/Grey/White Box Testing](https://tendil.github.io/tjh-knowledge-base#15-що-таке-blackgreywhite-box-testing)
+- [16. Що таке Performance Testing](https://tendil.github.io/tjh-knowledge-base#16-що-таке-performance-testing)
+- [17. Що таке Smoke і Sanity тестування і в чому різниця між ними](https://tendil.github.io/tjh-knowledge-base#17-що-таке-smoke-і-sanity-тестування-і-в-чому-різниця-між-ними)
+- [18. Що таке Traceability Matrix](https://tendil.github.io/tjh-knowledge-base#18-що-таке-traceability-matrix)
+- [19. Що таке Sanity Testing](https://tendil.github.io/tjh-knowledge-base#19-що-таке-sanity-testing)
+- [20. Що таке End-to-End тест](https://tendil.github.io/tjh-knowledge-base#20-що-таке-end-to-end-тест)
+- [21. Що таке тестування безпеки](https://tendil.github.io/tjh-knowledge-base#21-що-таке-тестування-безпеки)
+- [22. Що таке тестування на основі ризиків](https://tendil.github.io/tjh-knowledge-base#22-що-таке-тестування-на-основі-ризиків)
+- [23. Що таке динамічне тестування](https://tendil.github.io/tjh-knowledge-base#23-що-таке-динамічне-тестування)
+- [24. Що таке "парадокс пестициду"](https://tendil.github.io/tjh-knowledge-base#24-що-таке-парадокс-пестициду)
+- [25. Опишіть основні фази STLC? Надайте визначення Entry і Exit Criteria](https://tendil.github.io/tjh-knowledge-base#25-опишіть-основні-фази-stlc-надайте-визначення-entry-і-exit-criteria)
+- [26. Що таке Bug, Error, Failure, Fault](https://tendil.github.io/tjh-knowledge-base#26-що-таке-bug-error-failure-fault)
+- [27. Які є атрибути звіту про помилку? Які основні поля для заповнення](https://tendil.github.io/tjh-knowledge-base#27-які-є-атрибути-звіту-про-помилку-які-основні-поля-для-заповнення)
+- [28. Яка різниця між пріоритетом і серйозністю](https://tendil.github.io/tjh-knowledge-base#28-яка-різниця-між-пріоритетом-і-серйозністю) 
+- [29. Наведіть приклади серйозної, але не пріоритетної помилки](https://tendil.github.io/tjh-knowledge-base#29-наведіть-приклади-серйозної-але-не-пріоритетної-помилки) 
+- [30. В чому різниця між валідацією і верифікацією](https://tendil.github.io/tjh-knowledge-base#30-в-чому-різниця-між-валідацією-і-верифікацією) 
+- [31. Навіщо потрібна тестова документація і які її види](https://tendil.github.io/tjh-knowledge-base#31-навіщо-потрібна-тестова-документація-і-які-її-види) 
+- [32. Що таке тест-план? Які елементи він має](https://tendil.github.io/tjh-knowledge-base#32-що-таке-тест-план-які-елементи-він-має) 
+- [33. Яку обов'язкову інформацію має містити тест-план](https://tendil.github.io/tjh-knowledge-base#33-яку-обовязкову-інформацію-має-містити-тест-план) 
+- [34. Яка різниця між чеклистом і тест-кейсами](https://tendil.github.io/tjh-knowledge-base#34-яка-різниця-між-чеклистом-і-тест-кейсами) 
+- [35. Обязанності QA](https://tendil.github.io/tjh-knowledge-base#35-обов'язки-qa)
+- [36. Що знаєте про тестування навантаження? У якому випадку слід проводити таке тестування? На якому етапі готовності продукту](https://tendil.github.io/tjh-knowledge-base#36-що-знаєте-про-тестування-навантаження-у-якому-випадку-слід-проводити-таке-тестування-на-якому-етапі-готовності-продукту)
+- [37. Decision table і як її можна використовувати](https://tendil.github.io/tjh-knowledge-base#37-decision-table-і-як-її-можна-використовувати)
+- [38. Що може бути критеріями запуску і завершення тестування](https://tendil.github.io/tjh-knowledge-base#38-що-може-бути-критеріями-запуску-і-завершення-тестування)
+- [39. Приклади підходів для тестування локалізації](https://tendil.github.io/tjh-knowledge-base#39-приклади-підходів-для-тестування-локалізації)
+- [40. A/B тестування](https://tendil.github.io/tjh-knowledge-base#40-a-b-тестування)
+- [41. Що таке mock/stub? Які знаєте інструменти для роботи з ними](https://tendil.github.io/tjh-knowledge-base#41-що-таке-mockstub-які-знаєте-інструменти-для-роботи-з-ними)
+- [42. Коли потрібно використовувати техніку Pairwise](https://tendil.github.io/tjh-knowledge-base#42-коли-потрібно-використовувати-техніку-pairwise)
+- [43. Fuzz-тестування і де його використовують](https://tendil.github.io/tjh-knowledge-base#43-fuzz-тестування-і-де-його-використовують)
+- [44. REgexp](https://tendil.github.io/tjh-knowledge-base#44-regexp)
+- [45. Як змінюється вартість дефекту під час тестування ПЗ](https://tendil.github.io/tjh-knowledge-base#45-як-змінюється-вартість-дефекту-під-час-тестування-пз)
+- [46. Які шляхи аналізу бізнесу клієнта? Як визначити доцільність того чи іншого функціоналу](https://tendil.github.io/tjh-knowledge-base#46-які-шляхи-аналізу-бізнесу-клієнта-як-визначити-доцільність-того-чи-іншого-функціоналу)
+- [47. Яке має бути відсоткове співвідношення між позитивним і негативним тестуванням на проєкті](https://tendil.github.io/tjh-knowledge-base#47-яке-має-бути-відсоткове-співвідношення-між-позитивним-і-негативним-тестуванням-на-проєкті)
+- [48. Чи є різниця між bug leakage і bug release](https://tendil.github.io/tjh-knowledge-base#48-чи-є-різниця-між-bug-leakage-і-bug-release)
+- [49. Що потрібно покривати тест-кейсами, а що вважається надлишковою витратою часу і грошей? Коли недоцільно писати тест-кейси](https://tendil.github.io/tjh-knowledge-base#49-що-потрібно-покривати-тест-кейсами-а-що-вважається-надлишковою-витратою-часу-і-грошей-коли-недоцільно-писати-тест-кейси)
+- [50. Як порахувати Cyclomatic complexity](https://tendil.github.io/tjh-knowledge-base#50-як-порахувати-cyclomatic-complexity)
+- [51. У чому основна різниця між defect detection percentage і defect removal efficiency](https://tendil.github.io/tjh-knowledge-base#51-у-чому-основна-різниця-між-defect-detection-percentage-і-defect-removal-efficiency)
+- [52. Які моделі risk-based testing ви знаєте](https://tendil.github.io/tjh-knowledge-base#52-які-моделі-risk-based-testing-ви-знаєте)
+- [53. Тестування API? Інструменти](https://tendil.github.io/tjh-knowledge-base#53-тестування-api-інструменти)
+- [54. Load, Stress та Stability testing? Якими інструментами користуються для їх виконання](https://tendil.github.io/tjh-knowledge-base#54-load-stress-та-stability-testing-якими-інструментами-користуються-для-їх-виконання)
+- [55. Як ви будуватимете і впроваджуватимете стратегію з автоматизації тестування](https://tendil.github.io/tjh-knowledge-base#55-як-ви-будуватимете-і-впроваджуватимете-стратегію-з-автоматизації-тестування)
+- [56. Як обробляти браузерні повідомлення (alerts)](https://tendil.github.io/tjh-knowledge-base#56-як-обробляти-браузерні-повідомлення-alerts)
+- [57. Концепція дизайну Appium](https://tendil.github.io/tjh-knowledge-base#57-концепція-дизайну-appium)
+- [58. Electron? Як використовувати Selenium для тестування програм на його основ](https://tendil.github.io/tjh-knowledge-base#58-electron-як-використовувати-selenium-для-тестування-програм-на-його-основ)
+- [59. Що таке і чим відрізняються віртуальна машина, симулятор та емулятор](https://tendil.github.io/tjh-knowledge-base#59-що-таке-і-чим-відрізняються-віртуальна-машина-симулятор-та-емулятор)
+- [60. Контейнер і чим він відрізняється від віртуальної машини](https://tendil.github.io/tjh-knowledge-base#60-контейнер-і-чим-він-відрізняється-від-віртуальної-машини)
+- [61. IaaS та PaaS? Приклади використання](https://tendil.github.io/tjh-knowledge-base#61-iaas-та-paas-приклади-використання)
+- [62. Configuration Management](https://tendil.github.io/tjh-knowledge-base#62-configuration-management)
+- [63. SSH і як ним користуватися](https://tendil.github.io/tjh-knowledge-base#63-ssh-і-як-ним-користуватися)
+- [64. Bash і Batch скрипти? Для чого їх використовують](https://tendil.github.io/tjh-knowledge-base#64-bash-і-batch-скрипти-для-чого-їх-використовують)
+- [65. Різниця між авторизацією та автентифікацією](https://tendil.github.io/tjh-knowledge-base#65-різниця-між-авторизацією-та-автентифікацією)
+- [66. Чи може сервер відправити код 400, якщо проблема на його стороні](https://tendil.github.io/tjh-knowledge-base#66-чи-може-сервер-відправити-код-400-якщо-проблема-на-його-стороні)
+- [67. Як перевірити обрив з'єднання WebSocket](https://tendil.github.io/tjh-knowledge-base#67-як-перевірити-обрив-зєднання-websocket)
+- [68. Основні види вразливості веб-додатків](https://tendil.github.io/tjh-knowledge-base#68-основні-види-вразливості-веб-додатків)
+- [69. Які інструменти для тестування Web performance client-side знаєте](https://tendil.github.io/tjh-knowledge-base#69-які-інструменти-для-тестування-web-performance-client-side-знаєте)
+- [70. Cніфери? Які знаєте](https://tendil.github.io/tjh-knowledge-base#70-cніфери-які-знаєте)
+- [71. Різниця між DROP та TRUNCATE](https://tendil.github.io/tjh-knowledge-base#71-різниця-між-drop-та-truncate)
+- [72. Функція CASE](https://tendil.github.io/tjh-knowledge-base#72-функція-case)
+- [73. Що таке collation](https://tendil.github.io/tjh-knowledge-base#73-що-таке-collation)
+- [74. Що таке схема GraphQL](https://tendil.github.io/tjh-knowledge-base#74-що-таке-схема-graphql)
+- [75. Різниця між OLTP та OLAP](https://tendil.github.io/tjh-knowledge-base#75-різниця-між-oltp-та-olap)
+- [76. Типи реплікації в SQL Server?](https://tendil.github.io/tjh-knowledge-base#76-типи-реплікації-в-sql-server)
+- [77. Self Join](https://tendil.github.io/tjh-knowledge-base#77-self-join)
+- [78. Що такое тестування](https://tendil.github.io/tjh-knowledge-base#78-що-такое-тестування)
+- [79. Піраміда тестування](https://tendil.github.io/tjh-knowledge-base#79-піраміда-тестування)
+- [80. Навіщо тестувати ПЗ](https://tendil.github.io/tjh-knowledge-base#80-навіщо-тестувати-пз)
+- [81. Етапи тестування](https://tendil.github.io/tjh-knowledge-base#81-етапи-тестування)
+- [82. Типи тестування](https://tendil.github.io/tjh-knowledge-base#82-типи-тестування)
+- [83. Рівні тестування](https://tendil.github.io/tjh-knowledge-base#83-рівні-тестування)
+- [84. Техніки тест-дизайну](https://tendil.github.io/tjh-knowledge-base#84-техніки-тест-дизайну)
+- [85. Що таке Regression та Confirmation тестування, яка між ними різниця](https://tendil.github.io/tjh-knowledge-base#85-що-таке-regression-та-confirmation-тестування-яка-між-ними-різниця)
+- [86. Частота регресійного тестування](https://tendil.github.io/tjh-knowledge-base#86-частота-регресійного-тестування)
+- [87. Види інтеграційного тестування](https://tendil.github.io/tjh-knowledge-base#87-види-інтеграційного-тестування)
+- [88. Configuration Testing](https://tendil.github.io/tjh-knowledge-base#88-configuration-testing)
+- [89. Exploratory Testing](https://tendil.github.io/tjh-knowledge-base#89-exploratory-testing)
+- [90. Performance Testing](https://tendil.github.io/tjh-knowledge-base#90-performance-testing)
+- [91. Traceability Matrix](https://tendil.github.io/tjh-knowledge-base#91-traceability-matrix)
+- [92. End-to-End тест](https://tendil.github.io/tjh-knowledge-base#92-end-to-end-тест)
+- [93. Тестування безпеки](https://tendil.github.io/tjh-knowledge-base#93-тестування-безпеки)
+- [94. Випробування на основі ризиків](https://tendil.github.io/tjh-knowledge-base#94-випробування-на-основі-ризиків)
+- [95. Динамічне тестування](https://tendil.github.io/tjh-knowledge-base#95-динамічне-тестування)
+- [96. Основні фази STLC? Дайте визначення Entry та Exit Criteria](https://tendil.github.io/tjh-knowledge-base#96-основні-фази-stlc-дайте-визначення-entry-та-exit-criteria)
+- [97. Атрибути баг-репорту? Які основні поля для заповнення](https://tendil.github.io/tjh-knowledge-base#97-атрибути-баг-репорту-які-основні-поля-для-заповнення)
+- [98. Різниця між пріоритетом і серйозністю](https://tendil.github.io/tjh-knowledge-base#98-різниця-між-пріоритетом-і-серйозністю)
+- [99. Наведіть приклади серйозного, але не пріоритетного бага](https://tendil.github.io/tjh-knowledge-base#99-наведіть-приклади-серйозного-але-не-пріоритетного-бага)
+- [100. Навіщо потрібна тестова документація? Які її види](https://tendil.github.io/tjh-knowledge-base#100-навіщо-потрібна-тестова-документація-які-її-види)
+- [101. Тест-план? Які елементи має](https://tendil.github.io/tjh-knowledge-base#101-тест-план-які-елементи-має)
 
 
 ## 11. Бази данних
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 
-- [1. Які бувають види БД](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#1-які-бувають-види-бд)
-- [2. ](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#2-)
+- [1. Які бувають види БД](https://tendil.github.io/tjh-knowledge-base#1-які-бувають-види-бд)
+- [2. ](https://tendil.github.io/tjh-knowledge-base#2-)
 
 
 ## 12. Загальні питання
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#загальні-питання)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#загальні-питання)
 
-- [1. Які знаєте Web elements](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#1-які-знаєте-web-elements)
-- [2. Для чого необхідні інструменти розробника в браузері (Chrome DevTools) і як вони допомагають у тестуванні](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#2-для-чого-необхідні-інструменти-розробника-в-браузері-chrome-devtools-і-як-вони-допомагають-у-тестуванні)
-- [3. Що таке кеш](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#3-що-таке-кеш)
-- [4. Що таке сесія](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#4-що-таке-сесія)
-- [5. Навіщо потрібні cookies](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#5-навіщо-потрібні-cookies)
-- [6. iFrame і як з ним працювати в Selenium](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#6-iframe-і-як-з-ним-працювати-в-selenium)
-- [7. Що таке HTML/CSS/JavaScript](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#7-що-таке-html-css-javascript)
-- [8. Яку структуру має веб-сторінка](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#8-яку-структуру-має-веб-сторінка)
-- [9. Навіщо чистити кеш](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#9-навіщо-чистити-кеш)
-- [10. Що таке AJAX](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#10-що-таке-ajax)
-- [11. Що таке ADB](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#11-що-таке-adb)
-- [12. Які є HTTP-методи](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#12-які-є-http-методи)
-- [13. Розшифрування CRUD](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#13-розшифрування-grud)
-- [14. Як відбувається шифрування](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#14-як-відбувається-шифрування)
-- [15. Які способи взаємодії з API існують? У чому різниця між ними](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#15-які-способи-взаємодії-з-api-існують-у-чому-різниця-між-ними)
-- [16. Як можна протестувати API, що там потрібно перевіряти](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#16-як-можна-протестувати-api-що-там-потрібно-перевіряти)
-- [17. Формати передачі даних](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#17-формати-передачі-даних)
-- [18. Відмінності між XML та JSON](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#18-відмінності-між-xml-та-json)
-- [19. Клієнт-серверна архітектура](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#19-клієнт-серверна-архітектура)
-- [20. Для чого потрібні TestNG, JUnit](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#20-для-чого-потрібні-testng-junit)
-- [21. Які інструкції використовуються в TestNG, JUnit](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#21-які-інструкції-використовуються-в-testng-junit)
-- [22. Які assertions є в TestNG, JUnit](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#22-які-assertions-є-в-testng-junit)
-- [23. Як виконувати тести паралельно TestNG, JUnit](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#23-як-виконувати-тести-паралельно-testng-junit)
-- [24. 2 способи, що дозволяють автоматизувати капчу](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#24-2-способи-що-дозволяють-автоматизувати-капчу)
-- [25. Що таке Selenium Grid](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#25-що-таке-selenium-grid)
-- [26. Драйвер браузера](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#26-драйвер-браузера)
-- [27. Які види локаторів сторінки існують? Які їх переваги та недоліки](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#27-які-види-локаторів-сторінки-існують-які-їх-переваги-та-недоліки)
-- [28. ](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#)
-- [29. ](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#)
-- [30. ](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#)
-- [31. ](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#)
+- [1. Які знаєте Web elements](https://tendil.github.io/tjh-knowledge-base#1-які-знаєте-web-elements)
+- [2. Для чого необхідні інструменти розробника в браузері (Chrome DevTools) і як вони допомагають у тестуванні](https://tendil.github.io/tjh-knowledge-base#2-для-чого-необхідні-інструменти-розробника-в-браузері-chrome-devtools-і-як-вони-допомагають-у-тестуванні)
+- [3. Що таке кеш](https://tendil.github.io/tjh-knowledge-base#3-що-таке-кеш)
+- [4. Що таке сесія](https://tendil.github.io/tjh-knowledge-base#4-що-таке-сесія)
+- [5. Навіщо потрібні cookies](https://tendil.github.io/tjh-knowledge-base#5-навіщо-потрібні-cookies)
+- [6. iFrame і як з ним працювати в Selenium](https://tendil.github.io/tjh-knowledge-base#6-iframe-і-як-з-ним-працювати-в-selenium)
+- [7. Що таке HTML/CSS/JavaScript](https://tendil.github.io/tjh-knowledge-base#7-що-таке-html-css-javascript)
+- [8. Яку структуру має веб-сторінка](https://tendil.github.io/tjh-knowledge-base#8-яку-структуру-має-веб-сторінка)
+- [9. Навіщо чистити кеш](https://tendil.github.io/tjh-knowledge-base#9-навіщо-чистити-кеш)
+- [10. Що таке AJAX](https://tendil.github.io/tjh-knowledge-base#10-що-таке-ajax)
+- [11. Що таке ADB](https://tendil.github.io/tjh-knowledge-base#11-що-таке-adb)
+- [12. Які є HTTP-методи](https://tendil.github.io/tjh-knowledge-base#12-які-є-http-методи)
+- [13. Розшифрування CRUD](https://tendil.github.io/tjh-knowledge-base#13-розшифрування-grud)
+- [14. Як відбувається шифрування](https://tendil.github.io/tjh-knowledge-base#14-як-відбувається-шифрування)
+- [15. Які способи взаємодії з API існують? У чому різниця між ними](https://tendil.github.io/tjh-knowledge-base#15-які-способи-взаємодії-з-api-існують-у-чому-різниця-між-ними)
+- [16. Як можна протестувати API, що там потрібно перевіряти](https://tendil.github.io/tjh-knowledge-base#16-як-можна-протестувати-api-що-там-потрібно-перевіряти)
+- [17. Формати передачі даних](https://tendil.github.io/tjh-knowledge-base#17-формати-передачі-даних)
+- [18. Відмінності між XML та JSON](https://tendil.github.io/tjh-knowledge-base#18-відмінності-між-xml-та-json)
+- [19. Клієнт-серверна архітектура](https://tendil.github.io/tjh-knowledge-base#19-клієнт-серверна-архітектура)
+- [20. Для чого потрібні TestNG, JUnit](https://tendil.github.io/tjh-knowledge-base#20-для-чого-потрібні-testng-junit)
+- [21. Які інструкції використовуються в TestNG, JUnit](https://tendil.github.io/tjh-knowledge-base#21-які-інструкції-використовуються-в-testng-junit)
+- [22. Які assertions є в TestNG, JUnit](https://tendil.github.io/tjh-knowledge-base#22-які-assertions-є-в-testng-junit)
+- [23. Як виконувати тести паралельно TestNG, JUnit](https://tendil.github.io/tjh-knowledge-base#23-як-виконувати-тести-паралельно-testng-junit)
+- [24. 2 способи, що дозволяють автоматизувати капчу](https://tendil.github.io/tjh-knowledge-base#24-2-способи-що-дозволяють-автоматизувати-капчу)
+- [25. Що таке Selenium Grid](https://tendil.github.io/tjh-knowledge-base#25-що-таке-selenium-grid)
+- [26. Драйвер браузера](https://tendil.github.io/tjh-knowledge-base#26-драйвер-браузера)
+- [27. Які види локаторів сторінки існують? Які їх переваги та недоліки](https://tendil.github.io/tjh-knowledge-base#27-які-види-локаторів-сторінки-існують-які-їх-переваги-та-недоліки)
+- [28. ](https://tendil.github.io/tjh-knowledge-base#)
+- [29. ](https://tendil.github.io/tjh-knowledge-base#)
+- [30. ](https://tendil.github.io/tjh-knowledge-base#)
+- [31. ](https://tendil.github.io/tjh-knowledge-base#)
 
 ____
 
 # Відповіді - "Python"
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 1. Види типізації
 - Статическая - типизация, при которой переменная связывается с типом в момент объявления, и тип не может быть изменён позже, динамическая - типизация, при которой тип переменной задается в момент присваивания значения, а не в момент объявления, и т.о. может быть изменен позже.
 
@@ -633,23 +633,23 @@ a = 1
 ```
 **Важно**: наиболее рационально и оптимально память используется в случае строгой статической типизации.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 2. Типізація python
 
 Динамическая, строгая, неявная.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 3. Що таке змінна
 Переменная Python — это идентификатор для ссылки на объект в памяти программы. На один и тот же объект в памяти могут указывать (ссылаться) несколько переменных. Как только на область памяти перестают ссылаться переменные - данная область очищается сборщиком мусора, и т.о. память освобождается за счет подсчитывания ссылок на объекты в памяти.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 4. Числа в python
 - int - целые числа.
 - float - вещественные или действительные числа(числа с плавающей точкой).
 - complex - комплексные числа.
 - decimal - десятичные дроби.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 5. Рядки в python
 Cтрока – это упорядоченная последовательность символов, которая предназначена для хранения информации в виде простого текста. В Python3 строка по умолчнанию имеет кодировку Unicode, что избавляет от проблем работы и отображения символов кирилицы и прочих экзотических кодировок. Строка это неизменяемый тип данных, т.е. если нужно добавить символов в существующую строку, придется создать новую строку, с новым адресом в памяти:
 ```
@@ -659,7 +659,7 @@ a = "hello world"
 id(a) # 2044334957804
 ```
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 6. Списки і кортежі в python
 Списки Python схожи с массивами в других языках. Кортеж похож на список, но вы создаете его с круглыми скобками, вместо квадратных. Вы также можете использовать встроенный инструмент для создания кортежей. Разница между списками и кортежами в том, что кортеж неизменяем, в то время как список изменяем. Т.е. в список можно добавить элемент и его адрес в памяти не изменится, а если нужно добавить элемент в кортеж, то нужно создать новый кортеж, и у него уже будет новый адрес в памяти:
 ```
@@ -677,11 +677,11 @@ id(a) # 2044369999872
 ```
 Важно: кортеж занимает меньше места в памяти чем список, и поэтому всегда, когда массив объектов заведомо неизменяем, рекомендуется использовать кортежи, вместо списков.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 7. Словник в python
 Словари в Python - коллекции произвольных объектов с доступом по ключу. Начиная с Python3.6 словарь dict() упорядочен, т.е. при переборе имеющегося словаря, элементы возвращаются в том порядке, в котором они были добавлены в словарь при его наполнении. До Python3.6 приходилось использовать объект OrderedDict(), чтобы иметь упорядоченную коллекцию, с доступам к элементам по ключам. Словарь это изменяемый тип данных.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 8. Які типи даних відносяться до структур даних
 - Массивы
 - Стеки
@@ -693,51 +693,51 @@ id(a) # 2044369999872
 - Хэш таблицы
 - Map 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 9. Що таке віртуальне середовище
 Виртуальное окружение (virtualenv) — это инструмент для создания отдельного пространства для проекта с его зависимостями и библиотеками в директории проекта.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 10. Як встановити віртуальне середовище
 ```
 pip install virtualenv
 python -m venv namevenv
 ```
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 11. Види форматування рядків
 - Форматирование f-строками.
 - Форматирование методом str.format().
 - Форматирование оператором '%'.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 12. Зрізи або срізи в python
 ```
 item[START:STOP:STEP]
 ```
 Функция Python slice() возвращает нарезанный объект из набора индексов ввода, указанного пользователем в соответствии с переданными ему аргументами. Объект должен быть iterable.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 13. Що таке ітерація
 Переход к следующему объекту в коллекции, например список, кортеж и т.д. Сам по себе объект коллекции должен быть iterable.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 14. Які цикли існують в python
 `while` и `for`.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 15. В чому різниця між while та for
 **For** используется только тогда, когда необходимо совершить перебор элементов заранее известное число раз. Цикл **while** также используется для повторения частей кода, но вместо зацикливания на **n** количество раз, он выполняет работу до тех пор, пока не достигнет определенного условия. Выйти из цикла в любой момент можно используя ключевое слово `break`, а перейти на следующую итерацию цикла можно используя слово `continue`.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 16. Як реалізоване розгалуження в python
 `if-elif-else`
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 17. Як запросити в користувача ввід
 Для получения информации с клавиатуры в Python есть функция `input()`.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 18. Приведення типів
 
 - Преобразование типов - это преобразование объекта из одного типа данных в другой тип данных.
@@ -746,7 +746,7 @@ item[START:STOP:STEP]
 - Явное преобразование типов также называется приведением типов, типы данных объекта преобразуются с использованием предопределенной функции.
 - При приведении типов может произойти потеря данных, поскольку мы приводим объект к определенному типу данных.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 19. Що таке анотація типів
 В простейшем случае аннотация содержит непосредственно ожидаемый тип. Аннотации для переменных пишут через двоеточие после идентификатора. После этого может идти инициализация значения. Например `price: int = 5`
 Параметры функции аннотируются так же как переменные, а возвращаемое значение указывается после стрелки `->` и до завершающего двоеточия. Например
@@ -754,15 +754,15 @@ item[START:STOP:STEP]
 
 **Важно**: аннотация типов не есть то же самое, что статическая типизация.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 20. Рядок це послідовність чи ні
 Да.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 21. Що таке PEP8
 PEP - Python Enhancement Proposals - база всех предложений как улучшить Python и что изменить. Например PEP8 - это общепринятое руководство по написанию кода на Python.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 22. Що таке функція range
 - Функция `range()` возвращает объект с интерфейсом итератора, выдающий элементы из диапазона, определяемого аргументами функции range(старт, стоп, шаг), при этом не храня все элементы в памяти.
 - Используется для создания списка из чисел. Разрешены только целые числа, поэтому переданные аргументы могут быть как отрицательными, так и положительными. Допустимы следующие параметры:
@@ -777,11 +777,11 @@ Start: устанавливает первое число в последова�
 Stop: указывает верхний предел для последовательности.
 Step: коэффициент приращения в последовательности.
 ```
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 23. Що робить enumerate
 Если начальное значение счётчика `enumerate()` не передаётся — оно, по умолчанию, устанавливается в 0. Функция создаёт объект, генерирующий кортежи, состоящие из индекса элемента и самого этого элемента.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 24. Які методи списків
 - list.append(x) Добавляет элемент в конец списка
 - list.extend(L) Расширяет список list, добавляя в конец все элементы списка L
@@ -795,15 +795,15 @@ Step: коэффициент приращения в последователь�
 - list.copy()	Поверхностная копия списка
 - list.clear() Очищает список
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 25. Що в python не є об'єктом
 В python всё является объектом, кроме ключевых слов: in, is, if, while, и т.д.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 26. Назви змінних
 Имя переменной может состоять только из цифр, букв и знаков подчеркивания. Имя переменной может начинаться только с буквы или с нижнего подчеркивания. Никаких чисел в начале имени переменной быть не должно.  Имя переменной не может содержать ключевые слова (зарезервированные) языка Python. Принято разделять слова нижним подчеркиванием (snake case).
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 27. Що таке літерали
 Литерал в Python – это простейший способ создания объектов. Если в тексте программы встречается литерал, то для этого литерала создается отдельный объект некоторого типа, соответствующего содержанию литерала:
 ```
@@ -811,50 +811,50 @@ Step: коэффициент приращения в последователь�
 1123     # целочисленный литерал
 [1,2]    # списковый литерал
 ```
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 28. Чи можна число зробити рядком
 Чтобы конвертировать число в строку, используйте встроенную функцию `str()`.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 29. Що робить метод split()
 Разбивает строку на части, используя специальный разделитель, и возвращает эти части в виде списка 
 
 `str.split([разделитель [, maxsplit]])`.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 30. Що робить метод join()
 Метод `"str".join(["Hello", "world"])` возвращает строку, которая является конкатенацией (объединением) всех элементов строк итерируемого объекта iterable. В итоговой строке элементы объединяются между собой при помощи строки-разделителя str. Элементы итерируемого объекта должны быть строками (ну или как минимум иметь реализованный магический метод `__str__()`).
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 31. Як імпортувати модуль
 Используя ключевое слово “import”, например `import random`
 Использование псевдонимов — as. Некоторые модули имеют длинное и неудобное название. Для удобства и сокращения количества кода программист может заменить его на своё.
 Для импорта конкретных объектов используют конструкцию `from ... import ...`. 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 32. Як імпортувати весь вміст модуля
 ```
 from module_name import *
 import module_name
 ```
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 33. Скільки пар ключ-значення може бути в словнику
 Ограничено объемом оперативной памяти.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 34. Який тип даних може бути значенням в словнику
 Ключом может являться в принципе любой неизменяемый тип данных.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 35. Як дізнатися id елемента
 Функция `id()` возвращает уникальный идентификатор для указанного объекта. По сути этот идентификатор однозначно опредедяет адрес объекта в памяти интерпретатора.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 36. Як дізнатися версію python
 В консоли прописать `python --version`
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 37. Відмінності другого python від 3
 Огромное количество отличий. Самые значимые/ключевые:
 - строки в Python3 по умолчанию в кодировке Unicode
@@ -865,56 +865,56 @@ import module_name
 
 Подробнее [здесь](https://pyneng.readthedocs.io/ru/latest/book/additional_info/py2_vs_py3.html).
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 38. Як перервати виконання циклу
 Оператор `break` досрочно прерывает цикл.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 39. Що означає continue
 Оператор `continue` начинает следующий проход цикла, минуя оставшееся тело цикла (for или while).
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 40. Що буде, якщо порівняти 5 і 5.0
 `True`
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 41. Що швидше: python або c++
 `C++`
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 42. Що таке байт-код
 Python - интерпретируемый язык программирования. Он не конвертирует свой код в машинный, который понимает железо (в отличие от С и С++). Процесс такой вот конвертации называется компилляцией. Вместо этого, Python-интерпретатор, а точнее говоря его стандартная реализация CPython, переводит код программы в байт-код, который запускается на виртуальной машине Python (PVM). Есть реализация интерпретатора Python, которая работает через JIT (just in time) компилляцию - Pypy.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 43. Як уникнути конфліктів при імпорті файлів
 - Называть свои модули так, чтобы имена не совпадали с именами сторонних/стандартных библиотек, которые также используются в коде
 - Ипользовать `as` при импорте, чтобы заменять названия импортируемых модулей
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 44. Що означає %s %d
 `%s` Строка `%d` Десятичное число.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 45. Що таке клас
 **Класс** — тип, описывающий устройство объектов. Другими словами, это описание сущности, у которой есть определенный набор свойств и методов.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 46. Що таке успадкування
 Возможность одному классу выступать в качестве наследника для другого, перенимая тем самым его свойства и методы. Ключевой момент наследования - это то, что класс наследник может не только использовать методы и свойства родительского класса, но и переопределить их, а также добавить новые свойства и методы.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 47. Що таке інкапсуляція
 Ограничение доступа к составляющим объект компонентам (методам и свойствам). Инкапсуляция делает некоторые из компонент доступными только внутри класса.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 48. Що таке поліморфізм
 Разное поведение одного и того же метода в разных классах.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 49. Скільки може бути батьків і спадкоємців у класу
 Неограниченное количество.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 50. Що таке перевантаження операторів
 Один из способов реализации полиморфизма, заключающийся в возможности одновременного существования в одной области видимости нескольких различных вариантов применения оператора, имеющих одно и то же имя, но различающихся типами параметров, к которым они применяются. Перегрузка операторов **не** поддерживается в Python.
 
@@ -934,14 +934,14 @@ float S1 = getArea(5.0, 6.0); // 30
 float S3 = getArea(5.0); // 78.5
 ```
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 51. Магічні методи
 Это специальные методы в python, обрамленные двумя нижними подчеркиваниями
 - Инициализация объекта: `__init__`
 - Строковые представления: `__repr__` , `__str__`
 - Итерация: `__iter__` , `__next__` и другие
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 52. Модифікатори доступу
 Есть три типа модификаторов доступов в Python ООП:
 - публичный `public`
@@ -950,28 +950,28 @@ float S3 = getArea(5.0); // 78.5
 
 **Важно**: в Python нету жесткой инкапсуляции, т.е. даже к приватному методу можно получить доступ снаружи класса. Инкапсуляция в Python это больше договорянность между разработчиками, чем жесткое сокрытие, как например в C++ или Java.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 53. Генератори
 Это функция, которая будучи вызванной в функции **next()** возвращает следующий объект согласно алгоритму ее работы. Вместо ключевого слова **return** в генераторе используется **yield**. Главное отличие yield от return это то, что yield, после возврата объекта, сохраняет стек генератора, так что при следующем вызове функции next() от генератора, исполнение кода генератора продолжится с того момента, где yield вернул объект в прошлый раз.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 54. Як пишуться коментарі в python
 С помощью символа `#`. Так же есть такое понятие как docstring задать его можно с помощью тройных кавычек.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 55. Як можна змінити (зворотній) порядок елементів у списку
 С помощью среза `[::-1]` или встроенной функции `reversed()`.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 56. Якщо ми не поставимо двокрапку в кінці рядка для циклу "do-while", він все одно виконається?
 
 В python такой цикл не реализован. Это вопрос из тех, которые с подвохом, когда упоминают элементы других языков.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 57. Як видалити зі списку дублікат елемента
 Для этого можно конвертировать список во множество `set()`.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 58. Розкажіть про арифметичні оператори //, %, і **
 - Оператор // выполняет целочисленное деление и возвращает целую часть числа, полученного в результате операции:
 ```
@@ -985,85 +985,85 @@ float S3 = getArea(5.0); // 78.5
 ```
 13 % 7 = 6
 ```
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 59. Як порахувати довжину рядка (string)
 Для этого вызываем функцию `len()`.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 60. Розкажіть про генератори списків (list comprehension)
 Генераторы позволяют создавать списки с помощью одной строки кода
 ```
 >>> [i for i in range(1, 11, 2)]
 [1, 3, 5, 7, 9] 
 ```
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 61. Що таке HTTP
 HyperText Transfer Protocol — «протокол передачи гипертекста». По умолчанию использует для работы TCP порт 80.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 62. Що таке json, xml
 JSON - текстовый формат обмена данными, основанный на JavaScript - JavaScript Object Notation.
 XML - в переводе с англ eXtensible Markup Language — расширяемый язык разметки. Используется для хранения и передачи данных.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 63. Чим відрізняється HTML від XML
 Разница: **HTML** - это язык разметки, который используется для разработки веб-страниц. Его основная цель - отображение данных с акцентом на их внешний вид. **XML** - это язык разметки, основной целью которого является транспортировка и хранение данных.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 64. Що таке CRUD
 Терамин обозначающий четыре базовые функции:
 создание (**create**), чтение (**read**), редактирование (**update**) и удаление (**delete**). Как правило термин "CRUD" употребляется в контексте работы с хранилищем данных.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 65. Який патерн програмування реалізує Django
 Фреймворк Django реализует архитектурный паттерн **Model-View-Template**.
 
 *В DRF Request-Process-Response.*
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 66. На якому етапі в додатку Django відбувається запит до бази даних
 QuerySet может быть создан, отфильтрован, ограничен и использован фактически без выполнения запросов к базе данных. База данных не будет затронута, пока вы не спровоцируете выполнение QuerySet.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 67. Який результат буде Post.objects.all() і якого типу верне
 Объект класса QuerySet.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 68. Що таке SQL
 SQL или Structured Query Language (язык структурированных запросов) — язык программирования, предназначенный для управления данными в СУБД.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 69. Яким запитом я можу витягнути всі дані з таблиці
 ```
 SELECT * FROM nametable
 ```
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 70. Що таке багато-до-багатьох (многие-ко-многим)
 Связь многие ко многим описывает ситуацию, когда объект первой модели может одновременно ассоциироваться с несколькими объектами второй модели. И наоборот, один объект второй модели может также одновременно быть ассоциирован с несколькими объектами первой модели. Например, один студент может посещать несколько курсов, а один курс могут посещать несколько студентов.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 71. Як реалізується М2М в SQL
 Связь многие ко многим подразумевает, что записи в одной таблице могут иметь множество ссылок на другую таблицу и наоборот. Когда есть такой тип связи нужно создавать дополнительную таблицу, которая сведет связь многие ко многим до связи один ко многим.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 72. Що таке JOIN і яким він може бути
 - INNER JOIN (CROSS JOIN) - внутреннее (перекрёстное) объединение.
 - LEFT JOIN - левостороннее внешнее объединение.
 - RIGHT JOIN - правостороннее внешнее объединение.
 - FULL OUTER JOIN (FULL JOIN) - полное объединение
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 73. Що таке View
 Views отвечают за обработку и передачу данных и могут реализовывать одну или несколько функций. В Django используются два вида представлений:
 - Представления-функции (view functions),
 - Представления-классы (class based views).
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 74. Що таке міксини
 **Mixin** представляет собой набор свойств и методов, которые могут быть использованы в различных классах, которые не приходят из базового класса.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 75. Префіксні та інфіксні оператори
     Инфиксные это умножение и возведение в степень.
 
@@ -1076,16 +1076,16 @@ Views отвечают за обработку и передачу данных 
 	Использование *   для распаковки итерируемых объектов в список/кортеж;
 	Использование **  для распаковки словарей в другие словари.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 76. Два способи створення класу
 Класс **type()** с тремя аргументами вернет объект нового типа. Это по сути динамическая форма инструкции **class**, ее еще называют метакласс.
 `type(class_name, super_classes, attributes_dict)`
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 77. Чим файл .pyc відрізняється від .py
 `.pyc` содержат скомпилированный байт-код исходных файлов Python
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 78. Що робить python об'єктно-орієнтованим
 Он следует парадигме объектно-ориентированного программирования, которая построена вокруг классов (classes) и их экземпляров (instances). Это позволяет реализовать следующие функции:
 - сокрытие внутренней структуры данных
@@ -1094,23 +1094,23 @@ Views отвечают за обработку и передачу данных 
 - полиморфизм (способность выбирать правильный метод в зависимости от типа данных)
 - ограничение доступа к данным.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 79. Як проводиться відлагодження програми на Python
 Использовать IDE с поддержкой дебага либо использовать модуль **pdb**
 ```
 import pdb; pdb.set_trace()
 ```
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 80. Що таке GIL
 Глобальная блокировка интерпретатора CPython. Это механизм, который не позволяет нескольким потокам выполнить один и тот же байткод. Другими словами, благодаря GIL, в каждый момент времени в контексте одного процесса Python исполняется только один поток (Thread), все остальные ждут своей очереди на исполнение. Именно поэтому многопоточность не ускоряет обработку данных в разных потоках, так как по факту все обрабатывается последовательно.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 
 ### 81. Що таке Django Middleware
 Django Middleware (middleware в переводе "промежуточный слой") – это промежуточный слой между запросом (request) и ответом (response). В Django по умолчанию содержатся наиболее важные и нужные middleware. Например, AuthenticationMiddleware, ассоциирует пользователей с запросами с помощью сессий. Можно написать свой middleware: например хорошим вариантом может быть middleware для отлавливания и логгирования всех тех исключений которые не были отловлены на более низких уровнях.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 
 ### 82. Як вставити об'єкт так, щоб він опинився під певним індексом?
 
@@ -1124,17 +1124,17 @@ Django Middleware (middleware в переводе "промежуточный с
 >>> a
 [1, 2, 3, 4]
 ```
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 
 ### 83. Що потрібно зробити, щоб функція повертала значення? Використовувати оператор return або yield
 Использовать оператор `return` или `yield`
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 
 ### 84. Що якщо в функції не буде return, чи вона щось поверне?
 Функция может и не заканчиваться инструкцией `return`, при этом функция вернет значение `None`
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 
 
 ### 85. Напишіть в одну строку, як можна отримати найпізнішу за кодом літеру у рядку
@@ -1146,7 +1146,7 @@ Django Middleware (middleware в переводе "промежуточный с
 'w'
 ```
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 
 
 ### 86. Як конвертувати список в рядок?
@@ -1174,7 +1174,7 @@ Django Middleware (middleware в переводе "промежуточный с
 >>> "".join(map(str, a))
 '123'
 ```
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 
 
 ### 87. Принципи SOLID
@@ -1199,7 +1199,7 @@ D — Dependency Inversion (Принцип инверсии зависимост
 
 ```Модули верхнего уровня не должны зависеть от модулей нижнего уровня. И те, и другие должны зависеть от абстракций. Абстракции не должны зависеть от деталей. Детали должны зависеть от абстракций.```
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 
 
 ### 88. SQL JOIN
@@ -1220,11 +1220,11 @@ OUTER	RIGHT JOIN	Возвращает все записи из правой та
 OUTER	FULL JOIN	Возвращает все записи из обеих таблиц
 ```
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 89. SQL оператор HAVING
 SQL оператор HAVING используется в сочетании с оператором GROUP BY, чтобы ограничить группы возвращаемых строк только теми, чьё условие TRUE.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 
 ### 90. Метакласи в Python
 Метакласс это «штука», которая создаёт классы.
@@ -1241,7 +1241,7 @@ SQL оператор HAVING используется в сочетании с о
 
 Это потому что функция type на самом деле является метаклассом. type это метакласс, который Питон внутренне использует для создания всех классов.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 91. Множинне успадкування
 
 
@@ -1274,12 +1274,12 @@ c1.f_func2()              # Выведет: Метод f_func2() класса Cl
 c1.f_func3()              # Выведет: Метод f_func3() класса Class3
 c1.f_func4()              # Выведет: Метод f_func4() класса Class4
 ```
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 92. Компоненти django
 
 ![image](https://user-images.githubusercontent.com/56235826/110922871-4b9abb80-8331-11eb-9554-c0f6058e9156.png)
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 93. Які вбудовані типи доступні в Python
 
 - В Python есть несколько стандартных типов данных:
@@ -1292,7 +1292,7 @@ c1.f_func4()              # Выведет: Метод f_func4() класса Cl
     * Sets (множества)
     * Boolean (логический тип данных)
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 94. Mutable та immutable типи даних
 
 - изменяемые (списки, словари и множества)
@@ -1300,7 +1300,7 @@ c1.f_func4()              # Выведет: Метод f_func4() класса Cl
 - упорядоченные (списки, кортежи, строки и словари)
 - неупорядоченные (множества)
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 95. Лямбда-функція в Python
 Лямбда часто используется как встраиваемая функция и представляет собой единственное анонимное функциональное выражение. Она применяется для создания нового объекта функции и его возврата во время выполнения.
 
@@ -1313,7 +1313,7 @@ print(a(5, 6))
 #  Вывод: 11
 ```
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 96. Що означає простір імен
 
 >Пространство имен представляет собой систему имен, которая используется для обеспечения уникальности наименования всех объектов в программе, чтобы избежать возможных конфликтов.   
@@ -1325,42 +1325,42 @@ print(a(5, 6))
 - **Глобальное пространство имен** — состоит из имен различных импортированных пакетов/модулей, которые в настоящее время используются в проекте. Глобальное пространство имен создается при импорте пакета в скрипт, и оно доступно до тех пор, пока скрипт не закончит выполнение.
 - **Встроенное пространство имен** — оно включает встроенные функции Python и встроенные имена для различных типов исключений.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 97. Чим відрізняється pickling від unpickling
 
 > В Python модуль pickle принимает любой объект Python, преобразует его в строковое представление и выгружает его в файл с помощью функции dump. Такой процесс известен как pickling. Для этого процесса используется функция pickle.dump().
 
 > С другой стороны, процесс извлечения исходного объекта Python из сохраненного строкового представления называется unpickling. Для этого процесса используется функция pickle.load().
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 98. Різниця між генераторами та ітераторами
 
 В Python итераторы используются для перебора группы элементов (например, в списке).   
 Генераторы представляют собой способ реализации итераторов. В них применяется yield для возврата выражения из функции, но в остальном генератор ведет себя как обычная функция.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 99. Як перетворити число в рядок
 
 Один из самых распространенных вопросов на собеседовании. Мы можем использовать встроенную функцию str().   
 Для восьмеричного или шестнадцатеричного представления числа мы можем использовать другие встроенные функции, такие как oct() или hex().
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 100. Обов'язково чи функція Python повинна повертати значення
 
 > Нет
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 101. Чи існує в Python функція main()
 
 > Да, есть. 
 >> Она выполняется автоматически всякий раз, когда мы запускаем скрипт. Если вы хотите изменить этот естественный порядок вещей, используйте оператор if.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 102. Який метод використовувався перед оператором «in» для перевірки наявності ключа в словнику
 
 Метод ```has_key()```.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 103. Управління пам'яттю в Python
 
 - В Python диспетчер памяти заботится об управлении памятью.   
@@ -1368,13 +1368,13 @@ print(a(5, 6))
 
 - Кроме того, Python оснащен встроенным сборщиком мусора, который освобождает неиспользуемую память из пространства кучи.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 104. Що таке PYTHONPATH
 
 PYTHONPATH — это переменная окружения, которая используется для включения дополнительных каталогов при импорте модуля/пакета.   
 Каждый раз, когда модуль/пакет импортируется, PYTHONPATH используется для проверки наличия добавляемых модулей в существующих каталогах. Обычно интерпретатор использует PYTHONPATH, чтобы определить, какой модуль загрузить.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 105. Що таке модулі Python
 
 - Модули Python — это файлы, содержащие код на Python, который представляет собой либо функциональные классы, либо переменные. Модули являются файлами Python с расширением .py. Они могут включать в себя набор функций, классов или переменных, которые определены и реализованы. Вы можете импортировать и инициализировать модуль с помощью инструкции import. Изучив руководство по Python, вы можете узнать больше о модулях в Python.
@@ -1388,24 +1388,24 @@ random,
 datetime,
 JSON.
 ```
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 106. Що означає self в Python
 
 В Python ```self``` — это ключевое слово, применяемое для определения экземпляра или объекта класса. В отличие от Java, где self не является обязательным, в Python он используется как первый параметр. Self помогает отличать методы и атрибуты класса от его локальных переменных.
 
 Переменная **self** в методе ```__init__``` ссылается к созданному объекту или экземпляру, тогда как в других методах она указывает на объект или экземпляр, метод которого был вызван.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 107. Як Python інтерпретується як мова
 
 Интерпретируемый язык - это любой язык программирования, который не находится в машинном коде до выполнения. Таким образом, Python им и является.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 108. Як інтерпретується Python
 
 Программа Python запускается непосредственно из исходного кода, написанным программистом. Язык преобразует его в промежуточный код, который снова переводится на машинный язык, который затем уже должен быть выполнен.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 109. Як в Python керується пам'ятю
 
 Память в Python управляется приватным пространством кучи Python.  
@@ -1414,7 +1414,7 @@ JSON.
 Менеджер памяти Python заботится о выделении частного пространства кучи.  
 Память для пространства кучи Python предоставляется встроенным сборщиком мусора, который перерабатывает и освобождает всю неиспользуемую память.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 110. Що таке функція в Python
 
 Функция - это блок кода, который выполняется только при его вызове. Для определения функции Python используется ключевое слово ```def```. Если функция возвращает что-то, ей нужно ключевое слово ```return```.
@@ -1424,7 +1424,7 @@ def example(a):
    return a*2
 ```
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 111. Що таке локальні та глобальні змінні в Python
 
 * Глобальная переменная:
@@ -1443,15 +1443,15 @@ def sample():
    a = 1   
 ```
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 112. Чому лямбда-форми в Python не мають операторів
 Потому что они используются для создания нового объекта функции, а затем возвращают его во время выполнения.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 113. Від'ємні індекси і чому їх використовують
 Когда мы используем индекс для доступа к элементам из конца списка, это называется обратным индексированием. При нем индексация элементов начинается с последнего элемента с индексом -1. Второй последний элемент имеет индекс “-2” и так далее. Они называются отрицательными.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 114. Як отримати список усіх ключів в словнику
 Можно использовать атрибут, который есть у словаря - keys().
 ```
@@ -1459,7 +1459,7 @@ dictionary = {'key' : 'value', 'key1': : 'value1'}
 print(dictionary.keys())
 ```
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 115. Різниця між списком та кортежем
 Разница между списком и кортежем заключается в том, что список является изменяемым, а кортеж - нет. Кортеж может быть хэширован, например, в качестве ключа для словарей. Список определяется с помощью [], а кортеж - с помощью () .
 
@@ -1479,15 +1479,15 @@ tuple_ex = (1,2,'test)
 tuple_ex[0] = 100 #Вернет ошибку
 ```
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 116. Що таке ітератори в Python
 В Python итераторы используются для итерации группы элементов, контейнеров, таких как список или строка. Под итерацией подразумевается, что что-то может быть зациклено с помощью оператора.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 117. Що таке функція map в Python
 ```map()``` - это функция, которая принимает другую в качестве аргумента, а затем применяет её ко всем элементам итератора, передаваемым ей в качестве другого аргумента. Функция вернет объект ```map```, поэтому нам нужно преобразовать его в объект списка.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 118. Що таке поверхнева копія
 Поверхностная копия используется при создании нового типа экземпляра и сохраняет значения, скопированные в новом. Также она используется для копирования ссылочных указателей. Это означает, что когда мы копируем объект в другую переменную, он будет привязан.
 ```
@@ -1499,7 +1499,7 @@ another_list[0] = 100
 print(list_example)
 ```
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 119. Що таке глибока копія
 Глубокая копия используется для хранения значений, которые уже скопированы. Глубокая копия не копирует ссылочные указатели на объекты. Она создает ссылку на объект, и новый объект, на который указывает другой, сохраняется. В отличие от неглубокой копии, изменения, внесенные в исходную копию, не повлияют ни на одну другую копию, использующую объект. Это значит, что они не привязаны.
 ```
@@ -1513,7 +1513,7 @@ another_list[0] = 100
 print(list_example)
 ```
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 120. Що робить функція zip()
 
 Она вернет итератор кортежей, сформирует n-пару значений из перечисляемых, передаваемых функции. n - это число итерируемых, которые передают функции.
@@ -1528,7 +1528,7 @@ for num, fruit, thing in zip([1,2,3], ['apple', 'grape', 'orange'], ['x', 2, Tru
     print(thing)
 ```
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 121. Що робить оператор with в Python
 Оператор ```with``` в Python гарантирует, что код очистки выполняется при работе с неуправляемыми ресурсами путем инкапсуляции общих задач подготовки и очистки. Он может быть использован, чтобы открыть файл, сделать что-то, а затем автоматически закрыть его. Также он может пригодиться для открытия соединения с базой данных, выполнения некоторой обработки, а затем автоматического закрытия, чтобы гарантировать, что ресурсы закрыты и доступны для других. with выполнит очистку ресурсов, даже если выдается исключение.
 ```
@@ -1538,7 +1538,7 @@ with open('database.txt') as data:
     print(data)
 ```
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 122. Коли виконується блок except в конструкції try-except 
 Блок ```try-except``` обычно используется, когда мы хотим что-то выполнить, если возникли ошибки. ```except``` выполняется, когда код в блоке ```try``` вызвал ошибки.
 ```
@@ -1549,11 +1549,11 @@ except:
    print('There is an error')
 ```
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 123. Де ви будете використовувати while замість for
 Для простого повторяющегося цикла, либо тогда, когда не нужно перебирать список элементов, например записи базы данных и символы в строке.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 124. Чи є масиви NumPy в Python кращими за списки
 Мы используем массивы Python NumPy вместо списка по следующим трем причинам:
 
@@ -1563,7 +1563,7 @@ except:
 
 3. удобнее.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 125. Як отримати поточний робочий каталог за допомогою Python
 Работая с Python, вам может понадобиться читать и записывать файлы из различных каталогов. Чтобы узнать, в каком вы сейчас работаете, можно использовать метод ```getcwd()``` из модуля os:
 ```
@@ -1571,7 +1571,7 @@ import os
 os.getcwd()
 ```
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 126. Що таке приведення в Python
 
 Приведение - это процесс преобразования значения переменной из одного типа в другой. В Python это можно сделать с помощью таких функций, как ```list(), int (), float() и str()```. Примером может служить преобразование строки в целочисленный объект:
@@ -1580,7 +1580,7 @@ a = '1'
 b = int(a)
 ```
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 127. Як можна видалити змінні в Python
 Для удаления переменной мы можем использовать функцию ```del()```. Считается хорошей практикой, убрать что-то лишнее, что не используется.
 ```
@@ -1588,7 +1588,7 @@ a = 1
 del a
 ```
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 128. В чому різниця між методами append та extend
 Они используются для добавления элементов в конец списка.
 ```
@@ -1596,7 +1596,7 @@ append(элемент): # добавляет элемент в конец спи
 extend(другой список): # добавляет элементы другого списка в конец первого.
 ```
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 129. Що означає *args, **kwargs і навіщо нам їх використовувати
 
 Мы используем ```*args```, когда неуверены, сколько аргументов будет передано функции, или если хотим передать сохраненный список или кортеж аргументов функции. ```**kwargs``` используется, когда мы не знаем, сколько аргументов ключевых слов будет передано, а также он может быть использован для передачи значений словаря в качестве аргументов ключевых слов. Идентификаторы ```args и kwargs``` необязательны, вы можете изменить их на другие, типа ```*другой **пример```, но лучше использовать имя по умолчанию.
@@ -1614,14 +1614,14 @@ def sample(**kwargs):
 sample(a = 'time', b = 1)
 ```
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 130. Що означає одинарний і подвійний підкреслення перед ім'ям об'єкта (dunder methods)
 
 Одиночное подчеркивание - имена в классе с подчеркиванием перед ними просто указывают другим программистам, что атрибут или метод предназначен для закрытого использования, однако с самим именем ничего особенного не делается.
 
 Двойное подчеркивание (искажение имени) - любой идентификатор вида ```__spam``` (не менее двух ведущих подчеркиваний, не более одного завершающего) заменяется на ```_имякласса__spam```, где имя класса - это текущее спрятанное имя с подчеркиванием перед ним. Это искажение выполняется без учета синтаксической позиции идентификатора, поэтому его можно использовать для определения экземпляра закрытого класса и его переменных, методов, а также глобальных и других переменных, хранящихся в экземплярах, частных для этого класса в экземплярах других. 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 131. Що таке генератор
 
 Генератор Python створює послідовність значень для ітерації, часто за допомогою функції. Ми визначаємо функцію за допомогою ```yield``, яка використовується для отримання значення по одному, а потім використовуємо цикл ```for`` для ітерації.
@@ -1635,13 +1635,13 @@ for i in squares(7):
     print(i)
 ```
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 132. Яка мета одинарної змінної підкреслення в Python
 
 Вона призначена для зберігання результату останнього виконаного виразу (/statement) у сеансі інтерактивного інтерпретатора.  
 Цей прецедент було встановлено стандартним інтерпретатором CPython, а інші наслідували цей приклад.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 133. Які типи успадкування існують в Python
 
 > Python підтримує різні типи успадкування.  
@@ -1652,7 +1652,7 @@ for i in squares(7):
 3. Ієрархічне успадкування;
 4. Множинне успадкування.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 134. Що таке розпакування кортежу
 
 Це процес розпакування його значень і їхнього введення в кілька різних змінних.
@@ -1663,7 +1663,7 @@ tup = (1,2,3)
 a,b,c = tup
 ```
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 135. Чи звільняється вся пам'ять після виходу з Python
 
 Вихід із Python звільняє все, крім:
@@ -1674,14 +1674,14 @@ a,b,c = tup
 
 3. частини пам'яті, зарезервованої бібліотекою C.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 136. Чи є функція дійсною, якщо вона не має оператора return
 
 Функція, яка нічого не повертає, повертає об'єкт ```None``.  
 Ключове слово return необов'язково позначає кінець функції, воно просто завершує її, якщо присутнє.  
 Зазвичай блок коду позначає функцію, і там, де закінчується блок, закінчується і тіло функції.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 137. На що корисно використовувати ООП
 
 1. ООП забезпечує ясність у програмуванні і, отже, простоту в розв'язанні складних завдань.
@@ -1691,12 +1691,12 @@ a,b,c = tup
 5. Проблеми можуть бути розділені на дрібні частини, що полегшує їх вирішення
 6. Концепція поліморфізму надає програмі гнучкості, дозволяючи об'єктам мати кілька форм.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 138. Що таке об'єкт
 
 Об'єкт - це сутність реального світу, яка є основною одиницею ООП, наприклад, стілець, кішка, собака тощо. Різні об'єкти мають різні стани або атрибути та поведінку.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 139. В чому різниця між класом та структурою
 
 **Клас**: визначений користувачем проект, з якого створюються об'єкти.  
@@ -1704,7 +1704,7 @@ a,b,c = tup
 
 Структура. Структура - це, в основному, користувацький набір змінних різних типів даних.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 140. Чи можете ви викликати метод базового класу без створення екземпляру
 
 Так, ви можете викликати базовий клас без його створення, якщо:
@@ -1712,7 +1712,7 @@ a,b,c = tup
 1. Це статичний метод
 2. базовий клас успадковується деяким іншим підкласом
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 141. В чому різниця між класом та об'єктом
 
 >**Об'єкт:**
@@ -1729,24 +1729,24 @@ a,b,c = tup
 4. Не займає місце в пам'яті при створенні
 5. Оголошується один раз
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 142. Що таке суперклас
 
 Суперклас або базовий клас - це клас, який діє як батьківський для деякого іншого класу або класів. Наприклад, клас "Автомобіль" є суперкласом класу "Машина".
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 143. Що таке підклас
 
 Клас, який успадковується від іншого класу, називається підкласом. Наприклад, клас "Машина" є підкласом або похідним від класу "Автомобіль".
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 144. Що таке абстракція
 
 Абстракція - це концепція ООП для побудови структури об'єктів реального світу.  
 Вона "показує" тільки суттєві атрибути і "ховає" непотрібну інформацію від сторонніх очей.  
 Основна мета абстракції - приховати непотрібні деталі від користувачів. Це одна з найважливіших концепцій ООП.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 145. Різниця між процедурним програмуванням та ООП
 
 > Процедурне програмування:
@@ -1766,7 +1766,7 @@ a,b,c = tup
 - Дотримується парадигми програмування "знизу вгору".
 - Він менш складний за своєю природою, тому його легше модифікувати, розширювати і підтримувати.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 146. В чому різниця між модулем та пакетом в Python
 
 Кожен програмний файл Python являє собою модуль, який імпортує інші модулі як об'єкти.  
@@ -1776,47 +1776,47 @@ a,b,c = tup
 ---
 # Відповіді - 'GIT'
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 1. Що таке Git
 Розподілена система управління версіями. Розроблено Лінусом Торвальдсом, для зручної розробки ядра Linux.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 2. Як створити локальний Git репозиторій
 
 ```
 git init
 ```
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 3. Що таке git push
 
 Надсилання всіх невідправлених локальних комітів на віддалений сервер репозиторію.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 4. Що робить git commit
 
 Фіксує зміни локальних файлів у таймлайні репозиторію. Інакше кажучи, робить "моментальний знімок" репозиторію в даний момент часу, який і є версією.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 5. Git merge та rebase
 
 ```git merge``` - приймає вміст гілки джерела та об'єднує їх із цільовою гілкою. У цьому процесі змінюється тільки цільова гілка. Історія вихідних гілок залишається незмінною.  
 ```git rebase``` - ще один спосіб перенести зміни з однієї гілки в іншу. ```Rebase``` стискає всі зміни в один "патч".  
 Потім він інтегрує патч у цільову гілку.На відміну від злиття, переміщення перезаписує історію, тому що вона передає завершену роботу з однієї гілки в іншу.У процесі усувається небажана історія.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 6. Для чого використовують системи контролю версій
 *Система контролю версій (Version Control System/VCS)* - дозволяє зберігати кілька версій одного і того ж документа, при необхідності повертатися до більш ранніх версій, визначати, хто і коли зробив ту чи іншу зміну, та багато іншого.
 VCS дозволяє змінювати одні й самі файли декільком розробникам одночасно. При цьому всі варіанти змін зберігаються окремо, і можна зробити різні варіанти того самого файлу з урахуванням різних правок від різних людей. Якщо ж кілька змін зачіпають той самий фрагмент документа, то система запропонує вибрати потрібний варіант.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 7. Що таке Git і GitHub
 Git — це безкоштовна розподілена система керування версіями з відкритим вихідним кодом, розроблена для швидкої та ефективної обробки проектів будь-якого розміру.
 
 GitHub використовує Git для надання Інтернет-хостингу для контролю версій і розробки програмного забезпечення. Він пропонує функції розподіленого контролю версій і керування вихідним кодом, які є в Git, на додаток до інших унікальних функцій.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 8. Яка різниця між Git і GitHub?
 
 Git — це система контролю версій, яка використовується для керування історією вихідного коду.  
@@ -1824,7 +1824,7 @@ Git — це система контролю версій, яка викорис
 GitHub призначений для кращого керування проектами з відкритим кодом.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 9. Які основні відмінності між Git і SVN?
 
 | Критерії                | GIT              | SVN       |
@@ -1841,7 +1841,7 @@ GitHub призначений для кращого керування прое�
 - Ви не можете внести зміни в Git, але SVN дозволяє створити тег як гілку, і ви можете створити кілька версій під кореневим тегом
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 10. Які переваги використання GIT?
 
 Ось деякі з найважливіших переваг Git:
@@ -1853,33 +1853,33 @@ GitHub призначений для кращого керування прое�
 - Дуже легко співпрацювати над будь-яким проектом
 - Ми можемо працювати над будь-яким проектом у Git
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 11. Яка мова використовується в GIT
 
 C — це мова програмування, яка використовується для створення Git, що гарантує зменшення накладних витрат.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 12. Що таке Git Bash
 
 Git Bash — це програма, яка встановлює Bash, Git і кілька утиліт Bash, які зазвичай використовуються в ОС Windows.  
 У Git Bash можлива взаємодія з елементами Git і репозиторієм за допомогою різних команд.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 13. Що означає «Індекс» або «Посадкова область» у git (Staging Area)
 
 Коли ми робимо коміти, ми можемо вносити до нього зміни, форматувати та переглядати його в проміжній області, відомій як «Постанова області» або «Індекс».
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 14. Що таке тегування в Git (tagging)
 
 Додавання тегів дозволяє розробникам позначати всі важливі контрольні точки в ході виконання своїх проектів.  
 Замість ідентифікаторів комітів можна використовувати назви тегів, коли коміти перевіряються та надсилаються до віддаленого репо.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 15. Що таке forking в Git
 
 Копія сховища називається форком.  
@@ -1887,20 +1887,20 @@ Git Bash — це програма, яка встановлює Bash, Git і к�
 Цей процес ідеально підходить для пропозиції змін до чиїхось проектів.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 16. Для чого корисний Git clone
 
 Команда ```git clone``` дозволяє скопіювати існуючий репозиторій Git. Якщо ми хочемо отримати копію центрального репозиторію, то найкращий спосіб зробити це — використовувати «клонування»
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 17. Який процес створення репозиторію в Git
 
 Якщо ми хочемо створити репозиторій у Git, то нам потрібно виконати команду ```git init```.  
 За допомогою цієї команди .git repository ми можемо створити каталог у каталозі проекту.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 18. Що таке cherry-pick у Git
 
 Git cherry-pick — це команда, яка дозволяє вибирати довільні коміти Git за посиланням і додавати їх до HEAD.  
@@ -1908,20 +1908,20 @@ Cherry-picking — це процес вибору коміту з однієї �
 Це допомагає скасувати зміни.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 19. Що таке origin у Git
 
 Походження відноситься до віддаленого сховища, з якого спочатку було клоновано проект, і використовується замість URL-адреси оригінального сховища.  
 Це полегшує посилання.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 20. Що таке команда git pull
 
 Команда ```git pull``` призначена для отримання та завантаження вмісту з віддаленого сховища та інтеграції його з локальним сховищем.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 21. Яка різниця між git fetch і git pull
 
 Git fetch отримує нові дані з віддаленого сховища, але не інтегрує їх у наші робочі файли. Це допомагає перевірити, чи відбулися будь-які зміни у віддаленому сховищі.  
@@ -1931,14 +1931,14 @@ Git fetch отримує нові дані з віддаленого схови�
 Використання ```git pull``` може призвести до конфлікту злиття, оскільки він намагається об’єднати віддалені зміни з локальними.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 22. Поясніть git checkout у Git
 
 ```git checkout``` дозволяє перемикати HEAD.  
 Його також можна використовувати для відновлення історичних версій файлів. Команда працює з файлами, комітами та гілками.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 23. Що робить git rebase
 
 Перебазування — це повторне застосування комітів поверх іншого базового відключення.  
@@ -1946,34 +1946,34 @@ Git fetch отримує нові дані з віддаленого схови�
 Перебазування створює враження, ніби хтось створив гілку з іншого коміту.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 24. Яка різниця між git rebase і git merge
 
 У ```git rebase``` гілку функції переміщується в головну.  
 ```git merge``` підтримує історію шляхом додавання нового коміту.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 25. Що таке git revert
 
 Команда ```git revert``` — це операція скасування вперед.  
 Це безпечний спосіб скасувати зміни, оскільки він створить новий комміт, який інвертує зміни замість видалення чи втрати комітів в історії комітів.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 26. Яка різниця між between resetting and reverting
 
 У той час як git reset змінює стан гілки на попередній, видаляючи всі стани після потрібного коміту, git revert робить це шляхом створення нових повертаючих комітів і збереження початкового.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 27. Яка різниця між «git remote» і «git clone»
 
 Git remote додає посилання на віддалене сховище для подальшого відстеження.  
 Git clone, як і його назва, клонує існуюче віддалене сховище та створює нове.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 28. Що таке GIT stash
 
 Схованка Git візьме робочий каталог у поточному стані та проіндексує його, щоб помістити в стек на пізнішому етапі, щоб отримати чистий робочий каталог.
@@ -1983,7 +1983,7 @@ Git clone, як і його назва, клонує існуюче віддал
 Це означає, що якщо ми перебуваємо в середині якогось завдання і нам потрібно отримати чистий робочий каталог і водночас ми хочемо зберегти всі наші поточні редагування, тоді ми можемо використати схованку Git.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 29. Чим fork, branch, и clone відрізняються один від одного
 
 Розгалуження створює копію вихідного репозиторію, яка залишається в обліковому записі GitHub.  
@@ -1993,7 +1993,7 @@ Git clone, як і його назва, клонує існуюче віддал
 Розгалуження виникають у сховищі та є способом продовжувати розробку та модифікацію програмного забезпечення, не впливаючи на основний проект.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 30. Яка різниця між git reflog і log
 
 Журнал git — це загальнодоступний запис історії комітів для гілки. З іншого боку, Reflog є приватним локальним комітом сховища.
@@ -2002,14 +2002,14 @@ Git clone, як і його назва, клонує існуюче віддал
 Розробник не може отримати доступ до reflog локального сховища, не маючи доступу до комп’ютера, на якому він розташований.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 31. Що таке GIT stash drop
 
 Коли ми закінчимо роботу над схованим елементом або захочемо видалити список, ми можемо використати схованку Git.  
 Це гарантує, що останній доданий елемент за замовчуванням або будь-який окремий елемент можна видалити з аргументу.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 32. Як визначити, чи певну гілку було об’єднано в головну
 
 ```git branch –merged master``` – показує всі гілки, які об’єднано в головний
@@ -2019,14 +2019,14 @@ Git clone, як і його назва, клонує існуюче віддал
 ```git branch –no-merged``` – показує всі гілки, які не об’єднані
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 33. Для чого нам потрібні розгалуження в GIT
 
 За допомогою розгалуження ми можемо мати власну гілку, а також можемо переходити між різними гілками.  
 Ми можемо перейти до нашої попередньої роботи, в той же час зберігши свою недавню роботу.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 34. Що містять складові об’єкта коміту
 
 - Cтан проекту в даний момент часу міститься в наборі файлів
@@ -2034,7 +2034,7 @@ Git clone, як і його назва, клонує існуюче віддал
 - Рядок із 40 символів, який однозначно ідентифікує об’єкт коміту під назвою SHAI
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 35. Що таке HEAD у Git і скільки HEAD можна створити в репозиторії
 
 - Посилання на об'єкт коміту називається HEAD.  
@@ -2045,20 +2045,20 @@ Git clone, як і його назва, клонує існуюче віддал
 ![IMG](images/GitBranching.png)
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 36. Який звичайний спосіб розгалуження в GIT
 
 Найкращий спосіб створити гілку в GIT — мати одну «головну» гілку, а потім створити іншу гілку для впровадження змін, які ми хочемо внести.  
 Це надзвичайно корисно, коли над одним проектом працює велика кількість розробників.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 37. Як ви визначаєте «конфлікт» у Git
 
 Якщо ми хочемо об’єднати коміт, є зміна в одному місці, і така сама зміна вже існує, тоді під час об’єднання Git не зможе передбачити, яка саме зміна має бути пріоритетною.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 38. Як вирішити конфлікт у Git
 
 Якщо ми хочемо вирішити конфлікт у Git, тоді нам потрібно відредагувати файли для виправлення суперечливих змін, а потім ми можемо запустити «git add», щоб додати вирішені файли, а після цього ми можемо запустити «git commit» для фіксації відремонтоване злиття.
@@ -2067,7 +2067,7 @@ Git clone, як і його назва, клонує існуюче віддал
 
 # Відповіді - 'JavaScript'
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 1. Які існують способи створення обєктів у JavaScript
 Існує багато способів створення об'єктів у javascript, як показано нижче
 
@@ -2169,7 +2169,7 @@ Git clone, як і його назва, клонує існуюче віддал
       })();
       ```
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 2. Що таке ланцюг прототипів
 **Ланцюжок прототипів** використовується для створення нових типів об'єктів на основі існуючих. Це схоже на успадкування у мовах, заснованих на класах.
 
@@ -2177,7 +2177,7 @@ Git clone, як і його назва, клонує існуюче віддал
 
    ![Скріншот](images/prototype_chain.png)
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 3. В чому різниця між методами Call, Apply та Bind
 
    Різницю між методами Call, Apply та Bind можна пояснити за допомогою наступних прикладів,
@@ -2237,7 +2237,7 @@ Git clone, як і його назва, клонує існуюче віддал
    Тоді як Bind створює нову функцію, яка матиме `this` як перший параметр, переданий до bind().
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 4. Що таке JSON та його загальні операції
    **JSON** - це текстовий формат даних, що відповідає об'єктному синтаксису JavaScript, який популяризував Дуглас Крокфорд (Douglas Crockford). Він корисний, коли ви хочете передати дані через мережу, і являє собою просто текстовий файл з розширенням .json і MIME-типом application/json.
 
@@ -2253,7 +2253,7 @@ Git clone, як і його назва, клонує існуюче віддал
    JSON.stringify(object);
    ```
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 5. Яка мета методу slice для масиву
    Метод **slice()** повертає вибрані елементи масиву у вигляді нового об'єкта масиву. Він вибирає елементи, починаючи з заданого початкового аргументу, і закінчуючи заданим необов'язковим кінцевим аргументом, не включаючи останній елемент. Якщо ви опустите другий аргумент, то вибірка буде виконуватися до кінця.
 
@@ -2268,7 +2268,7 @@ Git clone, як і його назва, клонує існуюче віддал
 
    **Примітка:** Метод slice не мутує оригінальний масив, але повертає підмножину у вигляді нового масиву.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 6. Яка мета методу splice для масиву
 Метод **splice()** використовується або для додавання/видалення елементів до/з масиву, а потім повертає видалений елемент. Перший аргумент вказує позицію в масиві для вставки або видалення, тоді як необов'язковий другий аргумент вказує кількість елементів, які потрібно видалити. Кожен додатковий аргумент додається до масиву.
 
@@ -2286,7 +2286,7 @@ let arrayIntegers3 = arrayIntegersOriginal3.splice(3, 1, "a", "b", "c"); //по�
 
    **Примітка:** Метод Splice модифікує вихідний масив і повертає видалений масив.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 7. В чому різниця між slice та splice
 Деякі основні відмінності в табличній формі:
 
@@ -2296,7 +2296,7 @@ let arrayIntegers3 = arrayIntegersOriginal3.splice(3, 1, "a", "b", "c"); //по�
    | Повертає підмножину вихідного масиву           | Повертає видалені елементи як масив |
    | Використовується для вибору елементів з масиву | Використовується для вставки або видалення елементів в/з масиву |
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 8. Як порівняти Об'єкт із Map
  **Об'єкти** схожі на мапи у тому, що обидва дозволяють встановлювати ключі для значень, отримувати ці значення, видаляти ключі та визначати, чи зберігається щось за ключем. З цієї причини об'єкти історично використовувалися як мапи. Але існують важливі відмінності, які роблять використання мапи кращим у певних випадках.
 
@@ -2307,7 +2307,7 @@ let arrayIntegers3 = arrayIntegersOriginal3.splice(3, 1, "a", "b", "c"); //по�
    5. Об'єкт має прототип, тому на карті є ключі за замовчуванням, які можуть зіткнутися з вашими ключами, якщо ви не будете обережними. Починаючи з ES5 це можна обійти за допомогою map = Object.create(null), але це рідко робиться.
    6. Карта може працювати краще у сценаріях, що передбачають часте додавання та видалення пар ключів.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 9. В чому різниця між операторами == та ===
 JavaScript забезпечує як строге (===, !==), так і привідне (==, !=) порівняння на рівність. Строгі оператори беруть до уваги тип змінної, в той час як нестрогі оператори виконують корекцію/перетворення типу на основі значень змінних. Строгі оператори виконують наступні умови для різних типів,
 
@@ -2336,14 +2336,14 @@ null === undefined // false
 {}=={} або {}==={} //неправда, посилаються на різні об'єкти в пам'яті
 ```
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 10. Що таке лямбда- або стрілкові функції
 
 Функція-стрілка - це коротший синтаксис виразу функції, який не має власних **this, arguments, super або new.target**.  
 Ці функції найкраще підходять для функцій, що не є методами, і їх не можна використовувати як конструктори.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 11. Що таке функція першого класу
 У Javascript функції є об'єктами першого класу. Першокласні функції означають, що функції в цій мові поводяться так само, як і будь-які інші змінні.
 
@@ -2355,7 +2355,7 @@ document.addEventListener("click", handler);
 ```
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 12. Що таке функція першого порядку
 Функція першого порядку - це функція, яка не приймає іншу функцію як аргумент і не повертає функцію як своє значення.
 
@@ -2363,7 +2363,7 @@ document.addEventListener("click", handler);
 const firstOrder = () => console.log("Я функція першого порядку!");
 ```
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 13. Що таке функція вищого порядку
  Функція вищого порядку - це функція, яка приймає іншу функцію як аргумент або повертає функцію як значення, що повертається, або і те, і інше.
 
@@ -2374,7 +2374,7 @@ const higherOrder = (ReturnFirstOrderFunc) => ReturnFirstOrderFunc();
 higherOrder(firstOrderFunc);
 ```
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 14. Що таке унарна функція
 Унарна функція (тобто монада) - це функція, яка приймає рівно один аргумент. Вона позначає єдиний аргумент, який приймає функція.
 
@@ -2384,7 +2384,7 @@ higherOrder(firstOrderFunc);
 const unaryFunction = (a) => console.log(a + 10); // Додати до заданого аргументу 10 і вивести значення
 ```
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 15. Що таке функція каррінг
 
 Каррінг - це процес перетворення функції з декількома аргументами на послідовність функцій, кожна з яких має лише один аргумент. Каррінг названо на честь математика **Гаскелла Каррі**. Застосовуючи каррінг, n-арна функція перетворюється на унарну функцію.
@@ -2404,7 +2404,7 @@ curryUnaryFunction(1)(2)(3); // повертає число 6
 Функції каррі чудово підходять для покращення **можливості повторного використання коду** та **функціонального складу**.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 16. Що таке чиста функція
  Чиста функція - це функція, значення, що повертається, визначається лише її аргументами без будь-яких побічних ефектів, тобто якщо ви викликаєте функцію з тими самими аргументами "n" разів і "n" місць у програмі, вона завжди повертатиме одне й те саме значення.
 
@@ -2430,7 +2430,7 @@ console.log(numberArray); // повертає [6]
 Пам'ятайте, що чисті функції важливі, оскільки вони спрощують модульне тестування без побічних ефектів і не потребують ін'єкції залежностей. Вони також уникають тісного зв'язку і ускладнюють злам вашої програми, оскільки не мають побічних ефектів. Ці принципи поєднуються з концепцією **Immutability** в ES6, надаючи перевагу використанню **const** над **let**.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 17. Яка мета ключового слова let
 Інструкція `let` оголошує локальну змінну з областю видимості **блоку**. Таким чином, змінні, визначені з ключовим словом let, обмежені в області видимості блоком, оператором або виразом, в якому вони використовуються. Тоді як змінні, оголошені з ключовим словом `var`, використовуються для визначення змінної глобально або локально для всієї функції незалежно від області видимості блоку.
 
@@ -2445,7 +2445,7 @@ if (counter === 30) {
 console.log(counter); // 30 (тому що змінної в блоці if тут не буде)
 ```
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 18. В чому різниця між let та var
 
 | var                                        | let                         |
@@ -2469,12 +2469,12 @@ function userDetails(ім'я користувача) {
 userDetails("John");
 ```
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 19. Яка причина вибору назви let як ключового слова
 `let` - це математичний оператор, який був прийнятий у ранніх мовах програмування, таких як **Scheme** та **Basic**. Його було запозичено з десятків інших мов, які використовують `let` вже як традиційне ключове слово, максимально наближене до `var`.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 20. Як перевизначити змінні в switch блоку без помилки
 Якщо ви спробуєте перевизначити змінні в "блоці перемикачів", то це призведе до помилок, оскільки існує лише один блок. Наприклад, наведений нижче блок коду викликає синтаксичну помилку, як показано нижче,
 
@@ -2507,7 +2507,7 @@ switch (x) {
 }
 ```
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 21. Що таке Тимчасова мертва зона
 Тимчасова мертва зона - це поведінка в JavaScript, яка виникає при оголошенні змінної з ключовими словами let і const, але не з var. В ECMAScript 6 доступ до змінної `let` або `const` до її оголошення (в межах її області видимості) викликає помилку посилання. Проміжок часу, коли це відбувається, між створенням прив'язки змінної та її оголошенням, називається тимчасовою мертвою зоною.
 
@@ -2522,7 +2522,7 @@ function somemethod() {
 }
 ```
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 22. Що таке Негайно Викликані Функціональні Вирази (IIFE)
 IIFE (Immediately Invoked Function Expression) - це функція JavaScript, яка виконується одразу після її визначення. Її підпис буде таким, як показано нижче,
 
@@ -2542,7 +2542,7 @@ IIFE (Immediately Invoked Function Expression) - це функція JavaScript,
 console.log(message); //Ошибка: повідомлення не визначено
 ```
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 23. Як декодувати або закодувати URL в JavaScript?
 Функція `encodeURI()` використовується для кодування URL-адреси. Ця функція отримує в якості параметра рядок URL-адреси і повертає закодований рядок.
 Функція `decodeURI()` використовується для декодування URL-адреси. Ця функція отримує закодований рядок URL як параметр і повертає декодований рядок.
@@ -2555,7 +2555,7 @@ let encoded_uri = encodeURI(uri);
 let decoded_uri = decodeURI(encoded_uri);
 ```
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 24. Що таке мемоізація
 Memoization (Запам'ятовування) - це техніка програмування, яка намагається підвищити продуктивність функції шляхом кешування її попередньо обчислених результатів. Кожного разу, коли викликається функція, що запам'ятовується, її параметри використовуються для індексації кешу. Якщо дані є, то їх можна повернути, не виконуючи всю функцію. В іншому випадку функція виконується, а потім результат додається до кешу.
 Розглянемо приклад додавання функції із запам'ятовуванням,
@@ -2581,7 +2581,7 @@ console.log(addition(20)); //виведення: 40 обчислено
 console.log(addition(20)); //виведення: 40 кешовано
 ```
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 25.Що таке Хойстінг
 Hoisting - це механізм JavaScript, за допомогою якого змінні, оголошення функцій і класів переміщуються на початок їхньої області видимості перед виконанням коду. Пам'ятайте, що JavaScript піднімає тільки оголошення, а не ініціалізацію.
 Розглянемо простий приклад підйому змінної,
@@ -2612,7 +2612,7 @@ function message(name) {
 Цей підйом дозволяє безпечно використовувати функції у коді до їх оголошення.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 26. Що таке класи в ES6
 В ES6 класи Javascript - це насамперед синтаксичний цукор у порівнянні з існуючим успадкуванням JavaScript на основі прототипів.
 Наприклад, успадкування на основі прототипу, записане у вигляді виразу функції, як показано нижче,
@@ -2643,7 +2643,7 @@ class Bike {
 }
 ```
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 27. Що таке замикання
 Закриття - це поєднання функції та лексичного оточення, в якому ця функція була оголошена, тобто це внутрішня функція, яка має доступ до змінних зовнішньої або охоплюючої функції.Закриття має три ланцюжки області видимості
 
@@ -2667,11 +2667,11 @@ myFunction("Hello Mr."); //output: Hello Mr.John
 
 Як видно з вищенаведеного коду, внутрішня функція (тобто greetingInfo) має доступ до змінних в області видимості зовнішньої функції (тобто Welcome) навіть після того, як зовнішня функція повернулася.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 28. Що таке модулі
 Модулі - це невеликі одиниці незалежного коду, який можна використовувати повторно, а також основа багатьох шаблонів проектування JavaScript. Більшість модулів JavaScript експортують об'єктний літерал, функцію або конструктор
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 29. Чому вам потрібні модулі
 Нижче наведено перелік переваг використання модулів в екосистемі JavaScript
 
@@ -2679,38 +2679,38 @@ myFunction("Hello Mr."); //output: Hello Mr.John
 2. Можливість повторного використання
 3. Простір імен
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 30. Що таке область видимості в JavaScript
 Область видимості - це доступність змінних, функцій та об'єктів у певній частині вашого коду під час виконання. Іншими словами, область видимості визначає видимість змінних та інших ресурсів у певних частинах вашого коду.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 31. Що таке сервісний працівник (service worker)
 Сервісний працівник - це, по суті, скрипт (файл JavaScript), який працює у фоновому режимі, окремо від веб-сторінки, і надає функції, які не потребують веб-сторінки або взаємодії з користувачем. Деякі з основних функцій сервісних працівників - це багатий офлайн-досвід (перша розробка веб-додатків в автономному режимі), періодична фонова синхронізація, push-сповіщення, перехоплення та обробка мережевих запитів і програмне керування кешем відповідей.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 32. Як ви змінюєте DOM, використовуючи сервісний працівник (service worker)
 Сервісний працівник не може отримати доступ до DOM безпосередньо. Але він може взаємодіяти зі сторінками, які він контролює, відповідаючи на повідомлення, надіслані через інтерфейс `postMessage`, і ці сторінки можуть маніпулювати DOM.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 33. Як ви перевикористовуєте інформацію під час перезапуску сервісного працівника (service worker)
 Проблема з сервісним працівником полягає у тому, що він завершується, коли не використовується, і перезапускається, коли він потрібен наступного разу, тому ви не можете покладатися на глобальний стан у обробниках `onfetch` та `onmessage` сервісного працівника. У цьому випадку сервісні працівники матимуть доступ до API IndexedDB для збереження та повторного використання після перезапуску.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 34. Що таке IndexedDB
  IndexedDB - це низькорівневий API для зберігання на стороні клієнта великих обсягів структурованих даних, включаючи файли/блоки. Цей API використовує індекси для забезпечення високопродуктивного пошуку в цих даних.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 35. Що таке веб-сховище (web storage)
 Веб-сховище - це API, який надає механізм, за допомогою якого браузери можуть зберігати пари ключ/значення локально в браузері користувача, в набагато більш інтуїтивно зрозумілий спосіб, ніж використання файлів cookie. Веб-сховище надає два механізми для зберігання даних на клієнті.
 
 1. **Локальне сховище:** Зберігає дані поточного походження без терміну придатності.
 2. **Сховище сеансів:** Зберігає дані протягом одного сеансу, і дані втрачаються при закритті вкладки браузера.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 36. Що таке пост-повідомлення (post message)
 Пост-повідомлення - це метод, який забезпечує перехресний зв'язок між об'єктами Window (наприклад, між сторінкою і спливаючим вікном, яке вона породила, або між сторінкою і вбудованим в неї iframe). Як правило, скриптам на різних сторінках дозволяється доступ один до одного, якщо і тільки якщо сторінки дотримуються політики однакового походження (тобто сторінки використовують один і той самий протокол, номер порту та хост).
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 37. Що таке кука (cookie)
 Файл cookie - це фрагмент даних, який зберігається на вашому комп'ютері для доступу до нього вашим браузером. Файли cookie зберігаються у вигляді пар ключ/значення.
     Наприклад, ви можете створити файл cookie з ім'ям користувача, як показано нижче,
@@ -2721,14 +2721,14 @@ document.cookie = "username=John";
 
 ![Скріншот](images/cookie.png)
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 38. Чому вам потрібна кука (cookie)
 Файли cookie використовуються для запам'ятовування інформації про профіль користувача (наприклад, ім'я користувача). В основному це відбувається в два етапи,
 
 1. Коли користувач відвідує веб-сторінку, профіль користувача може бути збережений у файлі cookie.
 2. Наступного разу, коли користувач відвідає сторінку, файл cookie запам'ятає профіль користувача.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 39. Які параметри куки (cookie)
 Нижче наведено кілька варіантів, доступних для файлів cookie,
 
@@ -2745,7 +2745,7 @@ document.cookie = "username=John; path=/services";
 ```
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 40. Як видаляти куку (cookie)
 Ви можете видалити файл cookie, встановивши дату закінчення терміну дії як минулу дату. У цьому випадку вам не потрібно вказувати значення файлу cookie.
     Наприклад, ви можете видалити файл cookie імені користувача на поточній сторінці, як показано нижче.
@@ -2756,7 +2756,7 @@ document.cookie = "username=; expires=Fri, 07 Jun 2019 00:00:00 UTC; path=/;";
 
 **Примітка:** Ви повинні вказати шлях до файлу cookie, щоб переконатися, що ви видаляєте правильний файл cookie. Деякі браузери не дозволяють видаляти файли cookie, якщо ви не вкажете параметр шляху.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 41. Яка різниця між кукою, локальним сховищем та сеансовим сховищем (local storage та session storage)
 Нижче наведено деякі відмінності між файлами cookie, локальним сховищем і сховищем сеансів,
 
@@ -2767,11 +2767,11 @@ document.cookie = "username=; expires=Fri, 07 Jun 2019 00:00:00 UTC; path=/;";
 |  Підтримка SSL                        | Підтримується | Підтримується | Не підтримується | Не підтримується | Не підтримується
 | Максимальний розмір даних             | 4 КБ | 5 МБ | 5 МБ
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 42. Яка основна різниця між localStorage та sessionStorage
 LocalStorage - це те ж саме, що і SessionStorage, але воно зберігає дані, навіть коли браузер закривається і відкривається знову (тобто не має терміну придатності), тоді як у sessionStorage дані очищаються після завершення сеансу роботи зі сторінкою.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 43. Як отримати доступ до веб-сховища (web storage)
 Об'єкт Window реалізує об'єкти `WindowLocalStorage` та `WindowSessionStorage`, які мають властивості `localStorage` (window.localStorage) та `essionStorage` (window.sessionStorage) відповідно. Ці властивості створюють екземпляр об'єкта Storage, за допомогою якого можна встановлювати, отримувати і видаляти елементи даних для певного домену і типу сховища (сеансового або локального).
     Наприклад, ви можете читати і писати на локальних об'єктах сховища, як показано нижче
@@ -2782,7 +2782,7 @@ localStorage.getItem("logo");
 ```
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 44. Які методи доступні для сеансового сховища (session storage)
  У сховищі сесій передбачено методи для читання, запису та очищення даних сесії:
 
@@ -2800,7 +2800,7 @@ sessionStorage.removeItem("key");
 sessionStorage.clear();
 ```
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 45. Що таке подія сховища (storage event) та його обробник події (event handler)
 StorageEvent - це подія, яка спрацьовує, коли змінюється область зберігання у контексті іншого документа. Тоді як властивість onstorage є обробником подій для обробки подій зберігання.
 Синтаксис буде наступним
@@ -2825,11 +2825,11 @@ window.onstorage = function (e) {
 };
 ```
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 46. Чому вам потрібне веб-сховище (web storage)
 Веб-сховище більш безпечне, і великі обсяги даних можна зберігати локально, не впливаючи на продуктивність веб-сайту. Крім того, інформація ніколи не передається на сервер. Тому це більш рекомендований підхід, ніж використання файлів cookie.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 47. Як перевірити підтримку веб-сховища браузером (browser support)
 Перед використанням веб-сховища необхідно перевірити підтримку браузером localStorage і sessionStorage,
 
@@ -2842,7 +2842,7 @@ if (typeof Storage !== "undefined") {
 ```
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 48. Як перевірити підтримку веб-працівників браузером (browser support)
 Перш ніж використовувати веб-працівники, потрібно перевірити підтримку браузером
 
@@ -2854,7 +2854,7 @@ if (typeof Worker !== "undefined") {
 }
 ```
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 49. Надайте приклад веб-працівника (web worker)
 Вам потрібно виконати наступні кроки, щоб почати використовувати веб-працівників для прикладу підрахунку
 
@@ -2903,7 +2903,7 @@ w.terminate();
 w = undefined;
 ```
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 50. Які обмеження веб-працівників на DOM
 WebWorker не має доступу до нижченаведених об'єктів javascript, оскільки вони визначені у зовнішніх файлах
 
@@ -2912,7 +2912,7 @@ WebWorker не має доступу до нижченаведених об'єк
 3. Батьківський об'єкт
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 51. Що таке обіцянка (promise)
 
 Обіцянка - це об'єкт, який може створити єдине значення колись у майбутньому, або з вирішеним значенням, або з причиною, чому воно не вирішене (наприклад, мережева помилка). Обіцянка перебуватиме в одному з 3 можливих станів: виконана, відхилена або в очікуванні.
@@ -2946,13 +2946,13 @@ promise.then((value) => console.log(value));
 
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 52. Чому вам потрібна обіцянка (promise)
 
 Обіцянки використовуються для обробки асинхронних операцій. Вони забезпечують альтернативний підхід до зворотних викликів, зменшуючи пекло зворотних викликів і дозволяючи писати чистіший код.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 53. Які три стани у обіцянки (promise)
 
 Обіцянки мають три стани:
@@ -2962,7 +2962,7 @@ promise.then((value) => console.log(value));
 3. **Відхилено:** Цей стан вказує на те, що операція не була виконана. У цьому випадку буде викинуто значення помилки.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 54. Що таке зворотний виклик (callback function)
 
 Функція зворотного виклику - це функція, яка передається в іншу функцію як аргумент. Ця функція викликається всередині зовнішньої функції для виконання певної дії.
@@ -2982,7 +2982,7 @@ outerFunction(callbackFunction);
 ```
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 55. Чому нам потрібні зворотні виклики (callbacks)
 
 Функції зворотного виклику потрібні тому, що javascript - це мова, керована подіями. Це означає, що замість того, щоб чекати на відповідь, javascript буде продовжувати виконання, слухаючи інші події.
@@ -3009,7 +3009,7 @@ secondFunction();
 Як видно з виводу, javascript не дочекався відповіді першої функції і виконав блок коду, що залишився. Таким чином, функція зворотного виклику використовується для того, щоб переконатися, що певний код не виконується, доки інший код не завершить виконання.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 56. Що таке "інферно зворотніх викликів" (callback hell)
 
 Пекло зворотного виклику - це антипатерн з декількома вкладеними зворотними викликами, який ускладнює читання та налагодження коду при роботі з асинхронною логікою. Пекло зворотних викликів виглядає наступним чином,
@@ -3027,13 +3027,13 @@ async1(function(){
 ```
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 57. Що таке події, відправлені з сервера (server-sent events)
 
 Події, що надсилаються сервером (SSE) - це технологія server push, яка дозволяє браузеру отримувати автоматичні оновлення від сервера через HTTP-з'єднання, не вдаючись до опитування. Це односторонній канал зв'язку - події передаються лише від сервера до клієнта. Ця технологія використовується в оновленнях Facebook/Twitter, оновленнях біржових котирувань, новинних стрічках тощо.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 58. Як ви отримуєте повідомлення подій, відправлених з сервера (server-sent events)
 
 Об’єкт EventSource використовується для отримання сповіщень про події, надісланих сервером. Наприклад, ви можете отримувати повідомлення від сервера, як показано нижче:
@@ -3047,7 +3047,7 @@ if (typeof EventSource !== "undefined") {
 ```
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 59. Як перевірити підтримку браузером для подій, відправлених з сервера (server-sent events)
 
 Ви можете перевірити підтримку браузером подій, що надсилаються сервером, перед їх використанням, як показано нижче,
@@ -3060,7 +3060,7 @@ if (typeof EventSource !== "undefined") {
 }
 ```
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 60. Які події доступні для подій, відправлених з сервера (server-sent events)
 
 Нижче наведено список подій, доступних для подій, що надсилаються сервером
@@ -3072,7 +3072,7 @@ if (typeof EventSource !== "undefined") {
 | onerror | Відбувається при виникненні помилки
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 61. Які події доступні для подій, відправлених з сервера (server-sent events)
 
 Обіцянка повинна відповідати певному набору правил:
@@ -3082,7 +3082,7 @@ if (typeof EventSource !== "undefined") {
 3. Виконана або відхилена обіцянка є завершеною і не повинна переходити в будь-який інший стан.
 4. Після того, як обіцянка виконана, її значення не повинно змінюватися.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 62. Що таке зворотній виклик у зворотньому виклику (callback in callback)
 
 Ви можете вкласти один колбек в інший колбек, щоб виконати дії послідовно один за одним. Це називається зворотний виклик у зворотному виклику.
@@ -3102,7 +3102,7 @@ loadScript("/script1.js", function (script) {
 });
 ```
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 63. Що таке ланцюг обіцянок (promise chaining)
 
 Процес виконання послідовності асинхронних завдань одне за одним з використанням обіцянок називається ланцюжком обіцянок (Promise chaining). Розглянемо приклад ланцюжка обіцянок для обчислення кінцевого результату,
@@ -3133,7 +3133,7 @@ new Promise(function (resolve, reject) {
 4. Нарешті, значення передається останньому обробнику `.then`, який записує результат(6) і повертає обіцянку з результатом \* 4.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 64. Що таке promise.all
 
 Promise.all - це обіцянка, яка отримує на вхід масив обіцянок (ітерабельний масив) і повертає результат, коли виконано всі обіцянки або відхилено будь-яку з них. Наприклад, синтаксис методу promise.all наведено нижче,
@@ -3145,7 +3145,7 @@ Promise.all([Promise1, Promise2, Promise3]) .then(result) => { console.log(resul
 **Примітка:** Пам'ятайте, що порядок обіцянок (виведення результату) зберігається відповідно до порядку введення.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 65. Яка мета методу race у обіцянок (promise)
 
 Метод promise.race() повертає екземпляр обіцянки, який першим буде вирішено або відхилено. Розглянемо приклад методу race(), в якому першим обробляється promise2
@@ -3164,19 +3164,19 @@ Promise.race([promise1, promise2]).then(function (value) {
 ```
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 66. Що таке строгий режим у JavaScript (strict mode)
 
 Суворий режим - це нова функція в ECMAScript 5, яка дозволяє помістити програму або функцію в "суворий" робочий контекст. Таким чином, він запобігає виконанню певних дій і генерує більше винятків. Буквальний вираз `"use strict";` вказує браузеру використовувати код javascript в строгому режимі.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 67. Чому вам потрібен строгий режим (strict mode)
 
 Суворий режим корисний для написання "безпечного" JavaScript, перетворюючи "поганий синтаксис" на реальні помилки. Наприклад, він усуває випадкове створення глобальної змінної, видаючи помилку, а також видає помилку при присвоюванні властивості, яку не можна записати, властивості, доступної лише для отримання, неіснуючої властивості, неіснуючої змінної або неіснуючого об'єкта.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 68. Як ви оголошуєте строгий режим (strict mode)
 
 Строгий режим оголошується додаванням "use strict"; на початку скрипту або функції.
@@ -3200,7 +3200,7 @@ function myFunction() {
 ```
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 69. Яка мета подвійного оклику (!!) (double exclamation)
 
 Вигук double або заперечення(!!) гарантує, що результуючий тип буде логічним. Якщо він був хибним (наприклад, 0, null, undefined і т.д.), він буде хибним, в іншому випадку - істинним.
@@ -3221,7 +3221,7 @@ console.log(navigator.userAgent.match(/MSIE 8.0/)); // повертає маси
 **Примітка:** Вираз !! не є оператором, але це просто двічі оператор !
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 70. Яка мета оператора delete
 
 Ключове слово delete використовується для видалення властивості та її значення.
@@ -3234,7 +3234,7 @@ console.log(user); // {name: "John"}
 ```
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 71. Який оператор typeof
 
 Ви можете використовувати оператор typeof для визначення типу змінної JavaScript. Він повертає тип змінної або виразу.
@@ -3246,7 +3246,7 @@ typeof [1, 2, 3] // Повертає "об'єкт", оскільки всі ма
 ```
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 72. Що таке властивість undefined
 
 Властивість undefined вказує на те, що змінній не присвоєно значення, або вона оголошена, але не ініціалізована взагалі. Тип невизначеного значення також є невизначеним.
@@ -3263,7 +3263,7 @@ user = undefined;
 ```
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 73. Що таке значення null
 
 Значення null означає навмисну відсутність будь-якого значення об'єкта. Це одне з примітивних значень JavaScript. Тип нульового значення - об'єкт.
@@ -3275,7 +3275,7 @@ console.log(typeof user); //об'єкт
 ```
 
     
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 74. Яка різниця між значенням null та undefined
 
 Нижче наведено основні відмінності між null та undefined,
@@ -3289,7 +3289,7 @@ console.log(typeof user); //об'єкт
 | Перетворено в нуль (0) під час виконання примітивних операцій | Перетворено в NaN під час виконання примітивних операцій                           |
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 75. Що таке функція eval
 
 Функція eval() обчислює JavaScript-код, представлений у вигляді рядка. Рядок може бути виразом JavaScript, змінною, оператором або послідовністю операторів.
@@ -3299,7 +3299,7 @@ console.log(eval("1 + 2")); // 3
 ```
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 76. Яка різниця між об'єктом window та document
 
 Нижче наведено основні відмінності між вікном і документом,
@@ -3311,7 +3311,7 @@ console.log(eval("1 + 2")); // 3
 | Він має такі методи, як alert(), confirm(), і такі властивості, як document, location | Він надає такі методи, як getElementById, getElementsByTagName, createElement тощо |
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 77. Як ви отримуєте доступ до історії у JavaScript
 
 Об'єкт window.history містить історію браузера. Ви можете завантажити попередні та наступні URL-адреси в історії за допомогою методів back() та next().
@@ -3327,7 +3327,7 @@ function goForward() {
 
 **Примітка:** Ви також можете отримати доступ до історії без префікса window.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 78. Як ви визначаєте, чи включена клавіша Caps Lock, чи ні
 
 Подія `mouseEvent getModifierState()` використовується для повернення булевого значення, яке вказує, чи активовано вказану клавішу-модифікатор, чи ні. Такі модифікатори, як CapsLock, ScrollLock і NumLock активуються при натисканні на них, і деактивуються при повторному натисканні.
@@ -3352,7 +3352,7 @@ function goForward() {
 </script>
 ```
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 79. Що таке функція isNaN
 
 Функція isNaN() використовується для визначення того, чи є значення недопустимим числом (Not-a-Number) чи ні. Тобто, ця функція повертає true, якщо значення дорівнює NaN. В іншому випадку повертається false.
@@ -3363,7 +3363,7 @@ isNaN("100"); //false
 ```
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 80. Яка різниця між змінними, які не оголошені, та змінними, які мають значення undefined
 
 Нижче наведено основні відмінності між неоголошеними (не визначеними) та невизначеними змінними,
@@ -3374,7 +3374,7 @@ undeclared | undefined |
 | При спробі прочитати значення неоголошеної змінної виникає помилка виконання програми | При спробі прочитати значення невизначеної змінної повертається невизначене значення. |
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 81. Що таке глобальні змінні
 
 Глобальні змінні - це змінні, які доступні по всьому коду без обмеження області видимості. Для оголошення локальної змінної використовується ключове слово var, але якщо його опустити, то вона стане глобальною змінною
@@ -3384,13 +3384,13 @@ msg = "Hello"; // var пропущено, вона стає глобальною
 ```
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 82. Які проблеми із глобальними змінними
 
 Проблема глобальних змінних полягає у конфлікті імен змінних локальної та глобальної області видимості. Також складно налагоджувати і тестувати код, який використовує глобальні змінні.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 83. Що таке властивість NaN
 
 Властивість NaN - це глобальна властивість, яка представляє значення "Не-число", тобто вказує на те, що значення не є дійсним числом. Дуже рідко використовують NaN у програмі, але його можна використовувати як значення, що повертається, у кількох випадках
@@ -3401,7 +3401,7 @@ parseInt("Hello");
 ```
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 84. Яка мета функції isFinite
 
 Функція isFinite() використовується для визначення того, чи є число скінченним, законним числом. Вона повертає false, якщо значення +нескінченність, -нескінченність або NaN (Not-a-Number), інакше повертає true.
@@ -3414,7 +3414,7 @@ isFinite(-Infinity); // false
 isFinite(100); // true
 ```
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 85. Що таке потік подій (event flow)
 
 Потік подій - це порядок надходження подій на веб-сторінку. Коли ви клацаєте елемент, вкладений в інші елементи, перш ніж ваш клік досягне місця призначення або цільового елемента, він повинен викликати подію кліку для кожного з його батьківських елементів, починаючи зверху з глобального об'єкта вікна.
@@ -3424,18 +3424,18 @@ isFinite(100); // true
 2. Знизу догори (бульбашковий потік подій)
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 86. Що таке всплиття подій (event bubbling)
 
 Розповсюдження подій - це тип поширення подій, коли подія спочатку спрацьовує на внутрішньому цільовому елементі, а потім послідовно спрацьовує на предках (батьках) цільового елемента в тій самій ієрархії вкладеності, доки не досягне зовнішнього DOM-елемента.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 87. Що таке захоплення подій (event capturing)
 
 Захоплення події - це тип поширення події, коли подія спочатку захоплюється зовнішнім елементом, а потім послідовно спрацьовує на нащадках (дочірніх елементах) цільового елемента в тій самій ієрархії вкладеності, доки не досягне найпотаємнішого елемента DOM.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 88. Як ви відправляєте форму за допомогою JavaScript
 
 Ви можете відправити форму за допомогою `document.forms[0].submit()`. Вся інформація з форми надсилається за допомогою обробника події onsubmit
@@ -3447,7 +3447,7 @@ function submit() {
 ```
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 89. Як ви знаходите деталі операційної системи
 
 Об'єкт window.navigator містить інформацію про особливості операційної системи браузера відвідувача. Деякі з властивостей операційної системи доступні у розділі властивостей платформи,
@@ -3457,14 +3457,14 @@ console.log(navigator.platform);
 ```
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 90. Яка різниця між подіями document load та DOMContentLoaded
 
 Подія `DOMContentLoaded` спрацьовує, коли початковий HTML-документ повністю завантажено і проаналізовано, не чекаючи на завершення завантаження ресурсів (таблиць стилів, зображень і підкадрів). Тоді як подія load спрацьовує, коли завантажується вся сторінка, включаючи всі залежні ресурси (таблиці стилів, зображення).
 
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 91. Яка різниця між вбудованими (native), господарськими (host) та користувацькими (user) об'єктами
 
 "Нативні об'єкти" - це об'єкти, які є частиною мови JavaScript, визначені специфікацією ECMAScript. Наприклад, String, Math, RegExp, Object, Function та інші основні об'єкти, визначені в специфікації ECMAScript.
@@ -3472,7 +3472,7 @@ console.log(navigator.platform);
 Користувацькі об'єкти - це об'єкти, визначені в javascript-коді. Наприклад, об'єкти User, створені для інформації про профіль.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 92. Які інструменти або техніки використовуються для відлагодження коду JavaScript
 
 Для налагодження JavaScript можна використовувати наступні інструменти або методи
@@ -3482,7 +3482,7 @@ console.log(navigator.platform);
 3. Старий добрий оператор console.log
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 93. Які переваги та недоліки обіцянок (promises) порівняно зі зворотніми викликами (callbacks)
 
 Нижче наведено перелік переваг та недоліків обіцянок над зворотними викликами,
@@ -3500,7 +3500,7 @@ console.log(navigator.platform);
 2. Потрібно завантажувати поліфіл, якщо ES6 не підтримується
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 94. Яка різниця між атрибутом та властивістю (property)
 
 Атрибути визначаються в HTML-розмітці, тоді як властивості визначаються в DOM. Наприклад, наведений нижче HTML-елемент має 2 атрибути type і value,
@@ -3525,13 +3525,13 @@ console.log(input.value); // Good evening
 ```
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 95. Що таке політика однакового походження (same-origin policy)
 
 Політика однакового походження - це політика, яка не дозволяє JavaScript робити запити через межі домену. Походження визначається як комбінація схеми URI, імені хоста і номера порту. Якщо ви ввімкнете цю політику, вона не дозволить шкідливому скрипту на одній сторінці отримати доступ до конфіденційних даних на іншій веб-сторінці за допомогою моделі об'єктів документа (DOM).
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 96. Яка мета фрази void 0
 
 Void(0) is used to prevent the page from refreshing. This will be helpful to eliminate the unwanted side-effect, because it will return the undefined primitive value. It is commonly used for HTML documents that use href="JavaScript:Void(0);" within an `<a>` element. i.e, when you click a link, the browser loads a new page or refreshes the same page. But this behavior will be prevented using this expression.
@@ -3542,24 +3542,24 @@ For example, the below link notify the message without reloading the page
 </a>
 ```
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 97. Чи є JavaScript компільованою чи інтерпретованою мовою
 
 JavaScript - это интерпретируемый, а не компилируемый язык. Интерпретатор в браузере считывает код JavaScript, интерпретирует каждую строку и запускает его на выполнение. В настоящее время в современных браузерах используется технология Just-In-Time (JIT) компиляции, которая компилирует JavaScript в исполняемый байт-код непосредственно в момент его запуска.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 98.	Чи є JavaScript чутливою до регістру мовою
 
 Так, JavaScript - це мова, чутлива до регістру. Ключові слова мови, змінні, назви функцій та об'єктів, а також будь-які інші ідентифікатори завжди повинні вводитися з великої літери.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 99. Чи існує якась зв'язок між Java та JavaScript
 
 Ні, це абсолютно різні мови програмування і не мають нічого спільного між собою. Але обидві вони є об'єктно-орієнтованими мовами програмування і, як і багато інших мов, мають схожий синтаксис для основних функцій (if, else, for, switch, break, continue і т.д.).
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 100. Що таке події (events)
 
  Події - це "речі", які відбуваються з елементами HTML. Коли JavaScript використовується на HTML-сторінках, він може "реагувати" на ці події. Ось деякі приклади подій HTML,
@@ -3754,7 +3754,7 @@ public BankAccount(String name, LocalDateTime opened, double balance) {
 
 # Відповіді - 'Typescript'
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 1. Перелічіть вбудовані типи у Typescript
 
 Вони також називаються примітивними типами у TypeScript:
@@ -3779,7 +3779,7 @@ var variable_name:number = null;
 var variable_name:number = undefined;
 ```
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 2. Що таке модулі в Typescript?
 
 Модулі в Typescript допомагають в організації коду.  
@@ -3790,12 +3790,12 @@ var variable_name:number = undefined;
 * **Зовнішні модулі** використовуються для визначення та завантаження залежностей між декількома зовнішніми js-файлами. Якщо використовується тільки один js-файл, то зовнішні модулі не потрібні.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 3. Що таке Typescript і чому його варто використовувати?
 
 TypeScript - це вільна мова програмування з відкритим вихідним кодом, розроблена і підтримувана компанією Microsoft. Вона є строгою синтаксичною підмножиною JavaScript і додає до мови необов'язкову статичну типізацію та об'єктно-орієнтоване програмування на основі класів.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 4. Поясніть, що таке узагальнення в TypeScript
 
 За допомогою узагальнень можна створити компонент або функцію для роботи з різними типами, а не з одним.
@@ -3813,7 +3813,7 @@ queue.push(0);
 queue.push("1"); // ERROR : не можна проштовхнути рядок. Допускаються тільки числа
 ```
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 5. Що таке TypeScript і чому я повинен використовувати його замість JavaScript?
 
 **TypeScript** - це підмножина JavaScript, яка в першу чергу надає необов'язкову статичну типізацію, класи та інтерфейси. Однією з головних переваг є те, що IDE надають більш багате середовище для виявлення поширених помилок під час *набору коду*. Для великого JavaScript-проекту використання TypeScript може призвести до створення більш надійного програмного забезпечення, при цьому його можна буде розгортати там, де виконується звичайний JavaScript-додаток.
@@ -3830,7 +3830,7 @@ queue.push("1"); // ERROR : не можна проштовхнути рядок.
 **Джерело:** [stackoverflow.com](https://stackoverflow.com/questions/12694530/what-is-typescript-and-why-would-i-use-it-in-place-of-javascript)
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 6. Що таке TypeScript і навіщо він потрібен?
 
 JavaScript - це єдина мова клієнтської частини, яка універсально підтримується всіма браузерами. Але JavaScript не є найкраще спроектованою мовою. Він не є об'єктно-орієнтованою мовою на основі класів, не підтримує успадкування на основі класів, має ненадійну динамічну типізацію і не має перевірки помилок під час компіляції. А TypeScript вирішує всі ці проблеми. Іншими словами, TypeScript - це спроба "виправити" проблеми JavaScript.
@@ -3840,7 +3840,7 @@ TypeScript - це вільна мова програмування з відкр
 Як зазначено на [офіційному сайті TypeScript](http://www.typescriptlang.org/), "TypeScript дозволяє вам писати JavaScript так, як ви дійсно хочете. TypeScript - це типізована підмножина JavaScript, яка компілюється у звичайний JavaScript. Будь-який браузер. Будь-який хост. Будь-яка операційна система. З відкритим вихідним кодом". Де "**типізований**" означає, що він враховує типи змінних, параметрів і функцій.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 7. Які переваги має TypeScript?
 
 TypeScript має наступні переваги.
@@ -3853,7 +3853,7 @@ TypeScript має наступні переваги.
 * Інтелект.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 8. Чи потрібно компілювати файли TypeScript і чому?
 
 Так, потрібно.  
@@ -3862,7 +3862,7 @@ TypeScript - це просто мова, браузери з розширенн�
 🔗 **Джерело:** [stackoverflow.com](https://stackoverflow.com/questions/45125284/why-is-angular-compiled)
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 9. Як викликати конструктор базового класу з дочірнього класу в TypeScript?
 
 Ми можемо викликати конструктор базового класу з допомогою `super()`.
@@ -3870,7 +3870,7 @@ TypeScript - це просто мова, браузери з розширенн�
 🔗 **Джерело:** [http://www.talkingdotnet.com](http://www.talkingdotnet.com/typescript-interview-questions/)
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 10. Яка різниця між TypeScript та JavaScript?
 
 * Це об'єктно-орієнтована мова програмування (не в чистому вигляді).
@@ -3883,7 +3883,7 @@ TypeScript - це просто мова, браузери з розширенн�
 * Інтерфейсами є число, рядок тощо.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 11. Що таке інтерфейс у TypeScript?
 
 
@@ -3896,7 +3896,7 @@ TypeScript - це просто мова, браузери з розширенн�
 🔗 **Джерело:** [medium.com](https://medium.com/front-end-hacking/typescript-class-vs-interface-99c0ae1c2136)
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 12. Коли використовувати інтерфейси, а коли класи в TypeScript?
 
 Якщо вам потрібно/бажано створити екземпляр, можливо, користувацького об'єкта, отримуючи при цьому переваги перевірки типів таких речей, як аргументи, типи повернення або узагальнення - клас має сенс. 
@@ -3906,7 +3906,7 @@ TypeScript - це просто мова, браузери з розширенн�
 **Джерело:** [toddmotto.com](https://toddmotto.com/classes-vs-interfaces-in-typescript)
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 13. Яка різниця між класами та інтерфейсами у TypeScript?
 
 Ми використовуємо класи як фабрики об'єктів. Клас визначає план того, як має виглядати і діяти об'єкт, а потім реалізує цей план, ініціалізуючи властивості класу та визначаючи методи. Класи присутні на всіх етапах нашого коду.
@@ -3916,7 +3916,7 @@ TypeScript - це просто мова, браузери з розширенн�
 Клас може визначати фабрику або синглтон, забезпечуючи ініціалізацію своїх властивостей та реалізацію методів, інтерфейс - це просто структурний контракт, який визначає, які властивості об'єкта повинні мати ім'я та тип.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 14. Що таке "Декоратори" у TypeScript?
 
 Декоратор - це спеціальний тип оголошення, який може бути доданий до оголошення класу, методу, аксесора, властивості або параметра. Декоратори - це функції, які приймають свою ціль як аргумент. За допомогою декораторів ми можемо запускати довільний код навколо цільового виконання або навіть повністю замінити ціль новим визначенням.
@@ -3926,7 +3926,7 @@ TypeScript - це просто мова, браузери з розширенн�
 **Джерело:** [www.sparkbit.pl](https://www.sparkbit.pl/typescript-decorators/)
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 15. Що таке getter/setter в TypeScript
 
 TypeScript підтримує **getter/setter** як спосіб перехоплення доступу до члена об'єкта. Це дає вам можливість мати більш тонкий контроль над тим, як здійснюється доступ до члена кожного об'єкта.
@@ -3950,7 +3950,7 @@ myFoo.bar = true; // коректно (встановити)
 **Джерело:** [typescriptlang.org](http://www.typescriptlang.org/docs/handbook/classes.html)
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 16. Як можна перевірити null та undefined у TypeScript?
 
 Просто використовуйте:
@@ -3973,7 +3973,7 @@ TypesScript включає в себе правила JavaScript.
 **Джерело:** [stackoverflow.com](https://stackoverflow.com/questions/28975896/is-there-a-dedicated-function-to-check-null-and-undefined-in-typescript)
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 17. Як реалізувати константи класу в TypeScript?
 У TypeScript не можна використовувати ключове слово `const` для оголошення властивостей класу. Це призводить до того, що компілятор видає помилку "Член класу не може мати ключове слово const". TypeScript 2.0 має модифікатор `readonly`:
 
@@ -3992,7 +3992,7 @@ new MyClass().myReadonlyProperty = 5; // помилка, readonly
 Джерело:** [stackoverflow.com](https://stackoverflow.com/questions/37265275/how-to-implement-class-constants-in-typescript)
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 18. Чи можна використовувати TypeScript на бекенді і як?
 
 Typescript працює не тільки для браузерного або фронтенд-коду, ви також можете використовувати його для написання бекенд-додатків. Наприклад, ви можете вибрати Node.js і отримати додаткову безпеку типів та інші абстракції, які пропонує ця мова.
@@ -4025,7 +4025,7 @@ tsc
 node build/index.js
 ```
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 19. Чи підтримує TypeScript всі об'єктно-орієнтовані принципи?
 
 Відповідь - **ТАК**. Існує 4 основних принципи об'єктно-орієнтованого програмування: 
@@ -4040,7 +4040,7 @@ TypeScript може реалізувати всі чотири принципи 
 **Джерело:** [jonathanmh.com](https://jonathanmh.com/typescript-node-js-tutorial-backend-beginner/)
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 20. Які об'єктно-орієнтовані терміни підтримуються у TypeScript?
 
 TypeScript підтримує наступні об'єктно-орієнтовані терміни:
@@ -4054,7 +4054,7 @@ TypeScript підтримує наступні об'єктно-орієнтов�
 **Джерело:** [http://www.talkingdotnet.com](http://www.talkingdotnet.com/typescript-interview-questions/)
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 21. Що таке файл TypeScript Map?
 
 Файли `.map' - це файли мапи джерел, які дозволяють інструментам зіставляти код JavaScript, що виводиться, з вихідними файлами TypeScript, які його створили. Багато відладчиків (наприклад, Visual Studio або інструменти для розробників Chrome) можуть споживати ці файли, тому ви можете налагоджувати файл TypeScript замість файлу JavaScript.
@@ -4062,7 +4062,7 @@ TypeScript підтримує наступні об'єктно-орієнтов�
 **Джерело:** [stackoverflow.com](https://stackoverflow.com/questions/17493738/what-is-a-typescript-map-file)
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 22. Чи можливі в TypeScript сильно типізовані функції в якості параметрів?
 Розглянемо код:
 
@@ -4085,7 +4085,7 @@ foo.save(callback);
 Чи можна зробити параметр result у функції save безпечним за типом? Перепишіть код для демонстрації.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 23. Чи є цей код TypeScript коректним? Поясніть чому
 
 Розглянемо:
@@ -4106,31 +4106,31 @@ let point3d: Point3d = {x: 1, y: 2, z: 3};
 Дивіться 👉 **[Відповідь](https://www.fullstack.cafe/TypeScript)**.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 24. Які існують різні компоненти TypeScript?
 
 Дивіться 👉 **[Відповідь](https://www.fullstack.cafe/TypeScript)**
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 25. Як TypeScript є необов'язково статично типізованою мовою
 
 Дивіться 👉 **[Відповідь](https://www.fullstack.cafe/TypeScript)**
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 26. Який модифікатор доступу за замовчуванням для членів класу у TypeScript?
 
 Дивіться 👉 **[Відповідь](https://www.fullstack.cafe/TypeScript)**
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 27. Як зробити класи, визначені в модулі, доступними за межами модуля?
 
 Дивіться 👉 **[Відповідь](https://www.fullstack.cafe/TypeScript)**
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 28. Що не так з цим кодом?
 
 **Деталі питання:**
@@ -4143,25 +4143,25 @@ function reverse(s: String): String;
  Дивіться 👉 **[Відповідь](https://www.fullstack.cafe/TypeScript)**
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 29. Чи підтримує TypeScript перевантаження функцій?
 
  Дивіться 👉 **[Відповідь](https://www.fullstack.cafe/TypeScript)**
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 30. Як використовувати зовнішні бібліотеки простого JavaScript у TypeScript?
 
  Дивіться 👉 **[Відповідь](https://www.fullstack.cafe/TypeScript)**
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 31. Що таке типізація в TypeScript?
 
  Дивіться 👉 **[Відповідь](https://www.fullstack.cafe/TypeScript)**
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 32. Яка різниця між операторами "інтерфейс vs тип"?
 
 **Деталі питання:**
@@ -4182,13 +4182,13 @@ type X = {
  Дивіться 👉 **[Відповідь](https://www.fullstack.cafe/TypeScript)**
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 33. Як би ви перевантажили конструктор класу у TypeScript?
 
  Дивіться 👉 **[Відповідь](https://www.fullstack.cafe/TypeScript)**
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 34. Поясніть, чому цей код позначено як WRONG?
 
 **Деталі питання:**
@@ -4205,7 +4205,7 @@ interface Fetcher {
 
 # Відповіді - 'CI/CD'
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 1. Що таке CI/CD
 * Безперервна інтеграція (Continuous Integration/CI)* - методологія розробки та набір практик, у яких код вносяться невеликі зміни з частими комитами. Оскільки більшість сучасних додатків розробляються з використанням різних платформ та інструментів, то виникає потреба в механізмі інтеграції та тестуванні змін, що вносяться.
 Мета CI — забезпечити послідовний та автоматизований спосіб складання, пакування та тестування додатків.
@@ -4215,7 +4215,7 @@ interface Fetcher {
 *Безперервне розгортання (Continuous Deployment/CD)* - після автоматизації релізу залишається один ручний етап: схвалення та запуск розгортання в продакшен. Практика безперервного розгортання скасовує це, не вимагаючи безпосереднього затвердження з боку розробника. Усі зміни автоматично розгортаються.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 2. Послідовність виконання CI/CD процесу на проекті
 
 1. Написання коду
@@ -4229,17 +4229,17 @@ interface Fetcher {
 ![IMG](images/CI_CD.png)
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 3. Як автоматичне тестування інтегрується в CI
 Безперервна інтеграція та безперервне постачання потребують безперервного тестування. Безперервне тестування часто реалізується у вигляді набору різних автоматизованих тестів (регресійних, продуктивності та інших), які виконуються у CI/CD-конвеєрі.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 4. Які інструменти для генерації репорту після виконання автоматичних тестів ви знаєте
 * Allure, Serenity *
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 5. Яку інформацію має містити звіт про виконання автоматичних тестів
 Виходячи з пріоритетів цільової аудиторії, ми маємо визначити, яку інформацію має містити звіт. Відповідно, в ході проекту інформація повинна консолідуватися за тим напрямком, який необхідно відобразити.
 Ми можемо виділити три групи цільових аудиторій:
@@ -4251,7 +4251,7 @@ interface Fetcher {
 
 # Відповіді - 'Основні принципи програмування'
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 1. Статуси відповідей HTTP
 Коди згруповано в 5 класів:
 1. інформаційні 100 - 199
@@ -4263,7 +4263,7 @@ interface Fetcher {
 Детальніше https://developer.mozilla.org/ru/docs/Web/HTTP/Status
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 2. Що таке DRY, KISS, YAGNI
 **DRY** (Don't Repeat Yourself - Не повторюйся)
 Уникайте повторного написання коду, виносячи в абстракції завдання і дані, що часто використовуються. Кожна частина вашого коду або інформації повинна знаходитися в однині в доступному місці. Це один із принципів коду, що читається.
@@ -4275,7 +4275,7 @@ interface Fetcher {
 Якщо пишете код, будьте впевнені, що він вам знадобиться. Не пишіть код, якщо думаєте, що він стане в нагоді пізніше. Якщо ви займаєтеся рефакторинг методу, класу або файлу, не бійтеся видаляти зайві методи. Навіть якщо раніше вони були корисними – тепер вони не потрібні.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 3. Які патерни GOF вам відомі? Наведіть приклади їхнього використання
 *Стратегія (Strategy)* - пропонує визначити сімейство подібних алгоритмів, які часто змінюються чи розширюються, і винести в власні класи, звані стратегіями.
 **Приклад**: спосіб побудови маршруту в навігаторі (для авто, пішохода, велосипедиста, громадським транспортом)
@@ -4294,13 +4294,13 @@ interface Fetcher {
 *Абстрактна фабрика (Abstarct Factory)* - надає інтерфейс для створення груп пов'язаних чи залежних об'єктів, не вказуючи їх конкретний клас.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 4. PageObject та PageFactory
 *Page Object* - патерн при якому кожної сторінки тестованого докладання створюється окремий об'єкт, методи якого інкапсулюють логіку роботи з окремими елементами. Дозволяє зменшити кількість коду та спростити його підтримку.
 * Page Factory * - реалізація патерну Factory для створення екземплярів сторінок вбудована в Selenium.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 5. Яка ієрархія Collections
 *Інтерфейси*:
 * Collection
@@ -4332,13 +4332,13 @@ interface Fetcher {
 ![IMG](images/difficulty.png)
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 6. Різниця між Thread class та Runnable interface
 Багатопоточність програми Java організується за допомогою інтерфейсу Runnable і класу Thread, який успадковується від Runnable. Перший спосіб більш гнучкий, другий – простіше.
 Коли власний клас повинен успадковуватися від іншого класу (не Thread), доводиться використовувати успадкування від інтерфейсу Runnable, т.к. в Java немає множинного успадкування класів.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 7. Різниця між String, Stringbuffer і Stringbuilder
 **String**
 Рядки в Java є імунними (не можуть бути змінені). При зміні об'єкта String Java щоразу створюється абсолютно новий об'єкт.
@@ -4353,7 +4353,7 @@ interface Fetcher {
 Різниця між ними в тому, що клас StringBuffer є потокобезпечним і синхронізованим: екземпляри класу StringBuffer можуть спільно використовуватися кількома потоками. Для операцій із рядками у багатопотокових середовищах варто використовувати StringBuffer.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 8. Різниця між final, finally та finalize
 *final* – модифікатор, який застосовується до змінних, полів, методів та класів. Змінна або поле стає незмінною і потребує ініціалізації. Фінальний метод не можна перевизначити у спадкоємцях. Фінальний клас неспроможна мати спадкоємців взагалі.
 
@@ -4365,19 +4365,19 @@ interface Fetcher {
 
 # Відповіді - 'Теорія тестування'
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 1. Що таке тестування
 
 Тестування - це процес перевірки програмного продукту з метою виявлення помилок, дефектів і недоробок, а також оцінки його якості.  
 Воно включає в себе створення і виконання тестових сценаріїв з метою переконатися у відповідності продукту заданим вимогам і очікуванням користувачів.
 Ще включає в себе планування, проєктування і, власне, виконання тестів.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 2. Навіщо тестувати програмне забезпечення
 Тестування ПЗ необхідне для забезпечення надійності, якості та функціональності продукту.  
 Воно допомагає виявити помилки на ранніх стадіях розробки, знижує ризики неполадок у роботі, покращує користувацький досвід і довіру до продукту.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 3. Які існують етапи тестування
 Загалом виділяють 7 етапів тестування:  
 1. **Робота з вимогами.**  
@@ -4395,7 +4395,7 @@ interface Fetcher {
 7. **Експлуатація.**  
 7.1 Проводиться регрес-тестування, усунення помилок, які знайшов кінцевий користувач.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 4. Які типи тестування можна назвати
 Залежно від потреб процес тестування повинен бути організований відповідним чином. Отже, ми можемо визначити 4 види тестування програмного забезпечення:
 
@@ -4404,7 +4404,7 @@ interface Fetcher {
 3. структурне тестування (Structural testing);
 4. тестування змін (Change related testing).
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 5. Які рівні тестування ви знаєте
 Тестування на різних рівнях проводиться протягом усього життєвого циклу розробки і супроводу ПЗ. Рівень тестування визначає те, над чим виробляються тести: над окремим модулем, групою модулів або системою в цілому. Проведення тестування на всіх рівнях системи – це запорука успішної реалізації та здачі проекту.
 
@@ -4415,7 +4415,7 @@ interface Fetcher {
     - Системне тестування (System testing)
     - Приймальне тестування (Acceptance testing)
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 6. Які техніки проектування тестів ви знаєте
 - **Техніки, що базуються на досвіді й інтуїції**
     - Спеціалізоване тестування (Ad hoc testing).
@@ -4441,7 +4441,7 @@ interface Fetcher {
 
 Детальніше: https://elib.lntu.edu.ua/sites/default/files/elib_upload/%D0%A2%D0%B5%D1%81%D1%82%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F/page18.html
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 7. Що таке техніка аналізу класів еквівалентності
 Поділ на класи еквівалентності – це техніка, при якій функціонал (діапазон можливих вхідних значень) розділяється на групи значень еквівалентних за своєю дією на систему.
 
@@ -4473,11 +4473,11 @@ interface Fetcher {
 2. Вибрати представника кожного класу.
 3. Виконати тести.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 8. Що таке техніка аналізу межових значень? В чому цінність цієї техніки
 Ця техніка фокусується на тестуванні в крайніх точках діапазонів даних, таких як мінімальні та максимальні значення. Вона дає змогу виявити помилки, пов'язані з некоректним опрацюванням крайніх випадків.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 9. Що таке Regression і Confirmation тестування, в чому різниця між ними
 > Confirmation testing (re-testing) - Тестування, у якому виконуються тестові сценарії, які були пройдені під час останнього запуску, з метою підтвердити успішність виправлень.
 
@@ -4504,19 +4504,19 @@ interface Fetcher {
 Далі тестуються вже закриті раніше баги.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 10. Як часто варто проводити регресійне тестування продукту
 1) Регресійне тестування рекомендується проводити кілька разів (3-5). Тому, з метою економії дорогоцінного часу (і, може бути, для позбавлення від «рутинності») в регресійних тестах активно використовують засоби автоматизації тестування.
 2) Проведення фінального регресійного тестування, для якого відбираються тести по пріоритету, що визначаються найбільшою кількістю знайдених помилок.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 11. Які існують види інтеграційного тестування
 Існує три різні підходи до інтеграційного тестування: 
 1. інтеграційне тестування згори вниз
 2. інтеграційне тестування знизу вгору 
 3. сендвіч-інтеграційне тестування.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 12. Що таке Configuration testing
 Конфігураційне тестування(Configuration Testing) - спеціальний вид тестування, спрямований на перевірку роботи програмного забезпечення при різних конфігураціях системи (заявлених платформах, підтримуваних драйвери, при різних конфігураціях комп'ютерів і т. Д.)
 
@@ -4526,7 +4526,7 @@ interface Fetcher {
 
 2. Проект з міграції системи з однієї платформи на іншу. Мета тестування: Перевірити об'єкт тестування на сумісність з оголошеним в специфікації обладнанням, операційними системами та програмними продуктами третіх фірм.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 13. Що таке Exploratory testing
 Дослідницьке тестування (exploratory testing) – це одночасне вивчення програмного продукту, проєктування тестів і їх виконання. Тестувальник активно контролює проєктування тестів в той час, як ці тести виконуються, і використовує отриману під час тестування інформацію для проєктування нових тестів.
 
@@ -4535,7 +4535,7 @@ interface Fetcher {
 Цей підхід можна застосувати до будь-якого виду тестування. Ще один важливий момент полягає в тому, що дослідницьке тестування – це не тільки виконання тестів. Тестувальники можуть застосовувати дослідницький підхід і при розробці нових тестів на початку ітерації, і при аналізі вже завершених тестів. Також, дослідницьке тестування не повинно виконуватися недбало, в поспіху і без підготовки.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 14. Які існують UI-стандарти
 Існує багато різних UI-стандартів, які використовуються для розробки користувацьких інтерфейсів.  
 Деякі з них є загальноприйнятими у галузі програмної розробки та дизайну. Ось декілька прикладів таких стандартів:
@@ -4558,7 +4558,7 @@ interface Fetcher {
 
 - Це лише кілька прикладів існуючих UI-стандартів. Вибір стандарту залежить від потреб вашого проекту, цільової аудиторії та інших факторів.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 15. Що таке Black/Grey/White Box Testing
 
 * * Тестування білої скриньки (white box testing)* - тестування, що базується на аналізі внутрішньої структури компонента або системи та на знанні вихідного коду, до якого тестувальник (як правило, це програміст) має повний доступ.
@@ -4688,7 +4688,7 @@ Summary: Нам відомі тільки деякі особливості ре
 
 Техніка сірої скриньки застосовна на різних рівнях тестування - від модульного до системного, але головним чином застосовується на інтеграційному рівні для перевірки взаємодії різних модулів програми.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 16. Що таке Performance Testing
 Тестування продуктивності (Performance Testing) – визначає наскільки тестований додаток стабільний, а також досліджує показники швидкості реакції програми на зовнішні впливи при різному за характером та інтенсивністю навантаження. Метою тестування є виявлення недоліків і вразливостей в системі, визначення швидкості завантаження даних і їх обробки, надійності програми.
 
@@ -4704,7 +4704,7 @@ Summary: Нам відомі тільки деякі особливості ре
 - стабільності;
 - конфігураційне.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 17. Що таке Smoke і Sanity тестування і в чому різниця між ними
 Smoke Testing - швидке поверхневе тестування основних функцій після складання, щоб переконатися, що система готова для глибшого тестування.
 Sanity Testing - перевірка основних функцій і фіксованих дефектів після їх виправлення для переконання, що продукт готовий до більш повного тестування. Основна різниця - фокус і мета тестування.
@@ -4768,7 +4768,7 @@ Sanity Testing - перевірка основних функцій і фікс�
 Санітарне тестування виконується після того, як збірка пройшла Smoke тестування і була прийнята командою QA для подальшого тестування. Sanity перевірка включає перевірку основних функціональних можливостей з найдрібнішими деталями, наприклад, чи виправлена проблема з полем для введення пароля і чи не з'явилися ще якісь помилки, пов'язані з цим полем.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 18. Що таке Traceability Matrix
 Матриця відповідності вимог (Requirement Traceability Matrix) – це документ, який відображає та відстежує вимоги користувача за допомогою тестових випадків (тест-кейсів). Він фіксує всі вимоги, запропоновані клієнтом, та дає можливість відстеження вимог в одному документі, який надається наприкінці життєвого циклу розробки програмного забезпечення. Основна мета матриці відповідності вимог – підтвердити, що всі вимоги перевіряються за допомогою тестових випадків, щоб кожна функціональність була перевірена під час тестування програмного забезпечення.
 Матриця відповідності містить вимоги з усіма можливими тестовими сценаріями та випадками, а також їхнім поточним станом. Це допомагає команді тестувальників зрозуміти рівень тестування конкретного продукту.
@@ -4779,7 +4779,7 @@ Sanity Testing - перевірка основних функцій і фікс�
 - Тип і опис вимоги.
 - Тестові випадки зі статусом.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 19. Що таке Sanity Testing
 Санітарне тестування: використовується щоразу, коли ми отримуємо відносно стабільний білд ПЗ, щоб визначити працездатність у деталях. Іншими словами, тут відбувається валідація того, що важливі частини функціональності системи працюють згідно з вимогами на низькому рівні.
 
@@ -4791,14 +4791,14 @@ Sanity Testing - перевірка основних функцій і фікс�
 - Підмножина приймального тестування
 - Санітарне може виконуватися без тест-кейсів, але знання тестованої системи обов'язкове
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 20. Що таке End-to-End тест
 Наскрізне тестування - це методологія тестування програмного забезпечення для перевірки потоку додатків від початку до кінця. Метою наскрізного тестування є імітація реального сценарію користувача та перевірка системи, що перевіряється, та її компонентів для інтеграції та цілісності даних.
 Ніхто не хоче, щоб про нього знали своїми помилками та недбалістю, як і у випадку з Тестерами. Коли тестувальникам призначається заявка на тестування, з цього моменту вони беруть на себе відповідальність, і вона також виступає в якості платформи для демонстрації своїх практичних та технічних знань з тестування.
 
 Отже, щоб описати це технічно, щоб забезпечити повне тестування, необхідно виконати  "Тестування наскрізне"
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 21. Що таке тестування безпеки
 Тестування безпеки – комплекс досліджень програмного продукту, спрямований на пошук і виявлення дефектів, пов’язаних із збереженням даних користувача, а саме:
 
@@ -4816,7 +4816,7 @@ Sanity Testing - перевірка основних функцій і фікс�
 - Цілеспрямовано введить помилки в надії проникнути в систему в ході відновлення.
 - Переглядає несекретні дані в надії знайти ключ для входу в систему
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 22. Що таке тестування на основі ризиків
 Risk based testing — це тестування проекту з увагою на ризики.
 Risk based testing — використовує ризики як метод для визначення пріоритетності та виокремлення певних тестів у процесі тест дизайну.
@@ -4845,7 +4845,7 @@ Risk-based testing слід розпочинати на початку прое�
 - Проведіть тестування, яке вивчає кожен ризик.
 - По мірі “випаровування” ризиків і появи нових, спрямовуйте свої тестові зусилля, щоб фокусуватися на поточному скоупі.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 23. Що таке динамічне тестування
 Динамічне тестування – тип тестування, який передбачає запуск програмного коду. Таким чином, аналізується поведінка програми під час її роботи.
 
@@ -4859,14 +4859,14 @@ Risk-based testing слід розпочинати на початку прое�
 - рівня тестування (модульне, інтеграційне, системне та прийомочне тестування);
 - сфери використання програми (функціональне, навантажувальне, тестування безпеки та ін.).
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 24. Що таке "парадокс пестициду"
 На більшості проєктів трапляються такі ситуації, коли чим більше ми тестуємо продукт, тим більший імунітет виробляється у багів, які ми намагаємося знайти, використовуючи наші тестові набори. Коли одні і ті самі тести повторюються знову та знову, то врешті-решт вони перестають знаходити нові баги. У такій ситуації, навіть детально описаний тест-кейсами, функціонал може бути не протестований досить ретельно і до користувачів можуть потрапити серйозні баги.
 
 Так само як і у комах, у багів ПЗ, що тестується може розвинутися опір до одного і того ж пестициду, тобто сформуватися імунітет до вже існуючих тест-кейсів. Такий феномен і називається ефектом пестициду. Цей термін близько 30 років тому придумав американський інженер Борис Бейзер. Суть цього ефекту полягає в тому, що багатократне застосування однакових методів з часом стає неефективним, оскільки шкідники, що вижили, вже мають імунітет.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 25. Опишіть основні фази STLC? Надайте визначення Entry і Exit Criteria
 
 **Основні фази Циклу життя тестування програмного забезпечення (STLC) та визначення Entry і Exit Criteria:**
@@ -4922,7 +4922,7 @@ Risk-based testing слід розпочинати на початку прое�
 
 Ці фази та критерії входу-виходу допомагають забезпечити систематичний та організований підхід до тестування програмного забезпечення та підтримують високу якість продукту.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 26. Що таке Bug, Error, Failure, Fault
 
 1. **Bug (дефект):**
@@ -4939,7 +4939,7 @@ Risk-based testing слід розпочинати на початку прое�
 
 Узагальнюючи, помилки і дефекти у програмному забезпеченні можуть призводити до невдач і відсутності очікуваного функціонування продукту. Розрізняючи ці терміни, команди тестування можуть точніше ідентифікувати, відслідковувати та виправляти проблеми, що виникають під час розробки та експлуатації програмного забезпечення.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 27. Які є атрибути звіту про помилку? Які основні поля для заповнення
 
 **Атрибути звіту про помилку та основні поля для заповнення:**
@@ -4997,7 +4997,7 @@ Risk-based testing слід розпочинати на початку прое�
 
 Коректне та докладне заповнення цих атрибутів та полів допомагає розробникам швидше розібратися в дефекті та виправити
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 28. Яка різниця між пріоритетом і серйозністю
 **Серйозність (Severity)** – це атрибут, що характеризує вплив дефекту на працездатність програми.
 
@@ -5035,7 +5035,7 @@ Risk-based testing слід розпочинати на початку прое�
 High -> Medium -> Low
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 29. Наведіть приклади серйозної, але не пріоритетної помилки
 Серйозна помилка, яка не є найвищим пріоритетом, може включати ситуації, де функціональність продукту порушена, але це не критично для його базової роботи або основних функцій. Оцінюючи серйозність помилок, необхідно враховувати вплив на користувачів та важливість конкретної функції.
 
@@ -5045,7 +5045,7 @@ High -> Medium -> Low
 
 Важливо враховувати, що значення "серйозності" та "пріоритету" може відрізнятися в різних контекстах та для різних продуктів. У деяких випадках, навіть якщо помилка не критична, вона може бути важливою для поліпшення користувацького досвіду, тому важливо ретельно аналізувати і оцінювати всі знайдені помилки.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 30. В чому різниця між валідацією і верифікацією
 Верифікація (verification): Підтвердження наданням об’єктивних доказів того, що встановлені вимоги були виконані.
 Примітки
@@ -5067,7 +5067,7 @@ High -> Medium -> Low
 Випробування (test): Визначення однієї або декількох характеристик відповідно до встановленої процедури.
 [ГОСТ ISO 9000-2011.]
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 31. Навіщо потрібна тестова документація і які її види
 Тестова документація є важною складовою процесу тестування програмного забезпечення, оскільки вона сприяє ефективній організації та плануванню всіх аспектів тестування. Вона забезпечує структурований підхід до роботи тестувальників, допомагає відстежувати процес та результати тестування, а також забезпечує належний рівень документації для комунікації між всіма учасниками проекту, зокрема між розробниками, тестувальниками та менеджерами.
 
@@ -5101,7 +5101,7 @@ High -> Medium -> Low
 
 Допустимо, ви тестуєте веб-додаток для онлайн-магазину. Ви створюєте Тест-План, де вказуєте, що проведете тестування на різних браузерах, зробите функціональне та інтеграційне тестування. Далі, для кожного тестового сценарію ви пишете докладні інструкції, наприклад, "Валідація корзини покупок". У вас також є Traceability Matrix, де відображено, які вимоги покриває кожен тестовий сценарій.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 32. Що таке тест-план? Які елементи він має
 **Тест-план** - це документ, що описує план тестування для конкретного проекту або продукту. Він визначає стратегію, підходи, ресурси, розклад та оцінки вартості тестування. Тест-план є ключовим інструментом, який допомагає організовувати і впорядковувати процес тестування, а також забезпечує загальне розуміння всіх сторін, як планується провести тестування.
 
@@ -5162,7 +5162,7 @@ High -> Medium -> Low
 
 Такий докладний тест-план допомагає забезпечити систематичний та структурований підхід до тестування, зменшити ризики та забезпечити якість продукту.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 33. Яку обов'язкову інформацію має містити тест-план
 Test plan – це документ, який описує весь обсяг робіт з тестування, починаючи з опису об'єкта тестування, стратегії, розкладу, критеріїв початку і закінчення тестування, до необхідного в процесі роботи обладнання, спеціальних знань, а також оцінки ризиків з варіантами їх вирішення.
 
@@ -5205,7 +5205,7 @@ Test plan – це документ, який описує весь обсяг �
 Тест-план – важливий елемент процесу тестування, що допомагає організувати роботу тестувальників та забезпечити якість продукту.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 34. Яка різниця між чеклистом і тест-кейсами
 **Тест кейс** - це послідовність дій, які потрібно перевірити.
 
@@ -5243,7 +5243,7 @@ Test plan – це документ, який описує весь обсяг �
 І все, тобто ми не описуємо крок за кроком, куди натиснути, що конкретно зробити, а просто вказуємо напрямок, що потрібно зробити таку-то дію, у цьому випадку - додати товар у кошик. А як ми додамо товар у кошик, звідки додамо, куди переходитимемо до цього - це все на розсуд тестувальника, який проводить тестування за цим пунктом чек-листа.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 35. Обязанності QA
 * вивчення та уточнення вимог до програми у замовника (у великих проєктах цим можуть займатися бізнес-аналітики)
 * написання та подальше доопрацювання сценаріїв тестування
@@ -5256,7 +5256,7 @@ Test plan – це документ, який описує весь обсяг �
 * аналіз та оптимізація етапів розробки для усунення причин помилок та уникнення повторної їх появи
 * робота з тестовою документацією
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 36. Що знаєте про тестування навантаження? У якому випадку слід проводити таке тестування? На якому етапі готовності продукту
 *Навантажувальне тестування (load testing)* - виконання програми з підвищенням навантаження, аж до досягнення запланованих характеристик, і далі з відстеженням поведінки впродовж усього періоду підвищення завантаження системи. При цьому може відбуватися:
 * вимірювання часу виконання обраних операцій за певних інтенсивностей виконання цих операцій
@@ -5272,7 +5272,7 @@ Test plan – це документ, який описує весь обсяг �
 
 Зазвичай проводиться заздалегідь перед релізом або очікуваним збільшенням навантаження.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 37. Decision table і як її можна використовувати
 *Таблиця рішень (Decision Table)* - техніка, що допомагає наочно зобразити комбінаторику умов із ТЗ. Приклад нижче.
 
@@ -5302,7 +5302,7 @@ Test plan – це документ, який описує весь обсяг �
 > Категорії товарів: сукні, джинси, светри.  
 > Час зберігання товару в резерві: 2 години з моменту додавання в кошик.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 38. Що може бути критеріями запуску і завершення тестування
 Загалом, безглуздо абстрактно говорити про критерії початку або завершення тестування, бо воно починається і завершується разом із початком і кінцем усього проєкту загалом.  
 Правильніше говорити про тестування як про підпроцес процесу розробки ПЗ. Цей підпроцес складається з цілої серії діяльностей, кожна з яких пов'язана залежностями з іншими діяльностями, зокрема такими, що не належать до тестування.
@@ -5316,7 +5316,7 @@ Test plan – це документ, який описує весь обсяг �
 * спустошення бюджету
 * всі тест кейси пройдено, знайдені баги виправлено і перевірено ще раз
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 39. Приклади підходів для тестування локалізації
 **За наявності локалі.**  
 Беремо локаль і проводимо необхідний комплекс операцій для перевірки її якості.
@@ -5324,12 +5324,12 @@ Test plan – це документ, який описує весь обсяг �
 **За відсутності локалі.**  
 *Техніка псевдо-локалізації (Pseudo-localization approach)*. У рамках цього підходу потрібно підготувати псевдо-локаль (зробити це може сам тестувальник), використовуючи будь-яку іншу мову та додавши до файлів необхідні дані, наприклад спец.символи певної мови. Також можна додати більшу кількість символів у рядки, щоб перевірити, чи буде обрізатися текст (truncate), адже текст може стати довшим після перекладу на нову локаль і не вміститися у відведений для нього простір. Ще такий підхід допоможе знайти проблему з об'єднанням рядків (concatenation) і проблеми, пов'язані з відображенням шрифту, якщо такі є. Для того, щоб такі проблеми було простіше знайти, то в початок і кінець рядка можна додати який-небудь символ. Наприклад, Microsoft використовує такий підхід ще з 90-х і вставляє квадратні дужки для позначення початку і закінчення рядка.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 40. A/B тестування
 A/B-тестування - експеримент, який дає змогу порівняти дві версії будь-чого, щоб перевірити гіпотези та визначити, яка версія краща. Чи повинні кнопки бути чорними або білими, яка навігація краща, який порядок проходження реєстрації найменше відлякує користувачів...  
 Користувачі випадковим чином діляться на сегменти. Один із сегментів залишається без змін - це контрольний сегмент "A", на основі даних за цим сегментом ми оцінюватимемо ефект від внесених змін. Користувачам із сегмента "B" показуємо змінену версію. Щоб отримати статистично значущий результат, дуже важливо виключити вплив сегментів один на одного.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 41. Що таке mock/stub? Які знаєте інструменти для роботи з ними
 *Тестовий двійник (Test Double)* - це всеосяжний термін, який описує всі види фальшивих (fake) залежностей, непридатних до використання в кінцевому продукті (non-production-ready), у тестах. Така залежність має вигляд і поводиться як її аналог, призначений для production, але насправді є спрощеною версією, яка знижує складність і полегшує тестування.
 
@@ -5352,11 +5352,11 @@ A/B-тестування - експеримент, який дає змогу п
 *Java*: Mockito, EasyMock, JMockit  
 *Python*: pyDoubles, Mox, Mockito-python
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 42. Коли потрібно використовувати техніку Pairwise
 Коли в нас більша кількість комбінацій тестових даних і ми хочемо забезпечити максимальне покриття, протестувавши всі можливі окремі комбінації кожної пари вхідних параметрів.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 43. Fuzz-тестування і де його використовують
 *Fuzz testing (фаззинг)* - методика тестування, за якої на вхід програми подаються невалідні, непередбачені або випадкові дані. Основна ідея такого підходу полягає в тому, щоб випадковим чином "мутувати" очікувані програмою вхідні дані в довільних місцях. Усі фаззери працюють приблизно однаково, даючи змогу задавати деякі обмеження на мутування вхідних даних певними байтами або послідовністю байтів. Широко застосовується там, де потрібен високий ступінь надійності.  
 Фаззинг можна застосовувати до будь-яких функцій, які обробляють складні дані. Наприклад, бібліотеки стиснення і розпакування, парсери HTTPS і DNS, різні десеріалізатори, мультимедіа кодеки, криптографічні бібліотеки, запити до баз даних. А також для всього, що приймає дані із зовнішнього світу, тобто з недовірених джерел.
@@ -5365,11 +5365,11 @@ A/B-тестування - експеримент, який дає змогу п
 * Випадковий фаззинг щоразу генерує повністю випадкові значення, які ніяк не залежать від минулих тестів. Випадкові фаззери є більш простими і більш швидкими. Вони можуть дати хороший результат за малу ціну.
 * Фаззинг з урахуванням покриття використовує результати минулих тестів для відстеження і подальшого збільшення покриття коду. Такі фаззери можуть заглиблюватися в тестовані дані і для роботи таких фаззерів потрібні набори даних, що подаються на вхід. Ці дані називаються корпус - це мінімальний набір тестових вхідних даних, які можуть згенерувати максимальне покриття коду.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 44. REgexp
 Регулярні вирази (Regular Expressions/REgexp) - формальна мова, яка використовується для пошуку та здійснення маніпуляцій із підрядками в тексті, заснована на використанні метасимволів (символів-джокерів/wildcard characters). Для пошуку використовується рядок-зразок (pattern/шаблон, маска), що складається з символів і метасимволів і задає правило пошуку.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 45. Як змінюється вартість дефекту під час тестування ПЗ
 Що раніше знайдено дефект, то дешевше нам обходиться його виправлення. Згодом, вартість виправлень зростає, в той час як вплив учасників проєкту на процес розробки поступово зменшується.
 
@@ -5377,7 +5377,7 @@ A/B-тестування - експеримент, який дає змогу п
 
 Якщо серйозний дефект виявляється на пізніх етапах розробки, він може залишитися невиправленим, оскільки вартість внесення змін може виявитися занадто високою. Крім того, навіть якщо готова програма відповідатиме специфікації, замовник все одно може відмовитися її приймати, якщо сама специфікація була неправильною. Проєктна команда могла розробити точно те, що було описано у вимогах, але якщо вимоги було витлумачено неправильно, замовника результат не влаштує.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 46. Які шляхи аналізу бізнесу клієнта? Як визначити доцільність того чи іншого функціоналу
 
 ![IMG](images/BA.webp)
@@ -5399,27 +5399,27 @@ A/B-тестування - експеримент, який дає змогу п
 * Обробити зауваження та пропозиції, отримані за результатами експлуатації.
 * Оновити базу знань за проєктом.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 47. Яке має бути відсоткове співвідношення між позитивним і негативним тестуванням на проєкті
 Усі вимоги мають бути покриті позитивними сценаріями, плюс варто робити мінімум хоча б один-два негативних сценарії на кожну вимогу.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 48. Чи є різниця між bug leakage і bug release
 *Bug release* - баги, які були випущені в реліз і команда розробки про них знає.
 
 *Bug leakage* - невідомі команді розробки, баги, які знаходять користувачі після релізу.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 49. Що потрібно покривати тест-кейсами, а що вважається надлишковою витратою часу і грошей? Коли недоцільно писати тест-кейси
 Насамперед тестами покривається основний функціонал застосунку і далі по низхідній. Однак тест-кейси пишуться з огляду на вимоги бізнесу. Можливо, що вимоги бізнесу до тестування не покриватимуть основний функціонал. У такій ситуації потрібне уточнення вимог у замовника.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 50. Як порахувати Cyclomatic complexity
 Цикломатична складність програми (Cyclomatic Complexity of a Program) - структурна/топологічна міра складності комп'ютерної програми. Розроблена Томасом Дж.Маккейбом у 1976 році.  
 Під час обчислення цикломатичної складності використовується граф потоку керування програми. Вузли графа відповідають неподільним групам команд програми, вони з'єднані орієнтованими ребрами, якщо групу команд, що відповідає другому вузлу, може бути виконано безпосередньо після групи команд першого вузла. Цикломатична складність може бути також обчислена для окремих функцій, модулів, методів або класів у межах програми.  
 Їй на заміну прийшла Cognitive Complexity розроблена у 2017 році компанією Sonar Source.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 51. У чому основна різниця між defect detection percentage і defect removal efficiency
 *Відсоток виявлення дефектів (Defect Detection Percentage/DDP або Defect Removal Efficiency/DRE)* - відсоток виявлення дефектів показує міру ефективності тестування. Розраховується як відношення дефектів, виявлених до випуску і після випуску ПЗ. DDP можна визначити у вигляді такої формули:
 
@@ -5429,11 +5429,11 @@ A/B-тестування - експеримент, який дає змогу п
 
     DDE = (Кількість дефектів, створених і виявлених на етапі / Загальна кількість дефектів, створених на цьому етапі) * 100
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 52. Які моделі risk-based testing ви знаєте
 *FMEA(Failure Mode and Effect Analysis)* - є найбільш популярним підходом до тестування, що базується на ризиках. Це модель аналізу причин і наслідків відмов системи, яка визначає потенційні дефекти і причини їх виникнення. Робота за такою моделлю передбачає, що команда проєкту намагається визначити всі компоненти, процеси, модулі, в яких може статися збій. Цей збій з різною часткою ймовірності може призвести до погіршення якості ПЗ. Для вимірювання таких збоїв використовують 3 показники: серйозність, пріоритет і ймовірність. Кожному ризику призначається Risk Priority Number (RPN) і залежно від показників закладається глибина тестування.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 53. Тестування API? Інструменти
 *API (програмний інтерфейс додатка)* - набір процедур, протоколів та інструментів для створення програмних додатків. API визначає, як додаток має взаємодіяти з іншими програмами. 
 
@@ -5442,7 +5442,7 @@ A/B-тестування - експеримент, який дає змогу п
 **Інструменти**:
 Swagger, SoapUI, Postman
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 54. Load, Stress та Stability testing? Якими інструментами користуються для їх виконання
 *Навантажувальне тестування (load testing)* - виконання програми з підвищенням навантаження, аж до досягнення запланованих характеристик, і далі з відстеження поведінки на всьому протязі підвищення завантаження системи.
 ![IMG](images/load_test.png)
@@ -5460,7 +5460,7 @@ LoadRunner, Apache JMeter, Gatling
 
 # *Selenium*
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 55. Як ви будуватимете і впроваджуватимете стратегію з автоматизації тестування
 https://habr.com/ua/post/275171/
 
@@ -5509,7 +5509,7 @@ https://habr.com/ua/post/275171/
 Стратегія може бути представлена як у вигляді традиційно розписаного документа, так і у наочному форматі
 ![IMG](images/strategy.png)
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 56. Як обробляти браузерні повідомлення (alerts)
 ```javascript
     Alert alert = driver.switchTo().alert();
@@ -5518,7 +5518,7 @@ https://habr.com/ua/post/275171/
     alert.accept(); / alert.dismiss();
 ```
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 57. Концепція дизайну Appium
 Appium - HTTP-сервер, написаний на платформі Node.js, який управляє сесіями iOS та Android, використовуючи дротовий протокол WebSON JSON. Отже, перед ініціалізацією сервера Appium Node.js має бути попередньо встановлений у системі.
 Коли Appium завантажено та встановлено, на нашому комп'ютері налаштовується сервер, який надає REST API.
@@ -5529,7 +5529,7 @@ Appium - HTTP-сервер, написаний на платформі Node.js, 
 * Google UIAutomator для Android API рівня 16 або вище
 * Selendroid для Android API рівня 15 або нижче
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 58. Electron? Як використовувати Selenium для тестування програм на його основ
 *Electron* — це фреймворк для розробки настільних програм з використанням HTML, CSS та JavaScript. Такі програми можуть працювати на різних платформах. Серед них – Windows, Mac та Linux.
 В основі Electron лежать проекти Chromium та Node.js, об'єднані в єдине середовище, що забезпечує роботу програм. Це дає можливість використовувати веб-технології при розробці настільних програм.
@@ -5555,7 +5555,7 @@ driver.quit()
 
 # Тестова інфраструктура
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 59. Що таке і чим відрізняються віртуальна машина, симулятор та емулятор
 *Віртуалізація* – приховування конкретної реалізації за універсальним стандартизованим методом звернення до ресурсів. Інакше кажучи, це створення абстракції над апаратним забезпеченням.
 
@@ -5565,7 +5565,7 @@ driver.quit()
 
 *Гіпервізор (Virtual Machine Monitor/Монітор віртуальних машин)* - спеціальний «прошарок» між гостьовою ОС та обладнанням, що дозволяє гостьовій системі безпосередньо звертатися до ресурсів апаратного забезпечення.
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 60. Контейнер і чим він відрізняється від віртуальної машини
 *Контейнер* - це абстракція на рівні програми, що поєднує код та залежності. Контейнери реалізуються поверх ядра ОС вузла (яке можна вважати своєрідним фундаментом ОС) і містять лише програми та деякі API-інтерфейси та служби ОС, що працюють у режимі користувача.
 На відміну від контейнерів, віртуальні машини працюють під керуванням повноцінної ОС із власним ядром.
@@ -5575,7 +5575,7 @@ driver.quit()
 ![IMG](images/virtual_machine.svg)
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 61. IaaS та PaaS? Приклади використання
 *IaaS (Infrastructure as a Service/інфраструктура як послуга)*. Сюди відносять обчислювальні ресурси: віртуальні сервери, сховища, мережі. Це щось на зразок віртуальних «комп'ютерів», на які можна встановити будь-що: ОС, ПЗ, додатки.
 Постачальник IaaS (інфраструктури як сервісу), або хмарний провайдер, вже все купив та зібрав, забезпечив сервери електрикою та інтернетом. Вам залишається лише підключитися до цих обчислювальних потужностей через інтернет та використовувати їх для своїх цілей.
@@ -5605,7 +5605,7 @@ driver.quit()
 * платформи для ведення блогів
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 62. Configuration Management
 *Configuration Management (управління конфігурацією проекту)* – ідентифікація, створення, підтримання та контроль конфігурації в ході проекту.
 **Основне завдання**: у будь-який час мати доступ до 100% актуальної версії конфігураційного елемента, які необхідно використовувати, і бути впевненим, що жоден конфігураційний елемент не конфліктує з іншими конфігураційними елементами.
@@ -5617,7 +5617,7 @@ driver.quit()
 3. Контроль зміни під час проекту
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 63. SSH і як ним користуватися
 *SSH(Secure Shell)* - протокол віддаленого керування комп'ютером з ОС Linux. В основному ssh використовується для віддаленого керування серверами через термінал, але може використовуватися для доступу до будь-яких пристроїв з Linux.
 **Підключитися**:
@@ -5626,7 +5626,7 @@ $ssh user@host
 ````
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 64. Bash і Batch скрипти? Для чого їх використовують
 *Bash-скрипти (shell script)* - сценарії командного рядка, написані для оболонки bash для Unix-подібних ОС.
 *Batch-файл (пакетний файл/батнік)* — сценарії командного рядка, MS-DOS, OS/2 або Windows.
@@ -5636,7 +5636,7 @@ $ssh user@host
 
 # *Web*
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 65. Різниця між авторизацією та автентифікацією
 * Ідентифікація * - процедура, в результаті виконання якої для суб'єкта ідентифікації виявляється його ідентифікатор, який однозначно визначає цього суб'єкта в інформаційній системі.
 
@@ -5650,7 +5650,7 @@ $ssh user@host
 * користувач правильно вводить додатковий одноразовий код -> система остаточно погоджується, що це справжній власник облікового запису (***двофакторна аутентифікація***)
 * система надасть користувачеві право читати листи у його поштовій скриньці (***авторизація***)
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 66. Чи може сервер відправити код 400, якщо проблема на його стороні
 *400 (Bad Request)* - безпосередньо пов'язані з клієнтом (браузером, наприклад) і натякає те що, що відправлений запит із боку користувача призводить до збою ще до того, як його обробить сервер, по крайнього заходу вважає сам сервер. Найчастіше сервер відправляє цей код, коли несправність не підходить більше ні під одну категорію помилок.
 **Через що спливає Bad Request**:
@@ -5660,7 +5660,7 @@ $ssh user@host
 4. Застарілі або змінені файли cookie. Сервер може сприйняти заміну файлів cookie як спробу атакувати або скористатися дірою в безпеці. Такі запити відразу блокуються.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 67. Як перевірити обрив з'єднання WebSocket
 ```js
 
@@ -5673,7 +5673,7 @@ socket.readyState
 * 3 – CLOSED - з'єднання закрите
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 68. Основні види вразливості веб-додатків
 * *Ін'єкції*. Вразливості такого класу починаються SQL-ін'єкціями, у різних варіаціях, і замикаються RCE - віддаленим виконанням коду.
 * * XSS (Міжсайтовий скриптинг) * - вразливість, що зустрічається на даний момент рідше, ніж раніше, але незважаючи на це не стала менш небезпечною. Особливо для користувачів, адже атака XSS націлена саме на них. Загалом зловмисник впроваджує скрипт у веб-додаток, який спрацьовує для кожного користувача, який відвідав шкідливу сторінку.
@@ -5683,13 +5683,13 @@ socket.readyState
 * *Атака зовнішньої сутності XML (XML External Entity/XXE)* — тип атаки, в якому використовується широко доступна, але рідко використовується функція синтаксичних аналізаторів XML. Використовуючи XXE, зловмисник може викликати відмову в обслуговуванні (DoS), а також отримати доступ до локального та віддаленого контенту та служб. XXE може використовуватися для виконання підробки запитів на стороні сервера (SSRF), змушуючи веб-програму виконувати запити до інших програм. У деяких випадках за допомогою XXE може навіть виконати сканування портів та віддалене виконання коду.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 69. Які інструменти для тестування Web performance client-side знаєте
 ***Playwright with Lighthouse***
 https://nuancesprog.ru/p/15590/
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 70. Cніфери? Які знаєте
 *Аналізатор трафіку (sniffer/сніфер)* — програма або пристрій для перехоплення та аналізу мережевого трафіку (свого та/або чужого).
 **Види**:
@@ -5704,7 +5704,7 @@ https://nuancesprog.ru/p/15590/
 * IRIS
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 71. Різниця між DROP та TRUNCATE
 **Команди SQL**
 https://tproger.ru/translations/sql-recap/
@@ -5717,7 +5717,7 @@ https://tproger.ru/translations/sql-recap/
 TRUNCATE TABLE схожа на інструкцію DELETE без пропозиції WHERE, але вона виконується швидше і вимагає менше ресурсів.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 72. Функція CASE
 *CASE* перевіряє істинність набору умов та залежно від результату перевірки може повертати той чи інший результат.
 
@@ -5726,12 +5726,12 @@ TRUNCATE TABLE схожа на інструкцію DELETE без пропози
 * пошуковий вираз CASE для визначення результату обчислює набір логічних виразів
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 73. Що таке collation
 *Collation* - параметр вказує SQL серверу, як потрібно сортувати та порівнювати рядки. Наприклад, різні чи ні рядки “Apple” та “apple” залежить від зазначеного Collation.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 74. Що таке схема GraphQL
 *GraphQL Schema* – опис типів даних на сервері, зв'язків між ними та логіки отримання цих самих даних.
 **Включає параметри**:
@@ -5745,7 +5745,7 @@ TRUNCATE TABLE схожа на інструкцію DELETE без пропози
 * *statefull* - має бути в операцій subscription, т.к. потрібне встановлення постійного підключення з клієнтом, зберігання даних про підписки, механізм перепідключення та відновлення даних про існуючі підписки. Пакет graphql ніяк не допомагає у вирішенні цих адмінських проблем.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 75. Різниця між OLTP та OLAP
 *OLTP (Online Transaction Processing/оперативна обробка транзакцій)* - метод проведення транзакцій у режимі реального часу з використанням онлайнової БД, яка автоматично оновлюється в міру здійснення транзакцій. Такі підприємства, як банки, готелі та ресторани, часто використовують OLTP, щоб їхні співробітники та клієнти могли одночасно та ефективно виконувати кілька транзакцій у реальному часі, зберігаючи при цьому точність даних. У міру здійснення транзакцій системи OLTP автоматично оновлюють залишки на рахунках і зберігають іншу важливу інформацію, таку як дата і час. Зазвичай це реляційні БД.
 
@@ -5763,7 +5763,7 @@ OLAP характеризується великим обсягом даних, 
 * У OLAP сховище даних створюється унікальним чином, щоб у нього можна було інтегрувати різні джерела даних для побудови консолідованої БД, тоді як OLTP використовує традиційні СУБД.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 76. Типи реплікації в SQL Server?
 *Реплікація* - набір технологій копіювання та розповсюдження даних та об'єктів БД між БД, а також синхронізації БД для підтримки узгодженості.
 
@@ -5775,22 +5775,22 @@ OLAP характеризується великим обсягом даних, 
 * Попередні підписки - засновані на реплікації транзакцій. Коли дані для оновлюваної передплати оновлюються на передплатнику, вони спочатку поширюються на видавця, а потім на інших передплатників.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 77. Self Join
 *SELF JOIN* - використовується для поєднання таблиці з нею самою таким чином, ніби це дві різні таблиці, тимчасово перейменовуючи одну з них. Потрібен тоді, коли у різних полів однієї таблиці можуть бути однакові значення. Наприклад, той самий учасник музичного гурту може бути і вокалістом, і, наприклад, клавішником.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 78. Що такое тестування
 *Тестування ПЗ (Software Testing)* - перевірка відповідності між реальною та очікуваною поведінкою програми, що здійснюється на кінцевому наборі тестів, обраному певним чином.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 79. Піраміда тестування
 ![IMG](images/pyramid.png)
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 80. Навіщо тестувати ПЗ
 *Мета тестування*:
 * Підвищити ймовірність того, що додаток буде працювати правильно за будь-яких обставин.
@@ -5798,7 +5798,7 @@ OLAP характеризується великим обсягом даних, 
 * Надання актуальної інформації про стан продукту на даний момент.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 81. Етапи тестування
 *Етапи*:
 1. Аналіз продукту
@@ -5811,7 +5811,7 @@ OLAP характеризується великим обсягом даних, 
 8. Експлуатація
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 82. Типи тестування
 *За цілями*:
 * Безпеки
@@ -5838,7 +5838,7 @@ OLAP характеризується великим обсягом даних, 
 
 *За виконанням коду*
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 83. Рівні тестування
 * *Модульне/компонентне* (unit/component testing)* - тестування найменших елементів ПЗ, які можуть бути протестовані окремо (модулі, об'єкти, класи, функції).
 Завдання модульного тестування – виявлення локалізованих у модулі помилок реалізації алгоритмів, а також визначення ступеня готовності системи до переходу на наступний рівень розробки та тестування.
@@ -5852,7 +5852,7 @@ OLAP характеризується великим обсягом даних, 
 * *Приймальне (acceptance testing)* - формальний процес тестування, який перевіряє відповідність системи потребам, вимогам та бізнес процесам користувача, та проводиться для винесення рішення замовником (внутрішнім або зовнішнім) або іншою уповноваженою особою приймається додаток чи ні.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 84. Техніки тест-дизайну
 * *Еквівалентний Поділ/Класи еквівалентності (Equivalence Partitioning - EP)*. Як приклад, у вас є діапазон допустимих значень від 1 до 10, ви повинні вибрати одне правильне значення всередині інтервалу, скажімо, 5, і одне неправильне значення поза інтервалом - 0, отримавши таким чином два значення, що відносяться до різних класів.
 
@@ -5868,19 +5868,19 @@ OLAP характеризується великим обсягом даних, 
 * *Вичерпне тестування (Exhaustive Testing - ET)* - крайній випадок. У межах цієї техніки ви повинні перевірити всі можливі комбінації вхідних значень, і в принципі це має знайти всі проблеми. Насправді застосування цього методу неможливо, через велику кількість вхідних значень.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 85. Що таке Regression та Confirmation тестування, яка між ними різниця
 *Повторне/Підтвердне тестування (re-testing/confirmation testing)* - тестування, під час якого виконуються тестові сценарії, що виявили помилки під час останнього запуску, для підтвердження успішності виправлення цих помилок.
 
 *Регресійне тестування (regression testing)* - тестування вже протестованої програми після модифікації для впевненості в тому, що процес модифікації не вніс або не активізував помилки в областях, що не зазнавали змін. Проводиться після змін у коді або його оточення.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 86. Частота регресійного тестування
 Варто робити по можливості і залежно від частоти втручання у релізи.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 87. Види інтеграційного тестування
 * *Знизу вгору (Bottom Up Integration)*. Усі низькорівневі модулі, процедури або функції збираються докупи і потім тестуються. Після чого збирається наступний рівень модулів щодо інтеграційного тестування. Даний підхід вважається корисним, якщо всі або практично всі модулі, що розробляється, готові. Також цей підхід допомагає визначити за результатами тестування рівень готовності програми.
 
@@ -5889,51 +5889,51 @@ OLAP характеризується великим обсягом даних, 
 * *Великий вибух («Big Bang» Integration)*. Усі або практично всі розроблені модулі збираються разом у вигляді закінченої системи або її основної частини, а потім проводиться інтеграційне тестування. Такий підхід дуже добрий для збереження часу. Проте якщо тест кейси та його результати записані не так, то сам процес інтеграції сильно ускладниться, що стане перепоною для команди тестування при досягненні основної мети інтеграційного тестування.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 88. Configuration Testing
 *Конфігураційне тестування (configuration testing)* - тестування, спрямоване на перевірку роботи ПЗ при різних конфігураціях системи (заявлених платформах, драйверах, що підтримуються, при різних конфігураціях комп'ютерів і системного ПЗ і т.д.).
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 89. Exploratory Testing
 *Дослідницьке тестування (exploratory testing)* - неформальний метод, у якому тестувальник активно контролює проектування тестів, тоді як ці тести виконуються, і використовує отриману інформацію для проектування нових поліпшених тестів. Таке тестування визначається як одночасне навчання, проектування тесту та його виконання.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 90. Performance Testing
 *Тестування продуктивності (performance testing)* - визначення ступеня, з яким система виконує закладені в неї функції у встановлених рамках на час обробки та пропускну здатність. Досить часто під час тестування продуктивності перевіряється відразу кілька його підвидів.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 91. Traceability Matrix
 *Матриця відповідності вимог (traceability matrix)* — двомірна таблиця, що містить відповідність функціональних вимог (functional requirements) продукту та підготовлених тестових сценаріїв (test cases).
 У заголовках колонок таблиці розміщені вимоги, а заголовках рядків — тестові сценарії. На перетині — позначка, що означає, що вимога поточної колонки покрита тестовим сценарієм поточного рядка.
 Матриця відповідності вимог використовується QA-інженерами для валідації покриття продукту тестами. МСТ є невід'ємною частиною тест-плану.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 92. End-to-End тест
 End-to-End тести - такі інтеграційні тести, які впливають на систему через її зовнішні інтерфейси і перевіряють очікувану реакцію системи через ці ж інтерфейси.
 Чому саме інтеграційні? Тому що це єдине, що можна про них напевно сказати: вони за визначенням не можуть бути модульними тестами. А все інше: чи є вони одночасно приймальними, навантажувальними чи ще якими - залежить тільки від загальних плану/стратегії тестування та тієї ролі, яку ці тести в них відіграють.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 93. Тестування безпеки
 *Тестування безпеки/захищеності (security testing)* – тестування ПЗ з метою визначити його захищеність.
 Основні поняття, які мають бути охоплені тестуванням: конфіденційність, цілісність та збереження даних, автентифікація, авторизація та неможливість відмови від авторства.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 94. Випробування на основі ризиків
 *Тестування на основі ризиків/Ризик-тестування (risk-based testing)* — метод тестування програмного забезпечення, який базується на ймовірності ризиків. Їхня ймовірність визначається шляхом аналізу, в якому враховуються складність програми, критичність функції для бізнесу, частота її використання та кількість можливих дефектів. При тестуванні на основі ризиків найбільший пріоритет одержує перевірка найважливіших і потенційно мають недоліки функцій.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 95. Динамічне тестування
 *Динамічне тестування (dynamic testing)* - тестування, яке проводиться під час виконання ПЗ, компонента або системи.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 96. Основні фази STLC? Дайте визначення Entry та Exit Criteria.
 Життєвий цикл тестування (STLC) визначає, які дії виконувати при тестуванні і коли їх виконувати.
 
@@ -5950,7 +5950,7 @@ End-to-End тести - такі інтеграційні тести, які в�
 *Критерії виходу (Exit Criteria)* - визначають елементи, які мають бути виконані до завершення тестування.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 97. Атрибути баг-репорту? Які основні поля для заповнення
 *Баг Репорт (Bug Report)* — документ, що описує ситуацію або послідовність дій, що призвела до некоректної роботи об'єкта тестування, із зазначенням причин та очікуваного результату.
 
@@ -5974,7 +5974,7 @@ End-to-End тести - такі інтеграційні тести, які в�
 * Очікуваний результат (Expected Result) - очікуваний правильний результат
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 98. Різниця між пріоритетом і серйозністю
 *Серйозність (Severity)* - атрибут, що характеризує вплив дефекту на працездатність програми.
 
@@ -5983,12 +5983,12 @@ End-to-End тести - такі інтеграційні тести, які в�
 Зазвичай Severity виставляється тестувальником, а Priority менеджером, тимлідом або замовником.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 99. Наведіть приклади серйозного, але не пріоритетного бага.
 На Андроїді 4.4 програма при першому запуску падає. У наступні запуски працює нормально. Т.к. користувачів з цією версією ОС у нас близько 0,5%, то пріоретет можна поставити низький або взагалі проігнорувати.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 100. Навіщо потрібна тестова документація? Які її види
 https://habr.com/ua/company/otus/blog/588923/
 
@@ -6003,7 +6003,7 @@ https://habr.com/ua/company/otus/blog/588923/
 * Інструкція (Manual)
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 101. Тест-план? Які елементи має
 *План тестування (Test Plan)* — документ, що описує весь обсяг робіт із тестування, починаючи з опису об'єкта, стратегії, розкладу, критеріїв початку та закінчення тестування, до необхідного в процесі роботи обладнання, спеціальних знань, а також оцінки ризиків з варіантами їх дозволу.
 
@@ -6028,7 +6028,7 @@ https://habr.com/ua/company/otus/blog/588923/
 
 ## Відповіді - 'Бази данних'
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 1. Які бувають види БД
 https://proglib.io/p/11-tipov-sovremennyh-baz-dannyh-kratkie-opisaniya-shemy-i-primery-bd-2020-01-07
 1. Найпростіші типи БД
@@ -6053,12 +6053,12 @@ https://proglib.io/p/11-tipov-sovremennyh-baz-dannyh-kratkie-opisaniya-shemy-i-p
 
 ## Відповіді - 'Загальні питання'
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 1. Які знаєте Web elements
 Кнопки, лейбли, поля введення, списки, що випадають, чекбокси, радіобатони, фрейми
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 2. Для чого необхідні інструменти розробника в браузері (Chrome DevTools) і як вони допомагають у тестуванні
 * Перевизначення геолокації та підміна User-Agent
 * Визначення JS шляху до рядка
@@ -6070,24 +6070,24 @@ https://proglib.io/p/11-tipov-sovremennyh-baz-dannyh-kratkie-opisaniya-shemy-i-p
 * Інформація про cookies у вкладці applications
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 3. Що таке кеш
 *Кеш* — проміжний буфер із швидким доступом до нього, що містить інформацію, яка може бути запитана з найбільшою ймовірністю. Доступ до даних у кеші здійснюється швидше, ніж вибірка вихідних даних з повільнішої пам'яті або віддаленого джерела, проте його обсяг істотно обмежений порівняно зі сховищем вихідних даних.
 
 *Кеш браузера* - буфер між браузером та інтернетом, у якому зберігаються відвідані користувачем сторінки. Замість того, щоб завантажувати їх із інтернету, браузер може «дістати» сторінки з кешу, що значно скорочує швидкість завантаження сторінок. Проблема може виникнути, якщо на сервері оновиться сторінка, а браузер продовжить підвантажувати стару версію з кешу.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 4. Що таке сесія
 *Сесія* - механізм, що дозволяє однозначно ідентифікувати браузер і створює для цього браузера файл на сервері, де зберігаються змінні сеансу.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 5. Навіщо потрібні cookies
 *Cookies* - текстові файли невеликого розміру зі службовою інформацією для браузера. Часто в таких файлах зберігається статистика відвідувань, логін та пароль від сайтів чи сервісів, індивідуальні налаштування користувача – регіон, дизайн оформлення та інше.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 6. iFrame і як з ним працювати в Selenium
 *Фрейм (Frame/iFrame)* — самостійний документ, який відображається в окремому вікні браузера і є повністю закінченою HTML-сторінкою. Простими словами, кадр - роздільник браузерних вікон на окремі області.
 
@@ -6098,7 +6098,7 @@ https://proglib.io/p/11-tipov-sovremennyh-baz-dannyh-kratkie-opisaniya-shemy-i-p
 ```driver.switchTo().frame(driver.findElement(By.cssSelector("#modal>iframe"));```
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 7. Що таке HTML/CSS/JavaScript
 *HTML (HyperText Markup Language/мова гіпертекстової розмітки)* — стандартизована мова розмітки документів для перегляду веб-сторінок у браузері.
 
@@ -6107,7 +6107,7 @@ https://proglib.io/p/11-tipov-sovremennyh-baz-dannyh-kratkie-opisaniya-shemy-i-p
 *JavaScript* — мультипарадигмова мова програмування. Підтримує об'єктно-орієнтований, імперативний та функціональний стилі. Часто використовується як вбудована мова для програмного доступу до об'єктів програм. Найширше застосування знаходить у браузерах як мову сценаріїв для надання інтерактивності веб-сторінок.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 8. Яку структуру має веб-сторінка
 * Заголовок: \<header>
 * Навігаційне меню: \<nav>.
@@ -6116,12 +6116,12 @@ https://proglib.io/p/11-tipov-sovremennyh-baz-dannyh-kratkie-opisaniya-shemy-i-p
 * Нижній колонтитул: \<footer>.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 9. Навіщо чистити кеш
 Веб-сторінки можуть відображатися некоректно через те, що в них були внесені зміни, а браузер продовжує використовувати застарілі дані з кешу. Також застарілий кеш може займати місце на залізниці.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 10. Що таке AJAX
 *AJAX (Asynchronous JavaScript and XML/асинхронний JavaScript і XML)* - технологія, яка описує як можна отримувати дані з сервера у фоновому режимі та використовувати їх для оновлення сторінки (без перезавантаження). Основна мета AJAX – зробити сайти та веб-додатки більш зручними, швидкими та чуйними.
 Асинхронний тому, що дія виконується у фоні (не в основному потоці), таким чином, що вона не заважає користувачеві взаємодіяти зі сторінкою.
@@ -6135,7 +6135,7 @@ JavaScript відповідає за створення та налаштува�
 * підвищення інтерактивності (за допомогою AJAX можна відразу відображати результати та зробити ресурс більш зручним для користування)
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 11. Що таке ADB
 *ADB (Android Debug Bridge)* - клієнт-серверна програма, яка надає доступ до працюючого емулятора або пристрою. З його допомогою можна копіювати файли, встановлювати скомпільовані програмні пакети та запускати консольні команди.
 Складається з трьох компонентів:
@@ -6144,7 +6144,7 @@ JavaScript відповідає за створення та налаштува�
 * клієнтської програми (на зразок DDMS), яка зв'язується зі службою через Сервіс
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 12. Які є HTTP-методи
 *GET* - запитує інформацію із зазначеного джерела та не впливає на його вміст. Запит доступний для кешування даних та додавання до закладок.
 
@@ -6163,12 +6163,12 @@ JavaScript відповідає за створення та налаштува�
 *CONNECT* - Перетворює з'єднання запиту на прозорий TCP/IP-тунель.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 13. Розшифрування CRUD
 *CRUD* — акронім, що означає чотири базові функції, що використовуються під час роботи з постійними сховищами даних: створення (create), читання (read), модифікація (update), видалення (delete).
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 14. Як відбувається шифрування
 *Симетричне* - використовується лише один пароль/ключ.
 У системі шифрування передбачений математичний алгоритм. На його цифровий "вхід" подається вихідний ключ та вихідні дані. Далі інформація шифрується та надсилається.
@@ -6183,7 +6183,7 @@ JavaScript відповідає за створення та налаштува�
 * Суб'єкт А розшифровує отриману від Б інформацію з допомогою приватного ключа.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 15. Які способи взаємодії з API існують? У чому різниця між ними
 * *SOAP (Simple Object Access Protocol)* - Простий Протокол Доступу до Об'єктів. Клієнт та сервер обмінюються повідомленнями за допомогою XML. Це менш гнучкий API, який був більш популярним у минулому.
 
@@ -6194,7 +6194,7 @@ JavaScript відповідає за створення та налаштува�
 * REST - на сьогоднішній день це найпопулярніші та гнучкіші API-інтерфейси в Інтернеті. Клієнт надсилає запити на сервер у вигляді даних. Сервер використовує це введення клієнта для запуску внутрішніх функцій і повертає вихідні дані назад клієнту.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 16. Як можна протестувати API, що там потрібно перевіряти
 Переконатися, що API працює правильно, можна за допомогою функціонального тестування.
 Основні завдання:
@@ -6218,7 +6218,7 @@ JavaScript відповідає за створення та налаштува�
 5. Базова працездатність (якщо операція була завершена успішно, але зайняла невиправдано багато часу, тест не пройдено)
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 17. Формати передачі даних
 * *JSON (JavaScript Object Notation)* - текстовий формат обміну даними, заснований на JavaScript, але при цьому незалежний від JS.
 * *XML (eXtensible Markup Language/розширювана мова розмітки)* - використовується для зберігання та передачі даних. формат рекомендований Консорціумом Всесвітньої павутини (W3C), тому часто використовується передачі даних по API. Єдино можливий формат вхідних та вихідних даних у SOAP.
@@ -6226,7 +6226,7 @@ JavaScript відповідає за створення та налаштува�
 * *YAML (YAML Ain't markup language/YAML не мова розмітки; раніше Yet Another Markup Language)* - мова для серіалізації даних, яка дозволяє зберігати складноорганізовані дані в компактному та читаному форматі. Схожий на XML і JSON, але використовує більш мінімалістичний синтаксис для збереження аналогічних можливостей.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 18. Відмінності між XML та JSON
 *XML* - мова розмітки.
 
@@ -6243,19 +6243,19 @@ JavaScript відповідає за створення та налаштува�
 * JSON підтримує лише кодування UTF-8, тоді як XML підтримує різні кодування
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 19. Клієнт-серверна архітектура
 ![IMG](images/client_server.png)
 
 У проміжках можуть бути балансувальники, якщо використовується кілька серверів або БД.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 20. Для чого потрібні TestNG, JUnit
 Це фреймворки автоматичного тестування. Потрібні щоб не писати свій велосипед для тих самих завдань конфігурування тестів, анотацій для них, дата-провайдерів і т.д.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 21. Які інструкції використовуються в TestNG, JUnit
 *TestNG*:
 * @BeforeSuite / @AfterSuite
@@ -6304,7 +6304,7 @@ JavaScript відповідає за створення та налаштува�
 * fail()
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 23. Як виконувати тести паралельно TestNG, JUnit
 ***Перекласти драйвер браузера на ThreadLocal!***
 
@@ -6319,23 +6319,23 @@ TestNG (xmlSuite.setThreadCount(\<n>) + xmlSuite.setDataProviderThreadCount(\<m>
 -Djunit.jupiter.execution.parallel.mode.default=concurrent
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 24. 2 способи, що дозволяють автоматизувати капчу
 1. *Боти з підтримкою оптичного розпізнавання символів (OCR)* - у цьому підході КАПЧА вирішується автоматично за допомогою бота.
 2. *Послуги з вирішення капчі реальними людьми* - у сервісі є співробітники, які постійно доступні онлайн для розв'язання капчі. Коли ви відправляєте свою КАПЧУ, компанія пересилає її працівникам, які її вирішують, та відправляє назад рішення.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 25. Що таке Selenium Grid
 *Selenium Grid* - кластер, що складається з кількох Selenium-серверів. Призначений для організації розподіленої мережі, що дозволяє паралельно запускати багато браузерів на велику кількість машин. Є виділений сервер, що зветься «хаб» чи «коммутатор», інші сервера називаються «ноди» чи «вузли».
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 26. Драйвер браузера
 *Драйвер браузера* - програмна бібліотека, що не має інтерфейсу користувача, що дозволяє різним програмам взаємодіяти з браузером, керувати його поведінкою, отримувати від браузера дані і змушувати браузер виконувати команди.
 
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 ### 27. Які види локаторів сторінки існують? Які їх переваги та недоліки
 *id=<element_id>* - відповідає елементу, у якого атрибут id дорівнює значенню element_id. Слід зазначити, що даний вид локаторів є одним із найшвидших у знаходженні та одним із найунікальніших.
 
