@@ -1,28 +1,28 @@
 # Запитання для співбесіди на теми
 
-- [1. Python](https://tendil.github.io/tjh-knowledge-base#1-python)
+[//]: # (- [1. Python]&#40;https://tendil.github.io/tjh-knowledge-base#1-python&#41;)
 
-- [2. GIT](https://tendil.github.io/tjh-knowledge-base#2-git)
+[//]: # (- [2. GIT]&#40;https://tendil.github.io/tjh-knowledge-base#2-git&#41;)
 
-- [3. JavaScript](https://tendil.github.io/tjh-knowledge-base#3-javascript)
+[//]: # (- [3. JavaScript]&#40;https://tendil.github.io/tjh-knowledge-base#3-javascript&#41;)
 
-- [4. Java](https://tendil.github.io/tjh-knowledge-base#4-java)
+[//]: # (- [4. Java]&#40;https://tendil.github.io/tjh-knowledge-base#4-java&#41;)
 
-- [5. QA Manual](https://tendil.github.io/tjh-knowledge-base#5-qa-manual)
+[//]: # (- [5. QA Manual]&#40;https://tendil.github.io/tjh-knowledge-base#5-qa-manual&#41;)
 
-- [6. QA Automation](https://tendil.github.io/tjh-knowledge-base#6-qa-automation)
+[//]: # (- [6. QA Automation]&#40;https://tendil.github.io/tjh-knowledge-base#6-qa-automation&#41;)
 
-- [7. TypeScript](https://tendil.github.io/tjh-knowledge-base#7-typescript)
+[//]: # (- [7. TypeScript]&#40;https://tendil.github.io/tjh-knowledge-base#7-typescript&#41;)
 
-- [8. CI CD](https://tendil.github.io/tjh-knowledge-base#8-ci-cd)
+[//]: # (- [8. CI CD]&#40;https://tendil.github.io/tjh-knowledge-base#8-ci-cd&#41;)
 
-- [9. Основні принципи програмування](https://tendil.github.io/tjh-knowledge-base#9-основні-принципи-програмування)
+[//]: # (- [9. Основні принципи програмування]&#40;https://tendil.github.io/tjh-knowledge-base#9-основні-принципи-програмування&#41;)
 
-- [10. Теорія тестування](https://tendil.github.io/tjh-knowledge-base#10-теорія-тестування)
+[//]: # (- [10. Теорія тестування]&#40;https://tendil.github.io/tjh-knowledge-base#10-теорія-тестування&#41;)
 
-- [11. Бази данних](https://tendil.github.io/tjh-knowledge-base#11-бази-данних)
+[//]: # (- [11. Бази данних]&#40;https://tendil.github.io/tjh-knowledge-base#11-бази-данних&#41;)
 
-- [12. Загальні питання](https://tendil.github.io/tjh-knowledge-base#12-загальні-питання)
+[//]: # (- [12. Загальні питання]&#40;https://tendil.github.io/tjh-knowledge-base#12-загальні-питання&#41;)
 
 ---
 
@@ -339,7 +339,6 @@
 | 99  | [Чи існує якась зв'язок між Java та JavaScript](https://tendil.github.io/tjh-knowledge-base#99-чи-існує-якась-зв'язок-між-java-та-javascript)                                                                                                       |
 | 100 | [Що таке події (events)](https://tendil.github.io/tjh-knowledge-base#100-що-таке-події-events)                                                                                                                                                      |
 
-
 ## 4. Java
 [до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
 
@@ -428,7 +427,6 @@
 - [6. Різниця між Thread class та Runnable interface](https://tendil.github.io/tjh-knowledge-base#6-різниця-між-thread-class-та-runnable-interface)
 - [7. Різниця між String, Stringbuffer і Stringbuilder](https://tendil.github.io/tjh-knowledge-base#7-різниця-між-string-stringbuffer-і-Stringbuilder)
 - [8. Різниця між final, finally та finalize](https://tendil.github.io/tjh-knowledge-base#8-різниця-між-final-finally-та-finalize)
-- [9. ](https://tendil.github.io/tjh-knowledge-base#9-)
 
 
 ## 10. Теорія тестування
@@ -574,12 +572,9 @@
 - [25. Що таке Selenium Grid](https://tendil.github.io/tjh-knowledge-base#25-що-таке-selenium-grid)
 - [26. Драйвер браузера](https://tendil.github.io/tjh-knowledge-base#26-драйвер-браузера)
 - [27. Які види локаторів сторінки існують? Які їх переваги та недоліки](https://tendil.github.io/tjh-knowledge-base#27-які-види-локаторів-сторінки-існують-які-їх-переваги-та-недоліки)
-- [28. ](https://tendil.github.io/tjh-knowledge-base#)
-- [29. ](https://tendil.github.io/tjh-knowledge-base#)
-- [30. ](https://tendil.github.io/tjh-knowledge-base#)
-- [31. ](https://tendil.github.io/tjh-knowledge-base#)
 
 ---
+
 # Відповіді - 'GIT'
 
 [до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-теми)
