@@ -1,164 +1,164 @@
 # Запитання для співбесіди на тему Python
 
-- [1. Python](https://tendil.github.io/tjh-knowledge-base#1-python)
+- [1. Python](https://tendil.github.io/tjh-knowledge-base/python/#1-python)
 
 ---
 
 ###### 1. Python
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 
-#### [1. Види типізації](https://tendil.github.io/tjh-knowledge-base#1-види-типізації)
-#### [2. Типізація python](https://tendil.github.io/tjh-knowledge-base#2-що-таке-змінна)
-#### [3. Що таке змінна](https://tendil.github.io/tjh-knowledge-base#3-що-таке-змінна)
-#### [4. Числа в python](https://tendil.github.io/tjh-knowledge-base#4-числа-в-python)
-#### [5. Рядки в python](https://tendil.github.io/tjh-knowledge-base#5-рядки-в-python)
-#### [6. Списки і кортежі в python](https://tendil.github.io/tjh-knowledge-base#6-рядки-в-python)
-#### [7. Словник в python](https://tendil.github.io/tjh-knowledge-base#7-cловник-в-python)
-#### [8. Які типи даних відносяться до структур даних](https://tendil.github.io/tjh-knowledge-base#8-які-типи-даних-відносяться-до-структур-даних)
-#### [9. Що таке віртуальне середовище](https://tendil.github.io/tjh-knowledge-base#9-що-таке-віртуальне-середовище)
-#### [10. Як встановити віртуальне середовище](https://tendil.github.io/tjh-knowledge-base#10-як-встановити-віртуальне-середовище)
-#### [11. Види форматування рядків](https://tendil.github.io/tjh-knowledge-base#11-види-форматування-рядків)
-#### [12. Зрізи або срізи в python](https://tendil.github.io/tjh-knowledge-base#12-cрізи-або-срізи-в-python)
-#### [13. Що таке ітерація](https://tendil.github.io/tjh-knowledge-base#13-що-таке-ітерація)
-#### [14. Які цикли існують в python](https://tendil.github.io/tjh-knowledge-base#14-які-цикли-існують-в-python)
-#### [15. В чому різниця між while та for](https://tendil.github.io/tjh-knowledge-base#15-в-чому-різниця-між-while-та-for)
-#### [16. Як реалізоване розгалуження в python](https://tendil.github.io/tjh-knowledge-base#16-як-реалізоване-розгалуження-в-python)
-#### [17. Як запросити в користувача ввід](https://tendil.github.io/tjh-knowledge-base#17-як-запитати-в-користувача-ввід)
-#### [18. Приведення типів](https://tendil.github.io/tjh-knowledge-base#18-приведення-типів)
-#### [19. Що таке анотація типів](https://tendil.github.io/tjh-knowledge-base#19-що-таке-анотація-типів)
-#### [20. Рядок це послідовність чи ні](https://tendil.github.io/tjh-knowledge-base#20-рядок-це-послідовність-чи-ні)
-#### [21. Що таке PEP8](https://tendil.github.io/tjh-knowledge-base#21-що-таке-pep)
-#### [22. Що таке функція range](https://tendil.github.io/tjh-knowledge-base#22-що-таке-функція-range)
-#### [23. Що робить enumerate](https://tendil.github.io/tjh-knowledge-base#23-що-робить-enumerate)
-#### [24. Які методи списків](https://tendil.github.io/tjh-knowledge-base#24-які-методи-списків)
-#### [25. Що в python не є об'єктом](https://tendil.github.io/tjh-knowledge-base#25-що-в-python-не-є-об'єктом)
-#### [26. Назви змінних](https://tendil.github.io/tjh-knowledge-base#26-назви-змінних)
-#### [27. Що таке літерали](https://tendil.github.io/tjh-knowledge-base#27-що-таке-літерали)
-#### [28. Чи можна число зробити рядком](https://tendil.github.io/tjh-knowledge-base#28-чи-можна-число-зробити-рядком)
-#### [29. Що робить метод split()](https://tendil.github.io/tjh-knowledge-base#29-що-робить-метод-split)
-#### [30. Що робить метод join()](https://tendil.github.io/tjh-knowledge-base#30-що-робить-метод-join)
-#### [31. Як імпортувати модуль](https://tendil.github.io/tjh-knowledge-base#31-як-імпортувати-модуль)
-#### [32. Як імпортувати весь вміст модуля](https://tendil.github.io/tjh-knowledge-base#32-як-імпортувати-весь-вміст-модуля)
-#### [33. Скільки пар ключ-значення може бути в словнику](https://tendil.github.io/tjh-knowledge-base#33-скільки-пар-ключ-значення-може-бути-в-словнику)
-#### [34. Який тип даних може бути значенням в словнику](https://tendil.github.io/tjh-knowledge-base#34-який-тип-даних-може-бути-значенням-в-словнику)
-#### [35. Як дізнатися id елемента](https://tendil.github.io/tjh-knowledge-base#35-як-дізнатися-id-елемента)
-#### [36. Як дізнатися версію python](https://tendil.github.io/tjh-knowledge-base#36-як-дізнатися-версію-python)
-#### [37. Відмінності другого python від 3](https://tendil.github.io/tjh-knowledge-base#37-відмінності-другого-python-від-3)
-#### [38. Як перервати виконання циклу](https://tendil.github.io/tjh-knowledge-base#38-як-перервати-виконання-циклу)
-#### [39. Що означає continue](https://tendil.github.io/tjh-knowledge-base#39-що-означає-continue)
-#### [40. Що буде, якщо порівняти 5 і 5.0](https://tendil.github.io/tjh-knowledge-base#40-що-буде-якщо-порівняти-5-і-50)
-#### [41. Що швидше: python або c++](https://tendil.github.io/tjh-knowledge-base#41-що-швидше-python-або-c)
-#### [42. Що таке байт-код](https://tendil.github.io/tjh-knowledge-base#42-що-таке-байт-код)
-#### [43. Як уникнути конфліктів при імпорті файлів](https://tendil.github.io/tjh-knowledge-base#43-як-уникнути-конфліктів-при-імпорті-файлів)
-#### [44. Що означає %s %d](https://tendil.github.io/tjh-knowledge-base#44-що-означає-s-d)
-#### [45. Що таке клас](https://tendil.github.io/tjh-knowledge-base#45-що-таке-клас)
-#### [46. Що таке успадкування](https://tendil.github.io/tjh-knowledge-base#46-що-таке-спадкування)
-#### [47. Що таке інкапсуляція](https://tendil.github.io/tjh-knowledge-base#47-що-таке-інкапсуляція)
-#### [48. Що таке поліморфізм](https://tendil.github.io/tjh-knowledge-base#48-що-таке-поліморфізм)
-#### [49. Скільки може бути батьків і спадкоємців у класу](https://tendil.github.io/tjh-knowledge-base#49-скільки-може-бути-батьків-і-спадкоємців-у-класу)
-#### [50. Що таке перевантаження операторів](https://tendil.github.io/tjh-knowledge-base#50-що-таке-перевантаження-операторів)
-#### [51. Магічні методи](https://tendil.github.io/tjh-knowledge-base#51-магічні-методи)
-#### [52. Модифікатори доступу](https://tendil.github.io/tjh-knowledge-base#52-модифікатори-доступу)
-#### [53. Генератори](https://tendil.github.io/tjh-knowledge-base#53-генератори)
-#### [54. Як пишуться коментарі в python](https://tendil.github.io/tjh-knowledge-base#54-як-пишуться-коментарі-в-python)
-#### [55. Як можна змінити (зворотній) порядок елементів у списку](https://tendil.github.io/tjh-knowledge-base#55-як-можна-змінити-зворотній-порядок-елементів-у-списку)
-#### [56. Якщо ми не поставимо двокрапку в кінці рядка для циклу "do-while", він все одно виконається?](https://tendil.github.io/tjh-knowledge-base#56-якщо-ми-не-поставимо-двокрапку-в-кінці-рядка-для-циклу-do-while-він-все-одно-виконається)
-#### [57. Як видалити зі списку дублікат елемента](https://tendil.github.io/tjh-knowledge-base#57-як-видалити-зі-списку-дублікат-елемента)
-#### [58. Розкажіть про арифметичні оператори //, %, і **](https://tendil.github.io/tjh-knowledge-base#58-розкажіть-про-арифметичні-оператори---і-)
-#### [59. Як порахувати довжину рядка (string)](https://tendil.github.io/tjh-knowledge-base#59-як-порахувати-довжину-рядка-string)
-#### [60. Розкажіть про генератори списків (list comprehension)](https://tendil.github.io/tjh-knowledge-base#60-розкажіть-про-генератори-списків-list-comprehension)
-#### [61. Що таке HTTP](https://tendil.github.io/tjh-knowledge-base#61-що-таке-http)
-#### [62. Що таке json, xml](https://tendil.github.io/tjh-knowledge-base#62-що-таке-json-xml)
-#### [63. Чим відрізняється HTML від XML](https://tendil.github.io/tjh-knowledge-base#63-чим-відрізняється-html-від-xml)
-#### [64. Що таке CRUD](https://tendil.github.io/tjh-knowledge-base#64-що-таке-crud)
-#### [65. Який патерн програмування реалізує Django](https://tendil.github.io/tjh-knowledge-base#65-який-патерн-програмування-реалізує-django)
-#### [66. На якому етапі в додатку Django відбувається запит до бази даних](https://tendil.github.io/tjh-knowledge-base#66-на-якому-етапі-в-додатку-django-відбувається-запит-до-бази-даних)
-#### [67. Який результат буде Post.objects.all() і якого типу верне](https://tendil.github.io/tjh-knowledge-base#67-який-результат-буде-postobjectsall-і-якого-типу-верне)
-#### [68. Що таке SQL](https://tendil.github.io/tjh-knowledge-base#68-що-таке-sql)
-#### [69. Яким запитом я можу витягнути всі дані з таблиці](https://tendil.github.io/tjh-knowledge-base#69-яким-запитом-я-можу-витягнути-всі-дані-з-таблиці)
-#### [70. Що таке багато-до-багатьох (многие-ко-многим)](https://tendil.github.io/tjh-knowledge-base#70-що-таке-багато-до-багатьох-многие-ко-многим)
-#### [71. Як реалізується М2М в SQL](https://tendil.github.io/tjh-knowledge-base#71-як-реалізується-м2м-в-sql)
-#### [72. Що таке JOIN і яким він може бути](https://tendil.github.io/tjh-knowledge-base#72-що-таке-join-і-яким-він-може-бути)
-#### [73. Що таке View](https://tendil.github.io/tjh-knowledge-base#73-що-таке-view)
-#### [74. Що таке міксини](https://tendil.github.io/tjh-knowledge-base#74-що-таке-міксини)
-#### [75. Префіксні та інфіксні оператори](https://tendil.github.io/tjh-knowledge-base#75-префіксні-та-інфіксні-оператори)
-#### [76. Два способи створення класу](https://tendil.github.io/tjh-knowledge-base#76-два-способи-створення-класу)
-#### [77. Чим файл .pyc відрізняється від .py](https://tendil.github.io/tjh-knowledge-base#77-чим-файл-pyc-відрізняється-від-py)
-#### [78. Що робить python об'єктно-орієнтованим](https://tendil.github.io/tjh-knowledge-base#78-що-робить-python-обєктно-орієнтованим)
-#### [79. Як проводиться відлагодження програми на Python](https://tendil.github.io/tjh-knowledge-base#79-як-проводиться-відлагодження-програми-на-python)
-#### [80. Що таке GIL](https://tendil.github.io/tjh-knowledge-base#80-що-таке-gil)
-#### [81. Що таке Django Middleware](https://tendil.github.io/tjh-knowledge-base#81-що-таке-django-middleware)
-#### [82. Як вставити об'єкт так, щоб він опинився під певним індексом?](https://tendil.github.io/tjh-knowledge-base#82-як-вставити-обєкт-так-щоб-він-опинився-під-певним-індексом)
-#### [83. Що потрібно зробити, щоб функція повертала значення? Використовувати оператор return або yield](https://tendil.github.io/tjh-knowledge-base#83-що-потрібно-зробити-щоб-функція-повертала-значення)
-#### [84. Що якщо в функції не буде return, чи вона щось поверне?](https://tendil.github.io/tjh-knowledge-base#84-що-якщо-в-функції-не-буде-return-чи-вона-щось-поверне)
-#### [85. Напишіть в одну строку, як можна отримати найпізнішу за кодом літеру у рядку](https://tendil.github.io/tjh-knowledge-base#85-напишіть-в-одну-строку-як-можна-отримати-найпізнішу-за-кодом-літеру-у-рядку)
-#### [86. Як конвертувати список в рядок?](https://tendil.github.io/tjh-knowledge-base#86-як-конвертувати-список-в-рядок)
-#### [87. Принципи SOLID](https://tendil.github.io/tjh-knowledge-base#87-принципи-solid)
-#### [88. SQL JOIN](https://tendil.github.io/tjh-knowledge-base#88-sql-join)
-#### [89. SQL оператор HAVING](https://tendil.github.io/tjh-knowledge-base#89-sql-оператор-having)
-#### [90. Метакласи в Python](https://tendil.github.io/tjh-knowledge-base#90-метакласи-в-python)
-#### [91. Множинне успадкування](https://tendil.github.io/tjh-knowledge-base#91-множинне-спадкування)
-#### [92. Компоненти django](https://tendil.github.io/tjh-knowledge-base#92-компоненти-django)
-#### [93. Які вбудовані типи доступні в Python](https://tendil.github.io/tjh-knowledge-base#93-які-вбудовані-типи-доступні-в-python)
-#### [94. Mutable та immutable типи даних](https://tendil.github.io/tjh-knowledge-base#94-mutable-та-immutable-типи-даних)
-#### [95. Лямбда-функція в Python](https://tendil.github.io/tjh-knowledge-base#95-лямбда-функція-в-python)
-#### [96. Що означає простір імен](https://tendil.github.io/tjh-knowledge-base#96-що-означає-простір-імен)
-#### [97. Чим відрізняється pickling від unpickling](https://tendil.github.io/tjh-knowledge-base#97-чим-відрізняється-pickling-від-unpickling)
-#### [98. Різниця між генераторами та ітераторами](https://tendil.github.io/tjh-knowledge-base#98-різниця-між-генераторами-та-ітераторами)
-#### [99. Як перетворити число в рядок](https://tendil.github.io/tjh-knowledge-base#99-як-перетворити-число-в-рядок)
-#### [100. Обов'язково чи функція Python повинна повертати значення](https://tendil.github.io/tjh-knowledge-base#100-обовязково-чи-функція-python-повинна-повертати-значення)
-#### [101. Чи існує в Python функція main()](https://tendil.github.io/tjh-knowledge-base#101-чи-існує-в-python-функція-main)
-#### [102. Який метод використовувався перед оператором «in» для перевірки наявності ключа в словнику](https://tendil.github.io/tjh-knowledge-base#102-який-метод-використовувався-перед-оператором-in-для-перевірки-наявності-ключа-в-словнику)
-#### [103. Управління пам'яттю в Python](https://tendil.github.io/tjh-knowledge-base#103-управління-памяттю-в-python)
-#### [104. Що таке PYTHONPATH](https://tendil.github.io/tjh-knowledge-base#104-що-таке-pythonpath)
-#### [105. Що таке модулі Python](https://tendil.github.io/tjh-knowledge-base#105-що-таке-модулі-python)
-#### [106. Що означає self в Python](https://tendil.github.io/tjh-knowledge-base#106-що-означає-self-в-python)
-#### [107. Як Python інтерпретується як мова](https://tendil.github.io/tjh-knowledge-base#107-як-python-інтерпретується-як-мова)
-#### [108. Як інтерпретується Python](https://tendil.github.io/tjh-knowledge-base#108-як-інтерпретується-python)
-#### [109. Як в Python керується пам'ятю](https://tendil.github.io/tjh-knowledge-base#109-як-в-python-керується-памятю)
-#### [110. Що таке функція в Python](https://tendil.github.io/tjh-knowledge-base#110-що-таке-функція-в-python)
-#### [111. Що таке локальні та глобальні змінні в Python](https://tendil.github.io/tjh-knowledge-base#111-що-таке-локальні-та-глобальні-змінні-в-python)
-#### [112. Чому лямбда-форми в Python не мають операторів](https://tendil.github.io/tjh-knowledge-base#112-чому-лямбда-форми-в-python-не-мають-операторів)
-#### [113. Від'ємні індекси і чому їх використовують](https://tendil.github.io/tjh-knowledge-base#113-відємні-індекси-і-чому-їх-використовують)
-#### [114. Як отримати список усіх ключів в словнику](https://tendil.github.io/tjh-knowledge-base#114-як-отримати-список-усіх-ключів-в-словнику)
-#### [115. Різниця між списком та кортежем](https://tendil.github.io/tjh-knowledge-base#115-різниця-між-списком-та-кортежем)
-#### [116. Що таке ітератори в Python](https://tendil.github.io/tjh-knowledge-base#116-що-таке-ітератори-в-python)
-#### [117. Що таке функція map в Python](https://tendil.github.io/tjh-knowledge-base#117-що-таке-функція-map-в-python)
-#### [118. Що таке поверхнева копія](https://tendil.github.io/tjh-knowledge-base#118-що-таке-поверхнева-копія)
-#### [119. Що таке глибока копія](https://tendil.github.io/tjh-knowledge-base#119-що-таке-глибока-копія)
-#### [120. Що робить функція zip()](https://tendil.github.io/tjh-knowledge-base#120-що-робить-функція-zip)
-#### [121. Що робить оператор with в Python](https://tendil.github.io/tjh-knowledge-base#121-що-робить-оператор-with-в-python)
-#### [122. Коли виконується блок except в конструкції try-except](https://tendil.github.io/tjh-knowledge-base#122-коли-виконується-блок-except-в-конструкції-try-except)
-#### [123. Де ви будете використовувати while замість for](https://tendil.github.io/tjh-knowledge-base#123-де-ви-будете-використовувати-while-замість-for)
-#### [124. Чи є масиви NumPy в Python кращими за списки](https://tendil.github.io/tjh-knowledge-base#124-чи-є-масиви-numpy-в-python-кращими-за-списки)
-#### [125. Як отримати поточний робочий каталог за допомогою Python](https://tendil.github.io/tjh-knowledge-base#125-як-отримати-поточний-робочий-каталог-за-допомогою-python)
-#### [126. Що таке приведення в Python](https://tendil.github.io/tjh-knowledge-base#126-що-таке-приведення-в-python)
-#### [127. Як можна видалити змінні в Python](https://tendil.github.io/tjh-knowledge-base#127-як-можна-видалити-змінні-в-python)
-#### [128. В чому різниця між методами append та extend](https://tendil.github.io/tjh-knowledge-base#128-в-чому-різниця-між-методами-append-та-extend)
-#### [129. Що означає *args, **kwargs і навіщо нам їх використовувати](https://tendil.github.io/tjh-knowledge-base#129-що-означає-args-kwargs-і-навіщо-нам-їх-використовувати)
-#### [130. Що означає одинарний і подвійний підкреслення перед ім'ям об'єкта (dunder methods)](https://tendil.github.io/tjh-knowledge-base#130-що-означає-одинарний-і-подвійний-підкреслення-перед-ім'ям-об'єкта-dunder-methods)
-#### [131. Що таке генератор](https://tendil.github.io/tjh-knowledge-base#131-що-таке-генератор)
-#### [132. Яка мета одинарної змінної підкреслення в Python](https://tendil.github.io/tjh-knowledge-base#132-яка-мета-одинарної-змінної-підкреслення-в-python)
-#### [133. Які типи успадкування існують в Python](https://tendil.github.io/tjh-knowledge-base#133-які-типи-спадкування-в-python)
-#### [134. Що таке розпакування кортежу](https://tendil.github.io/tjh-knowledge-base#134-що-таке-розпакування-кортежу)
-#### [135. Чи звільняється вся пам'ять після виходу з Python](https://tendil.github.io/tjh-knowledge-base#135-чи-звільняється-вся-пам'ять-після-виходу-з-python)
-#### [136. Чи є функція дійсною, якщо вона не має оператора return](https://tendil.github.io/tjh-knowledge-base#136-чи-є-функція-дійсною-якщо-вона-не-має-оператора-return)
-#### [137. На що корисно використовувати ООП](https://tendil.github.io/tjh-knowledge-base#137-на-що-корисно-використовувати-ооп)
-#### [138. Що таке об'єкт](https://tendil.github.io/tjh-knowledge-base#138-що-таке-об'єкт)
-#### [139. В чому різниця між класом та структурою](https://tendil.github.io/tjh-knowledge-base#139-в-чому-різниця-між-класом-та-структурою)
-#### [140. Чи можете ви викликати метод базового класу без створення екземпляру](https://tendil.github.io/tjh-knowledge-base#140-чи-можете-ви-викликати-метод-базового-класу-без-створення-екземпляру)
-#### [141. В чому різниця між класом та об'єктом](https://tendil.github.io/tjh-knowledge-base#141-в-чому-різниця-між-класом-та-об'єктом)
-#### [142. Що таке суперклас](https://tendil.github.io/tjh-knowledge-base#142-що-таке-суперклас)
-#### [143. Що таке підклас](https://tendil.github.io/tjh-knowledge-base#143-що-таке-підклас)
-#### [144. Що таке абстракція](https://tendil.github.io/tjh-knowledge-base#144-що-таке-абстракція)
-#### [145. Різниця між процедурним програмуванням та ООП](https://tendil.github.io/tjh-knowledge-base#145-різниця-між-процедурним-програмуванням-та-ооп)
-#### [146. В чому різниця між модулем та пакетом в Python](https://tendil.github.io/tjh-knowledge-base#146-в-чому-різниця-між-модулем-та-пакетом-в-python)
+#### - [1. Види типізації](https://tendil.github.io/tjh-knowledge-base/python/#1-види-типізації)
+#### - [2. Типізація python](https://tendil.github.io/tjh-knowledge-base/python/#2-що-таке-змінна)
+#### - [3. Що таке змінна](https://tendil.github.io/tjh-knowledge-base/python/#3-що-таке-змінна)
+#### - [4. Числа в python](https://tendil.github.io/tjh-knowledge-base/python/#4-числа-в-python)
+#### - [5. Рядки в python](https://tendil.github.io/tjh-knowledge-base/python/#5-рядки-в-python)
+#### - [6. Списки і кортежі в python](https://tendil.github.io/tjh-knowledge-base/python/#6-рядки-в-python)
+#### - [7. Словник в python](https://tendil.github.io/tjh-knowledge-base/python/#7-cловник-в-python)
+#### - [8. Які типи даних відносяться до структур даних](https://tendil.github.io/tjh-knowledge-base/python/#8-які-типи-даних-відносяться-до-структур-даних)
+#### - [9. Що таке віртуальне середовище](https://tendil.github.io/tjh-knowledge-base/python/#9-що-таке-віртуальне-середовище)
+#### - [10. Як встановити віртуальне середовище](https://tendil.github.io/tjh-knowledge-base/python/#10-як-встановити-віртуальне-середовище)
+#### - [11. Види форматування рядків](https://tendil.github.io/tjh-knowledge-base/python/#11-види-форматування-рядків)
+#### - [12. Зрізи або срізи в python](https://tendil.github.io/tjh-knowledge-base/python/#12-cрізи-або-срізи-в-python)
+#### - [13. Що таке ітерація](https://tendil.github.io/tjh-knowledge-base/python/#13-що-таке-ітерація)
+#### - [14. Які цикли існують в python](https://tendil.github.io/tjh-knowledge-base/python/#14-які-цикли-існують-в-python)
+#### - [15. В чому різниця між while та for](https://tendil.github.io/tjh-knowledge-base/python/#15-в-чому-різниця-між-while-та-for)
+#### - [16. Як реалізоване розгалуження в python](https://tendil.github.io/tjh-knowledge-base/python/#16-як-реалізоване-розгалуження-в-python)
+#### - [17. Як запросити в користувача ввід](https://tendil.github.io/tjh-knowledge-base/python/#17-як-запитати-в-користувача-ввід)
+#### - [18. Приведення типів](https://tendil.github.io/tjh-knowledge-base/python/#18-приведення-типів)
+#### - [19. Що таке анотація типів](https://tendil.github.io/tjh-knowledge-base/python/#19-що-таке-анотація-типів)
+#### - [20. Рядок це послідовність чи ні](https://tendil.github.io/tjh-knowledge-base/python/#20-рядок-це-послідовність-чи-ні)
+#### - [21. Що таке PEP8](https://tendil.github.io/tjh-knowledge-base/python/#21-що-таке-pep)
+#### - [22. Що таке функція range](https://tendil.github.io/tjh-knowledge-base/python/#22-що-таке-функція-range)
+#### - [23. Що робить enumerate](https://tendil.github.io/tjh-knowledge-base/python/#23-що-робить-enumerate)
+#### - [24. Які методи списків](https://tendil.github.io/tjh-knowledge-base/python/#24-які-методи-списків)
+#### - [25. Що в python не є об'єктом](https://tendil.github.io/tjh-knowledge-base/python/#25-що-в-python-не-є-об'єктом)
+#### - [26. Назви змінних](https://tendil.github.io/tjh-knowledge-base/python/#26-назви-змінних)
+#### - [27. Що таке літерали](https://tendil.github.io/tjh-knowledge-base/python/#27-що-таке-літерали)
+#### - [28. Чи можна число зробити рядком](https://tendil.github.io/tjh-knowledge-base/python/#28-чи-можна-число-зробити-рядком)
+#### - [29. Що робить метод split()](https://tendil.github.io/tjh-knowledge-base/python/#29-що-робить-метод-split)
+#### - [30. Що робить метод join()](https://tendil.github.io/tjh-knowledge-base/python/#30-що-робить-метод-join)
+#### - [31. Як імпортувати модуль](https://tendil.github.io/tjh-knowledge-base/python/#31-як-імпортувати-модуль)
+#### - [32. Як імпортувати весь вміст модуля](https://tendil.github.io/tjh-knowledge-base/python/#32-як-імпортувати-весь-вміст-модуля)
+#### - [33. Скільки пар ключ-значення може бути в словнику](https://tendil.github.io/tjh-knowledge-base/python/#33-скільки-пар-ключ-значення-може-бути-в-словнику)
+#### - [34. Який тип даних може бути значенням в словнику](https://tendil.github.io/tjh-knowledge-base/python/#34-який-тип-даних-може-бути-значенням-в-словнику)
+#### - [35. Як дізнатися id елемента](https://tendil.github.io/tjh-knowledge-base/python/#35-як-дізнатися-id-елемента)
+#### - [36. Як дізнатися версію python](https://tendil.github.io/tjh-knowledge-base/python/#36-як-дізнатися-версію-python)
+#### - [37. Відмінності другого python від 3](https://tendil.github.io/tjh-knowledge-base/python/#37-відмінності-другого-python-від-3)
+#### - [38. Як перервати виконання циклу](https://tendil.github.io/tjh-knowledge-base/python/#38-як-перервати-виконання-циклу)
+#### - [39. Що означає continue](https://tendil.github.io/tjh-knowledge-base/python/#39-що-означає-continue)
+#### - [40. Що буде, якщо порівняти 5 і 5.0](https://tendil.github.io/tjh-knowledge-base/python/#40-що-буде-якщо-порівняти-5-і-50)
+#### - [41. Що швидше: python або c++](https://tendil.github.io/tjh-knowledge-base/python/#41-що-швидше-python-або-c)
+#### - [42. Що таке байт-код](https://tendil.github.io/tjh-knowledge-base/python/#42-що-таке-байт-код)
+#### - [43. Як уникнути конфліктів при імпорті файлів](https://tendil.github.io/tjh-knowledge-base/python/#43-як-уникнути-конфліктів-при-імпорті-файлів)
+#### - [44. Що означає %s %d](https://tendil.github.io/tjh-knowledge-base/python/#44-що-означає-s-d)
+#### - [45. Що таке клас](https://tendil.github.io/tjh-knowledge-base/python/#45-що-таке-клас)
+#### - [46. Що таке успадкування](https://tendil.github.io/tjh-knowledge-base/python/#46-що-таке-спадкування)
+#### - [47. Що таке інкапсуляція](https://tendil.github.io/tjh-knowledge-base/python/#47-що-таке-інкапсуляція)
+#### - [48. Що таке поліморфізм](https://tendil.github.io/tjh-knowledge-base/python/#48-що-таке-поліморфізм)
+#### - [49. Скільки може бути батьків і спадкоємців у класу](https://tendil.github.io/tjh-knowledge-base/python/#49-скільки-може-бути-батьків-і-спадкоємців-у-класу)
+#### - [50. Що таке перевантаження операторів](https://tendil.github.io/tjh-knowledge-base/python/#50-що-таке-перевантаження-операторів)
+#### - [51. Магічні методи](https://tendil.github.io/tjh-knowledge-base/python/#51-магічні-методи)
+#### - [52. Модифікатори доступу](https://tendil.github.io/tjh-knowledge-base/python/#52-модифікатори-доступу)
+#### - [53. Генератори](https://tendil.github.io/tjh-knowledge-base/python/#53-генератори)
+#### - [54. Як пишуться коментарі в python](https://tendil.github.io/tjh-knowledge-base/python/#54-як-пишуться-коментарі-в-python)
+#### - [55. Як можна змінити (зворотній) порядок елементів у списку](https://tendil.github.io/tjh-knowledge-base/python/#55-як-можна-змінити-зворотній-порядок-елементів-у-списку)
+#### - [56. Якщо ми не поставимо двокрапку в кінці рядка для циклу "do-while", він все одно виконається?](https://tendil.github.io/tjh-knowledge-base/python/#56-якщо-ми-не-поставимо-двокрапку-в-кінці-рядка-для-циклу-do-while-він-все-одно-виконається)
+#### - [57. Як видалити зі списку дублікат елемента](https://tendil.github.io/tjh-knowledge-base/python/#57-як-видалити-зі-списку-дублікат-елемента)
+#### - [58. Розкажіть про арифметичні оператори //, %, і **](https://tendil.github.io/tjh-knowledge-base/python/#58-розкажіть-про-арифметичні-оператори---і-)
+#### - [59. Як порахувати довжину рядка (string)](https://tendil.github.io/tjh-knowledge-base/python/#59-як-порахувати-довжину-рядка-string)
+#### - [60. Розкажіть про генератори списків (list comprehension)](https://tendil.github.io/tjh-knowledge-base/python/#60-розкажіть-про-генератори-списків-list-comprehension)
+#### - [61. Що таке HTTP](https://tendil.github.io/tjh-knowledge-base/python/#61-що-таке-http)
+#### - [62. Що таке json, xml](https://tendil.github.io/tjh-knowledge-base/python/#62-що-таке-json-xml)
+#### - [63. Чим відрізняється HTML від XML](https://tendil.github.io/tjh-knowledge-base/python/#63-чим-відрізняється-html-від-xml)
+#### - [64. Що таке CRUD](https://tendil.github.io/tjh-knowledge-base/python/#64-що-таке-crud)
+#### - [65. Який патерн програмування реалізує Django](https://tendil.github.io/tjh-knowledge-base/python/#65-який-патерн-програмування-реалізує-django)
+#### - [66. На якому етапі в додатку Django відбувається запит до бази даних](https://tendil.github.io/tjh-knowledge-base/python/#66-на-якому-етапі-в-додатку-django-відбувається-запит-до-бази-даних)
+#### - [67. Який результат буде Post.objects.all() і якого типу верне](https://tendil.github.io/tjh-knowledge-base/python/#67-який-результат-буде-postobjectsall-і-якого-типу-верне)
+#### - [68. Що таке SQL](https://tendil.github.io/tjh-knowledge-base/python/#68-що-таке-sql)
+#### - [69. Яким запитом я можу витягнути всі дані з таблиці](https://tendil.github.io/tjh-knowledge-base/python/#69-яким-запитом-я-можу-витягнути-всі-дані-з-таблиці)
+#### - [70. Що таке багато-до-багатьох (многие-ко-многим)](https://tendil.github.io/tjh-knowledge-base/python/#70-що-таке-багато-до-багатьох-многие-ко-многим)
+#### - [71. Як реалізується М2М в SQL](https://tendil.github.io/tjh-knowledge-base/python/#71-як-реалізується-м2м-в-sql)
+#### - [72. Що таке JOIN і яким він може бути](https://tendil.github.io/tjh-knowledge-base/python/#72-що-таке-join-і-яким-він-може-бути)
+#### - [73. Що таке View](https://tendil.github.io/tjh-knowledge-base/python/#73-що-таке-view)
+#### - [74. Що таке міксини](https://tendil.github.io/tjh-knowledge-base/python/#74-що-таке-міксини)
+#### - [75. Префіксні та інфіксні оператори](https://tendil.github.io/tjh-knowledge-base/python/#75-префіксні-та-інфіксні-оператори)
+#### - [76. Два способи створення класу](https://tendil.github.io/tjh-knowledge-base/python/#76-два-способи-створення-класу)
+#### - [77. Чим файл .pyc відрізняється від .py](https://tendil.github.io/tjh-knowledge-base/python/#77-чим-файл-pyc-відрізняється-від-py)
+#### - [78. Що робить python об'єктно-орієнтованим](https://tendil.github.io/tjh-knowledge-base/python/#78-що-робить-python-обєктно-орієнтованим)
+#### - [79. Як проводиться відлагодження програми на Python](https://tendil.github.io/tjh-knowledge-base/python/#79-як-проводиться-відлагодження-програми-на-python)
+#### - [80. Що таке GIL](https://tendil.github.io/tjh-knowledge-base/python/#80-що-таке-gil)
+#### - [81. Що таке Django Middleware](https://tendil.github.io/tjh-knowledge-base/python/#81-що-таке-django-middleware)
+#### - [82. Як вставити об'єкт так, щоб він опинився під певним індексом?](https://tendil.github.io/tjh-knowledge-base/python/#82-як-вставити-обєкт-так-щоб-він-опинився-під-певним-індексом)
+#### - [83. Що потрібно зробити, щоб функція повертала значення? Використовувати оператор return або yield](https://tendil.github.io/tjh-knowledge-base/python/#83-що-потрібно-зробити-щоб-функція-повертала-значення)
+#### - [84. Що якщо в функції не буде return, чи вона щось поверне?](https://tendil.github.io/tjh-knowledge-base/python/#84-що-якщо-в-функції-не-буде-return-чи-вона-щось-поверне)
+#### - [85. Напишіть в одну строку, як можна отримати найпізнішу за кодом літеру у рядку](https://tendil.github.io/tjh-knowledge-base/python/#85-напишіть-в-одну-строку-як-можна-отримати-найпізнішу-за-кодом-літеру-у-рядку)
+#### - [86. Як конвертувати список в рядок?](https://tendil.github.io/tjh-knowledge-base/python/#86-як-конвертувати-список-в-рядок)
+#### - [87. Принципи SOLID](https://tendil.github.io/tjh-knowledge-base/python/#87-принципи-solid)
+#### - [88. SQL JOIN](https://tendil.github.io/tjh-knowledge-base/python/#88-sql-join)
+#### - [89. SQL оператор HAVING](https://tendil.github.io/tjh-knowledge-base/python/#89-sql-оператор-having)
+#### - [90. Метакласи в Python](https://tendil.github.io/tjh-knowledge-base/python/#90-метакласи-в-python)
+#### - [91. Множинне успадкування](https://tendil.github.io/tjh-knowledge-base/python/#91-множинне-спадкування)
+#### - [92. Компоненти django](https://tendil.github.io/tjh-knowledge-base/python/#92-компоненти-django)
+#### - [93. Які вбудовані типи доступні в Python](https://tendil.github.io/tjh-knowledge-base/python/#93-які-вбудовані-типи-доступні-в-python)
+#### - [94. Mutable та immutable типи даних](https://tendil.github.io/tjh-knowledge-base/python/#94-mutable-та-immutable-типи-даних)
+#### - [95. Лямбда-функція в Python](https://tendil.github.io/tjh-knowledge-base/python/#95-лямбда-функція-в-python)
+#### - [96. Що означає простір імен](https://tendil.github.io/tjh-knowledge-base/python/#96-що-означає-простір-імен)
+#### - [97. Чим відрізняється pickling від unpickling](https://tendil.github.io/tjh-knowledge-base/python/#97-чим-відрізняється-pickling-від-unpickling)
+#### - [98. Різниця між генераторами та ітераторами](https://tendil.github.io/tjh-knowledge-base/python/#98-різниця-між-генераторами-та-ітераторами)
+#### - [99. Як перетворити число в рядок](https://tendil.github.io/tjh-knowledge-base/python/#99-як-перетворити-число-в-рядок)
+#### - [100. Обов'язково чи функція Python повинна повертати значення](https://tendil.github.io/tjh-knowledge-base/python/#100-обовязково-чи-функція-python-повинна-повертати-значення)
+#### - [101. Чи існує в Python функція main()](https://tendil.github.io/tjh-knowledge-base/python/#101-чи-існує-в-python-функція-main)
+#### - [102. Який метод використовувався перед оператором «in» для перевірки наявності ключа в словнику](https://tendil.github.io/tjh-knowledge-base/python/#102-який-метод-використовувався-перед-оператором-in-для-перевірки-наявності-ключа-в-словнику)
+#### - [103. Управління пам'яттю в Python](https://tendil.github.io/tjh-knowledge-base/python/#103-управління-памяттю-в-python)
+#### - [104. Що таке PYTHONPATH](https://tendil.github.io/tjh-knowledge-base/python/#104-що-таке-pythonpath)
+#### - [105. Що таке модулі Python](https://tendil.github.io/tjh-knowledge-base/python/#105-що-таке-модулі-python)
+#### - [106. Що означає self в Python](https://tendil.github.io/tjh-knowledge-base/python/#106-що-означає-self-в-python)
+#### - [107. Як Python інтерпретується як мова](https://tendil.github.io/tjh-knowledge-base/python/#107-як-python-інтерпретується-як-мова)
+#### - [108. Як інтерпретується Python](https://tendil.github.io/tjh-knowledge-base/python/#108-як-інтерпретується-python)
+#### - [109. Як в Python керується пам'ятю](https://tendil.github.io/tjh-knowledge-base/python/#109-як-в-python-керується-памятю)
+#### - [110. Що таке функція в Python](https://tendil.github.io/tjh-knowledge-base/python/#110-що-таке-функція-в-python)
+#### - [111. Що таке локальні та глобальні змінні в Python](https://tendil.github.io/tjh-knowledge-base/python/#111-що-таке-локальні-та-глобальні-змінні-в-python)
+#### - [112. Чому лямбда-форми в Python не мають операторів](https://tendil.github.io/tjh-knowledge-base/python/#112-чому-лямбда-форми-в-python-не-мають-операторів)
+#### - [113. Від'ємні індекси і чому їх використовують](https://tendil.github.io/tjh-knowledge-base/python/#113-відємні-індекси-і-чому-їх-використовують)
+#### - [114. Як отримати список усіх ключів в словнику](https://tendil.github.io/tjh-knowledge-base/python/#114-як-отримати-список-усіх-ключів-в-словнику)
+#### - [115. Різниця між списком та кортежем](https://tendil.github.io/tjh-knowledge-base/python/#115-різниця-між-списком-та-кортежем)
+#### - [116. Що таке ітератори в Python](https://tendil.github.io/tjh-knowledge-base/python/#116-що-таке-ітератори-в-python)
+#### - [117. Що таке функція map в Python](https://tendil.github.io/tjh-knowledge-base/python/#117-що-таке-функція-map-в-python)
+#### - [118. Що таке поверхнева копія](https://tendil.github.io/tjh-knowledge-base/python/#118-що-таке-поверхнева-копія)
+#### - [119. Що таке глибока копія](https://tendil.github.io/tjh-knowledge-base/python/#119-що-таке-глибока-копія)
+#### - [120. Що робить функція zip()](https://tendil.github.io/tjh-knowledge-base/python/#120-що-робить-функція-zip)
+#### - [121. Що робить оператор with в Python](https://tendil.github.io/tjh-knowledge-base/python/#121-що-робить-оператор-with-в-python)
+#### - [122. Коли виконується блок except в конструкції try-except](https://tendil.github.io/tjh-knowledge-base/python/#122-коли-виконується-блок-except-в-конструкції-try-except)
+#### - [123. Де ви будете використовувати while замість for](https://tendil.github.io/tjh-knowledge-base/python/#123-де-ви-будете-використовувати-while-замість-for)
+#### - [124. Чи є масиви NumPy в Python кращими за списки](https://tendil.github.io/tjh-knowledge-base/python/#124-чи-є-масиви-numpy-в-python-кращими-за-списки)
+#### - [125. Як отримати поточний робочий каталог за допомогою Python](https://tendil.github.io/tjh-knowledge-base/python/#125-як-отримати-поточний-робочий-каталог-за-допомогою-python)
+#### - [126. Що таке приведення в Python](https://tendil.github.io/tjh-knowledge-base/python/#126-що-таке-приведення-в-python)
+#### - [127. Як можна видалити змінні в Python](https://tendil.github.io/tjh-knowledge-base/python/#127-як-можна-видалити-змінні-в-python)
+#### - [128. В чому різниця між методами append та extend](https://tendil.github.io/tjh-knowledge-base/python/#128-в-чому-різниця-між-методами-append-та-extend)
+#### - [129. Що означає *args, **kwargs і навіщо нам їх використовувати](https://tendil.github.io/tjh-knowledge-base/python/#129-що-означає-args-kwargs-і-навіщо-нам-їх-використовувати)
+#### - [130. Що означає одинарний і подвійний підкреслення перед ім'ям об'єкта (dunder methods)](https://tendil.github.io/tjh-knowledge-base/python/#130-що-означає-одинарний-і-подвійний-підкреслення-перед-ім'ям-об'єкта-dunder-methods)
+#### - [131. Що таке генератор](https://tendil.github.io/tjh-knowledge-base/python/#131-що-таке-генератор)
+#### - [132. Яка мета одинарної змінної підкреслення в Python](https://tendil.github.io/tjh-knowledge-base/python/#132-яка-мета-одинарної-змінної-підкреслення-в-python)
+#### - [133. Які типи успадкування існують в Python](https://tendil.github.io/tjh-knowledge-base/python/#133-які-типи-спадкування-в-python)
+#### - [134. Що таке розпакування кортежу](https://tendil.github.io/tjh-knowledge-base/python/#134-що-таке-розпакування-кортежу)
+#### - [135. Чи звільняється вся пам'ять після виходу з Python](https://tendil.github.io/tjh-knowledge-base/python/#135-чи-звільняється-вся-пам'ять-після-виходу-з-python)
+#### - [136. Чи є функція дійсною, якщо вона не має оператора return](https://tendil.github.io/tjh-knowledge-base/python/#136-чи-є-функція-дійсною-якщо-вона-не-має-оператора-return)
+#### - [137. На що корисно використовувати ООП](https://tendil.github.io/tjh-knowledge-base/python/#137-на-що-корисно-використовувати-ооп)
+#### - [138. Що таке об'єкт](https://tendil.github.io/tjh-knowledge-base/python/#138-що-таке-об'єкт)
+#### - [139. В чому різниця між класом та структурою](https://tendil.github.io/tjh-knowledge-base/python/#139-в-чому-різниця-між-класом-та-структурою)
+#### - [140. Чи можете ви викликати метод базового класу без створення екземпляру](https://tendil.github.io/tjh-knowledge-base/python/#140-чи-можете-ви-викликати-метод-базового-класу-без-створення-екземпляру)
+#### - [141. В чому різниця між класом та об'єктом](https://tendil.github.io/tjh-knowledge-base/python/#141-в-чому-різниця-між-класом-та-об'єктом)
+#### - [142. Що таке суперклас](https://tendil.github.io/tjh-knowledge-base/python/#142-що-таке-суперклас)
+#### - [143. Що таке підклас](https://tendil.github.io/tjh-knowledge-base/python/#143-що-таке-підклас)
+#### - [144. Що таке абстракція](https://tendil.github.io/tjh-knowledge-base/python/#144-що-таке-абстракція)
+#### - [145. Різниця між процедурним програмуванням та ООП](https://tendil.github.io/tjh-knowledge-base/python/#145-різниця-між-процедурним-програмуванням-та-ооп)
+#### - [146. В чому різниця між модулем та пакетом в Python](https://tendil.github.io/tjh-knowledge-base/python/#146-в-чому-різниця-між-модулем-та-пакетом-в-python)
 
 ____
 
 # Відповіді - "Python"
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 1. Види типізації
 - Статическая - типизация, при которой переменная связывается с типом в момент объявления, и тип не может быть изменён позже, динамическая - типизация, при которой тип переменной задается в момент присваивания значения, а не в момент объявления, и т.о. может быть изменен позже.
 
@@ -209,23 +209,23 @@ a = 1
 ```
 **Важно**: наиболее рационально и оптимально память используется в случае строгой статической типизации.
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 2. Типізація python
 
 Динамическая, строгая, неявная.
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 3. Що таке змінна
 Переменная Python — это идентификатор для ссылки на объект в памяти программы. На один и тот же объект в памяти могут указывать (ссылаться) несколько переменных. Как только на область памяти перестают ссылаться переменные - данная область очищается сборщиком мусора, и т.о. память освобождается за счет подсчитывания ссылок на объекты в памяти.
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 4. Числа в python
 - int - целые числа.
 - float - вещественные или действительные числа(числа с плавающей точкой).
 - complex - комплексные числа.
 - decimal - десятичные дроби.
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 5. Рядки в python
 Cтрока – это упорядоченная последовательность символов, которая предназначена для хранения информации в виде простого текста. В Python3 строка по умолчнанию имеет кодировку Unicode, что избавляет от проблем работы и отображения символов кирилицы и прочих экзотических кодировок. Строка это неизменяемый тип данных, т.е. если нужно добавить символов в существующую строку, придется создать новую строку, с новым адресом в памяти:
 ```
@@ -235,7 +235,7 @@ a = "hello world"
 id(a) # 2044334957804
 ```
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 6. Списки і кортежі в python
 Списки Python схожи с массивами в других языках. Кортеж похож на список, но вы создаете его с круглыми скобками, вместо квадратных. Вы также можете использовать встроенный инструмент для создания кортежей. Разница между списками и кортежами в том, что кортеж неизменяем, в то время как список изменяем. Т.е. в список можно добавить элемент и его адрес в памяти не изменится, а если нужно добавить элемент в кортеж, то нужно создать новый кортеж, и у него уже будет новый адрес в памяти:
 ```
@@ -253,11 +253,11 @@ id(a) # 2044369999872
 ```
 Важно: кортеж занимает меньше места в памяти чем список, и поэтому всегда, когда массив объектов заведомо неизменяем, рекомендуется использовать кортежи, вместо списков.
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 7. Словник в python
 Словари в Python - коллекции произвольных объектов с доступом по ключу. Начиная с Python3.6 словарь dict() упорядочен, т.е. при переборе имеющегося словаря, элементы возвращаются в том порядке, в котором они были добавлены в словарь при его наполнении. До Python3.6 приходилось использовать объект OrderedDict(), чтобы иметь упорядоченную коллекцию, с доступам к элементам по ключам. Словарь это изменяемый тип данных.
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 8. Які типи даних відносяться до структур даних
 - Массивы
 - Стеки
@@ -269,51 +269,51 @@ id(a) # 2044369999872
 - Хэш таблицы
 - Map 
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 9. Що таке віртуальне середовище
 Виртуальное окружение (virtualenv) — это инструмент для создания отдельного пространства для проекта с его зависимостями и библиотеками в директории проекта.
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 10. Як встановити віртуальне середовище
 ```
 pip install virtualenv
 python -m venv namevenv
 ```
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 11. Види форматування рядків
 - Форматирование f-строками.
 - Форматирование методом str.format().
 - Форматирование оператором '%'.
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 12. Зрізи або срізи в python
 ```
 item[START:STOP:STEP]
 ```
 Функция Python slice() возвращает нарезанный объект из набора индексов ввода, указанного пользователем в соответствии с переданными ему аргументами. Объект должен быть iterable.
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 13. Що таке ітерація
 Переход к следующему объекту в коллекции, например список, кортеж и т.д. Сам по себе объект коллекции должен быть iterable.
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 14. Які цикли існують в python
 `while` и `for`.
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 15. В чому різниця між while та for
 **For** используется только тогда, когда необходимо совершить перебор элементов заранее известное число раз. Цикл **while** также используется для повторения частей кода, но вместо зацикливания на **n** количество раз, он выполняет работу до тех пор, пока не достигнет определенного условия. Выйти из цикла в любой момент можно используя ключевое слово `break`, а перейти на следующую итерацию цикла можно используя слово `continue`.
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 16. Як реалізоване розгалуження в python
 `if-elif-else`
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 17. Як запросити в користувача ввід
 Для получения информации с клавиатуры в Python есть функция `input()`.
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 18. Приведення типів
 
 - Преобразование типов - это преобразование объекта из одного типа данных в другой тип данных.
@@ -322,7 +322,7 @@ item[START:STOP:STEP]
 - Явное преобразование типов также называется приведением типов, типы данных объекта преобразуются с использованием предопределенной функции.
 - При приведении типов может произойти потеря данных, поскольку мы приводим объект к определенному типу данных.
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 19. Що таке анотація типів
 В простейшем случае аннотация содержит непосредственно ожидаемый тип. Аннотации для переменных пишут через двоеточие после идентификатора. После этого может идти инициализация значения. Например `price: int = 5`
 Параметры функции аннотируются так же как переменные, а возвращаемое значение указывается после стрелки `->` и до завершающего двоеточия. Например
@@ -330,15 +330,15 @@ item[START:STOP:STEP]
 
 **Важно**: аннотация типов не есть то же самое, что статическая типизация.
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 20. Рядок це послідовність чи ні
 Да.
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 21. Що таке PEP8
 PEP - Python Enhancement Proposals - база всех предложений как улучшить Python и что изменить. Например PEP8 - это общепринятое руководство по написанию кода на Python.
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 22. Що таке функція range
 - Функция `range()` возвращает объект с интерфейсом итератора, выдающий элементы из диапазона, определяемого аргументами функции range(старт, стоп, шаг), при этом не храня все элементы в памяти.
 - Используется для создания списка из чисел. Разрешены только целые числа, поэтому переданные аргументы могут быть как отрицательными, так и положительными. Допустимы следующие параметры:
@@ -353,11 +353,11 @@ Start: устанавливает первое число в последова�
 Stop: указывает верхний предел для последовательности.
 Step: коэффициент приращения в последовательности.
 ```
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 23. Що робить enumerate
 Если начальное значение счётчика `enumerate()` не передаётся — оно, по умолчанию, устанавливается в 0. Функция создаёт объект, генерирующий кортежи, состоящие из индекса элемента и самого этого элемента.
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 24. Які методи списків
 - list.append(x) Добавляет элемент в конец списка
 - list.extend(L) Расширяет список list, добавляя в конец все элементы списка L
@@ -371,15 +371,15 @@ Step: коэффициент приращения в последователь�
 - list.copy()	Поверхностная копия списка
 - list.clear() Очищает список
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 25. Що в python не є об'єктом
 В python всё является объектом, кроме ключевых слов: in, is, if, while, и т.д.
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 26. Назви змінних
 Имя переменной может состоять только из цифр, букв и знаков подчеркивания. Имя переменной может начинаться только с буквы или с нижнего подчеркивания. Никаких чисел в начале имени переменной быть не должно.  Имя переменной не может содержать ключевые слова (зарезервированные) языка Python. Принято разделять слова нижним подчеркиванием (snake case).
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 27. Що таке літерали
 Литерал в Python – это простейший способ создания объектов. Если в тексте программы встречается литерал, то для этого литерала создается отдельный объект некоторого типа, соответствующего содержанию литерала:
 ```
@@ -387,50 +387,50 @@ Step: коэффициент приращения в последователь�
 1123     # целочисленный литерал
 [1,2]    # списковый литерал
 ```
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 28. Чи можна число зробити рядком
 Чтобы конвертировать число в строку, используйте встроенную функцию `str()`.
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 29. Що робить метод split()
 Разбивает строку на части, используя специальный разделитель, и возвращает эти части в виде списка 
 
 `str.split([разделитель [, maxsplit]])`.
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 30. Що робить метод join()
 Метод `"str".join(["Hello", "world"])` возвращает строку, которая является конкатенацией (объединением) всех элементов строк итерируемого объекта iterable. В итоговой строке элементы объединяются между собой при помощи строки-разделителя str. Элементы итерируемого объекта должны быть строками (ну или как минимум иметь реализованный магический метод `__str__()`).
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 31. Як імпортувати модуль
 Используя ключевое слово “import”, например `import random`
 Использование псевдонимов — as. Некоторые модули имеют длинное и неудобное название. Для удобства и сокращения количества кода программист может заменить его на своё.
 Для импорта конкретных объектов используют конструкцию `from ... import ...`. 
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 32. Як імпортувати весь вміст модуля
 ```
 from module_name import *
 import module_name
 ```
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 33. Скільки пар ключ-значення може бути в словнику
 Ограничено объемом оперативной памяти.
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 34. Який тип даних може бути значенням в словнику
 Ключом может являться в принципе любой неизменяемый тип данных.
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 35. Як дізнатися id елемента
 Функция `id()` возвращает уникальный идентификатор для указанного объекта. По сути этот идентификатор однозначно опредедяет адрес объекта в памяти интерпретатора.
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 36. Як дізнатися версію python
 В консоли прописать `python --version`
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 37. Відмінності другого python від 3
 Огромное количество отличий. Самые значимые/ключевые:
 - строки в Python3 по умолчанию в кодировке Unicode
@@ -441,56 +441,56 @@ import module_name
 
 Подробнее [здесь](https://pyneng.readthedocs.io/ru/latest/book/additional_info/py2_vs_py3.html).
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 38. Як перервати виконання циклу
 Оператор `break` досрочно прерывает цикл.
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 39. Що означає continue
 Оператор `continue` начинает следующий проход цикла, минуя оставшееся тело цикла (for или while).
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 40. Що буде, якщо порівняти 5 і 5.0
 `True`
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 41. Що швидше: python або c++
 `C++`
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 42. Що таке байт-код
 Python - интерпретируемый язык программирования. Он не конвертирует свой код в машинный, который понимает железо (в отличие от С и С++). Процесс такой вот конвертации называется компилляцией. Вместо этого, Python-интерпретатор, а точнее говоря его стандартная реализация CPython, переводит код программы в байт-код, который запускается на виртуальной машине Python (PVM). Есть реализация интерпретатора Python, которая работает через JIT (just in time) компилляцию - Pypy.
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 43. Як уникнути конфліктів при імпорті файлів
 - Называть свои модули так, чтобы имена не совпадали с именами сторонних/стандартных библиотек, которые также используются в коде
 - Ипользовать `as` при импорте, чтобы заменять названия импортируемых модулей
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 44. Що означає %s %d
 `%s` Строка `%d` Десятичное число.
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 45. Що таке клас
 **Класс** — тип, описывающий устройство объектов. Другими словами, это описание сущности, у которой есть определенный набор свойств и методов.
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 46. Що таке успадкування
 Возможность одному классу выступать в качестве наследника для другого, перенимая тем самым его свойства и методы. Ключевой момент наследования - это то, что класс наследник может не только использовать методы и свойства родительского класса, но и переопределить их, а также добавить новые свойства и методы.
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 47. Що таке інкапсуляція
 Ограничение доступа к составляющим объект компонентам (методам и свойствам). Инкапсуляция делает некоторые из компонент доступными только внутри класса.
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 48. Що таке поліморфізм
 Разное поведение одного и того же метода в разных классах.
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 49. Скільки може бути батьків і спадкоємців у класу
 Неограниченное количество.
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 50. Що таке перевантаження операторів
 Один из способов реализации полиморфизма, заключающийся в возможности одновременного существования в одной области видимости нескольких различных вариантов применения оператора, имеющих одно и то же имя, но различающихся типами параметров, к которым они применяются. Перегрузка операторов **не** поддерживается в Python.
 
@@ -510,14 +510,14 @@ float S1 = getArea(5.0, 6.0); // 30
 float S3 = getArea(5.0); // 78.5
 ```
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 51. Магічні методи
 Это специальные методы в python, обрамленные двумя нижними подчеркиваниями
 - Инициализация объекта: `__init__`
 - Строковые представления: `__repr__` , `__str__`
 - Итерация: `__iter__` , `__next__` и другие
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 52. Модифікатори доступу
 Есть три типа модификаторов доступов в Python ООП:
 - публичный `public`
@@ -526,28 +526,28 @@ float S3 = getArea(5.0); // 78.5
 
 **Важно**: в Python нету жесткой инкапсуляции, т.е. даже к приватному методу можно получить доступ снаружи класса. Инкапсуляция в Python это больше договорянность между разработчиками, чем жесткое сокрытие, как например в C++ или Java.
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 53. Генератори
 Это функция, которая будучи вызванной в функции **next()** возвращает следующий объект согласно алгоритму ее работы. Вместо ключевого слова **return** в генераторе используется **yield**. Главное отличие yield от return это то, что yield, после возврата объекта, сохраняет стек генератора, так что при следующем вызове функции next() от генератора, исполнение кода генератора продолжится с того момента, где yield вернул объект в прошлый раз.
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 54. Як пишуться коментарі в python
 С помощью символа `#`. Так же есть такое понятие как docstring задать его можно с помощью тройных кавычек.
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 55. Як можна змінити (зворотній) порядок елементів у списку
 С помощью среза `[::-1]` или встроенной функции `reversed()`.
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 56. Якщо ми не поставимо двокрапку в кінці рядка для циклу "do-while", він все одно виконається?
 
 В python такой цикл не реализован. Это вопрос из тех, которые с подвохом, когда упоминают элементы других языков.
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 57. Як видалити зі списку дублікат елемента
 Для этого можно конвертировать список во множество `set()`.
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 58. Розкажіть про арифметичні оператори //, %, і **
 - Оператор // выполняет целочисленное деление и возвращает целую часть числа, полученного в результате операции:
 ```
@@ -561,85 +561,85 @@ float S3 = getArea(5.0); // 78.5
 ```
 13 % 7 = 6
 ```
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 59. Як порахувати довжину рядка (string)
 Для этого вызываем функцию `len()`.
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 60. Розкажіть про генератори списків (list comprehension)
 Генераторы позволяют создавать списки с помощью одной строки кода
 ```
 >>> [i for i in range(1, 11, 2)]
 [1, 3, 5, 7, 9] 
 ```
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 61. Що таке HTTP
 HyperText Transfer Protocol — «протокол передачи гипертекста». По умолчанию использует для работы TCP порт 80.
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 62. Що таке json, xml
 JSON - текстовый формат обмена данными, основанный на JavaScript - JavaScript Object Notation.
 XML - в переводе с англ eXtensible Markup Language — расширяемый язык разметки. Используется для хранения и передачи данных.
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 63. Чим відрізняється HTML від XML
 Разница: **HTML** - это язык разметки, который используется для разработки веб-страниц. Его основная цель - отображение данных с акцентом на их внешний вид. **XML** - это язык разметки, основной целью которого является транспортировка и хранение данных.
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 64. Що таке CRUD
 Терамин обозначающий четыре базовые функции:
 создание (**create**), чтение (**read**), редактирование (**update**) и удаление (**delete**). Как правило термин "CRUD" употребляется в контексте работы с хранилищем данных.
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 65. Який патерн програмування реалізує Django
 Фреймворк Django реализует архитектурный паттерн **Model-View-Template**.
 
 *В DRF Request-Process-Response.*
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 66. На якому етапі в додатку Django відбувається запит до бази даних
 QuerySet может быть создан, отфильтрован, ограничен и использован фактически без выполнения запросов к базе данных. База данных не будет затронута, пока вы не спровоцируете выполнение QuerySet.
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 67. Який результат буде Post.objects.all() і якого типу верне
 Объект класса QuerySet.
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 68. Що таке SQL
 SQL или Structured Query Language (язык структурированных запросов) — язык программирования, предназначенный для управления данными в СУБД.
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 69. Яким запитом я можу витягнути всі дані з таблиці
 ```
 SELECT * FROM nametable
 ```
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 70. Що таке багато-до-багатьох (многие-ко-многим)
 Связь многие ко многим описывает ситуацию, когда объект первой модели может одновременно ассоциироваться с несколькими объектами второй модели. И наоборот, один объект второй модели может также одновременно быть ассоциирован с несколькими объектами первой модели. Например, один студент может посещать несколько курсов, а один курс могут посещать несколько студентов.
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 71. Як реалізується М2М в SQL
 Связь многие ко многим подразумевает, что записи в одной таблице могут иметь множество ссылок на другую таблицу и наоборот. Когда есть такой тип связи нужно создавать дополнительную таблицу, которая сведет связь многие ко многим до связи один ко многим.
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 72. Що таке JOIN і яким він може бути
 - INNER JOIN (CROSS JOIN) - внутреннее (перекрёстное) объединение.
 - LEFT JOIN - левостороннее внешнее объединение.
 - RIGHT JOIN - правостороннее внешнее объединение.
 - FULL OUTER JOIN (FULL JOIN) - полное объединение
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 73. Що таке View
 Views отвечают за обработку и передачу данных и могут реализовывать одну или несколько функций. В Django используются два вида представлений:
 - Представления-функции (view functions),
 - Представления-классы (class based views).
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 74. Що таке міксини
 **Mixin** представляет собой набор свойств и методов, которые могут быть использованы в различных классах, которые не приходят из базового класса.
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 75. Префіксні та інфіксні оператори
     Инфиксные это умножение и возведение в степень.
 
@@ -652,16 +652,16 @@ Views отвечают за обработку и передачу данных 
 	Использование *   для распаковки итерируемых объектов в список/кортеж;
 	Использование **  для распаковки словарей в другие словари.
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 76. Два способи створення класу
 Класс **type()** с тремя аргументами вернет объект нового типа. Это по сути динамическая форма инструкции **class**, ее еще называют метакласс.
 `type(class_name, super_classes, attributes_dict)`
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 77. Чим файл .pyc відрізняється від .py
 `.pyc` содержат скомпилированный байт-код исходных файлов Python
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 78. Що робить python об'єктно-орієнтованим
 Он следует парадигме объектно-ориентированного программирования, которая построена вокруг классов (classes) и их экземпляров (instances). Это позволяет реализовать следующие функции:
 - сокрытие внутренней структуры данных
@@ -670,23 +670,23 @@ Views отвечают за обработку и передачу данных 
 - полиморфизм (способность выбирать правильный метод в зависимости от типа данных)
 - ограничение доступа к данным.
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 79. Як проводиться відлагодження програми на Python
 Использовать IDE с поддержкой дебага либо использовать модуль **pdb**
 ```
 import pdb; pdb.set_trace()
 ```
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 80. Що таке GIL
 Глобальная блокировка интерпретатора CPython. Это механизм, который не позволяет нескольким потокам выполнить один и тот же байткод. Другими словами, благодаря GIL, в каждый момент времени в контексте одного процесса Python исполняется только один поток (Thread), все остальные ждут своей очереди на исполнение. Именно поэтому многопоточность не ускоряет обработку данных в разных потоках, так как по факту все обрабатывается последовательно.
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 
 ### 81. Що таке Django Middleware
 Django Middleware (middleware в переводе "промежуточный слой") – это промежуточный слой между запросом (request) и ответом (response). В Django по умолчанию содержатся наиболее важные и нужные middleware. Например, AuthenticationMiddleware, ассоциирует пользователей с запросами с помощью сессий. Можно написать свой middleware: например хорошим вариантом может быть middleware для отлавливания и логгирования всех тех исключений которые не были отловлены на более низких уровнях.
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 
 ### 82. Як вставити об'єкт так, щоб він опинився під певним індексом?
 
@@ -700,17 +700,17 @@ Django Middleware (middleware в переводе "промежуточный с
 >>> a
 [1, 2, 3, 4]
 ```
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 
 ### 83. Що потрібно зробити, щоб функція повертала значення? Використовувати оператор return або yield
 Использовать оператор `return` или `yield`
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 
 ### 84. Що якщо в функції не буде return, чи вона щось поверне?
 Функция может и не заканчиваться инструкцией `return`, при этом функция вернет значение `None`
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 
 
 ### 85. Напишіть в одну строку, як можна отримати найпізнішу за кодом літеру у рядку
@@ -722,7 +722,7 @@ Django Middleware (middleware в переводе "промежуточный с
 'w'
 ```
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 
 
 ### 86. Як конвертувати список в рядок?
@@ -750,7 +750,7 @@ Django Middleware (middleware в переводе "промежуточный с
 >>> "".join(map(str, a))
 '123'
 ```
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 
 
 ### 87. Принципи SOLID
@@ -775,7 +775,7 @@ D — Dependency Inversion (Принцип инверсии зависимост
 
 ```Модули верхнего уровня не должны зависеть от модулей нижнего уровня. И те, и другие должны зависеть от абстракций. Абстракции не должны зависеть от деталей. Детали должны зависеть от абстракций.```
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 
 
 ### 88. SQL JOIN
@@ -796,11 +796,11 @@ OUTER	RIGHT JOIN	Возвращает все записи из правой та
 OUTER	FULL JOIN	Возвращает все записи из обеих таблиц
 ```
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 89. SQL оператор HAVING
 SQL оператор HAVING используется в сочетании с оператором GROUP BY, чтобы ограничить группы возвращаемых строк только теми, чьё условие TRUE.
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 
 ### 90. Метакласи в Python
 Метакласс это «штука», которая создаёт классы.
@@ -817,7 +817,7 @@ SQL оператор HAVING используется в сочетании с о
 
 Это потому что функция type на самом деле является метаклассом. type это метакласс, который Питон внутренне использует для создания всех классов.
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 91. Множинне успадкування
 
 
@@ -850,12 +850,12 @@ c1.f_func2()              # Выведет: Метод f_func2() класса Cl
 c1.f_func3()              # Выведет: Метод f_func3() класса Class3
 c1.f_func4()              # Выведет: Метод f_func4() класса Class4
 ```
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 92. Компоненти django
 
 ![image](https://user-images.githubusercontent.com/56235826/110922871-4b9abb80-8331-11eb-9554-c0f6058e9156.png)
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 93. Які вбудовані типи доступні в Python
 
 - В Python есть несколько стандартных типов данных:
@@ -868,7 +868,7 @@ c1.f_func4()              # Выведет: Метод f_func4() класса Cl
     * Sets (множества)
     * Boolean (логический тип данных)
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 94. Mutable та immutable типи даних
 
 - изменяемые (списки, словари и множества)
@@ -876,7 +876,7 @@ c1.f_func4()              # Выведет: Метод f_func4() класса Cl
 - упорядоченные (списки, кортежи, строки и словари)
 - неупорядоченные (множества)
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 95. Лямбда-функція в Python
 Лямбда часто используется как встраиваемая функция и представляет собой единственное анонимное функциональное выражение. Она применяется для создания нового объекта функции и его возврата во время выполнения.
 
@@ -889,7 +889,7 @@ print(a(5, 6))
 #  Вывод: 11
 ```
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 96. Що означає простір імен
 
 >Пространство имен представляет собой систему имен, которая используется для обеспечения уникальности наименования всех объектов в программе, чтобы избежать возможных конфликтов.   
@@ -901,42 +901,42 @@ print(a(5, 6))
 - **Глобальное пространство имен** — состоит из имен различных импортированных пакетов/модулей, которые в настоящее время используются в проекте. Глобальное пространство имен создается при импорте пакета в скрипт, и оно доступно до тех пор, пока скрипт не закончит выполнение.
 - **Встроенное пространство имен** — оно включает встроенные функции Python и встроенные имена для различных типов исключений.
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 97. Чим відрізняється pickling від unpickling
 
 > В Python модуль pickle принимает любой объект Python, преобразует его в строковое представление и выгружает его в файл с помощью функции dump. Такой процесс известен как pickling. Для этого процесса используется функция pickle.dump().
 
 > С другой стороны, процесс извлечения исходного объекта Python из сохраненного строкового представления называется unpickling. Для этого процесса используется функция pickle.load().
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 98. Різниця між генераторами та ітераторами
 
 В Python итераторы используются для перебора группы элементов (например, в списке).   
 Генераторы представляют собой способ реализации итераторов. В них применяется yield для возврата выражения из функции, но в остальном генератор ведет себя как обычная функция.
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 99. Як перетворити число в рядок
 
 Один из самых распространенных вопросов на собеседовании. Мы можем использовать встроенную функцию str().   
 Для восьмеричного или шестнадцатеричного представления числа мы можем использовать другие встроенные функции, такие как oct() или hex().
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 100. Обов'язково чи функція Python повинна повертати значення
 
 > Нет
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 101. Чи існує в Python функція main()
 
 > Да, есть. 
 >> Она выполняется автоматически всякий раз, когда мы запускаем скрипт. Если вы хотите изменить этот естественный порядок вещей, используйте оператор if.
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 102. Який метод використовувався перед оператором «in» для перевірки наявності ключа в словнику
 
 Метод ```has_key()```.
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 103. Управління пам'яттю в Python
 
 - В Python диспетчер памяти заботится об управлении памятью.   
@@ -944,13 +944,13 @@ print(a(5, 6))
 
 - Кроме того, Python оснащен встроенным сборщиком мусора, который освобождает неиспользуемую память из пространства кучи.
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 104. Що таке PYTHONPATH
 
 PYTHONPATH — это переменная окружения, которая используется для включения дополнительных каталогов при импорте модуля/пакета.   
 Каждый раз, когда модуль/пакет импортируется, PYTHONPATH используется для проверки наличия добавляемых модулей в существующих каталогах. Обычно интерпретатор использует PYTHONPATH, чтобы определить, какой модуль загрузить.
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 105. Що таке модулі Python
 
 - Модули Python — это файлы, содержащие код на Python, который представляет собой либо функциональные классы, либо переменные. Модули являются файлами Python с расширением .py. Они могут включать в себя набор функций, классов или переменных, которые определены и реализованы. Вы можете импортировать и инициализировать модуль с помощью инструкции import. Изучив руководство по Python, вы можете узнать больше о модулях в Python.
@@ -964,24 +964,24 @@ random,
 datetime,
 JSON.
 ```
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 106. Що означає self в Python
 
 В Python ```self``` — это ключевое слово, применяемое для определения экземпляра или объекта класса. В отличие от Java, где self не является обязательным, в Python он используется как первый параметр. Self помогает отличать методы и атрибуты класса от его локальных переменных.
 
 Переменная **self** в методе ```__init__``` ссылается к созданному объекту или экземпляру, тогда как в других методах она указывает на объект или экземпляр, метод которого был вызван.
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 107. Як Python інтерпретується як мова
 
 Интерпретируемый язык - это любой язык программирования, который не находится в машинном коде до выполнения. Таким образом, Python им и является.
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 108. Як інтерпретується Python
 
 Программа Python запускается непосредственно из исходного кода, написанным программистом. Язык преобразует его в промежуточный код, который снова переводится на машинный язык, который затем уже должен быть выполнен.
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 109. Як в Python керується пам'ятю
 
 Память в Python управляется приватным пространством кучи Python.  
@@ -990,7 +990,7 @@ JSON.
 Менеджер памяти Python заботится о выделении частного пространства кучи.  
 Память для пространства кучи Python предоставляется встроенным сборщиком мусора, который перерабатывает и освобождает всю неиспользуемую память.
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 110. Що таке функція в Python
 
 Функция - это блок кода, который выполняется только при его вызове. Для определения функции Python используется ключевое слово ```def```. Если функция возвращает что-то, ей нужно ключевое слово ```return```.
@@ -1000,7 +1000,7 @@ def example(a):
    return a*2
 ```
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 111. Що таке локальні та глобальні змінні в Python
 
 * Глобальная переменная:
@@ -1019,15 +1019,15 @@ def sample():
    a = 1   
 ```
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 112. Чому лямбда-форми в Python не мають операторів
 Потому что они используются для создания нового объекта функции, а затем возвращают его во время выполнения.
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 113. Від'ємні індекси і чому їх використовують
 Когда мы используем индекс для доступа к элементам из конца списка, это называется обратным индексированием. При нем индексация элементов начинается с последнего элемента с индексом -1. Второй последний элемент имеет индекс “-2” и так далее. Они называются отрицательными.
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 114. Як отримати список усіх ключів в словнику
 Можно использовать атрибут, который есть у словаря - keys().
 ```
@@ -1035,7 +1035,7 @@ dictionary = {'key' : 'value', 'key1': : 'value1'}
 print(dictionary.keys())
 ```
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 115. Різниця між списком та кортежем
 Разница между списком и кортежем заключается в том, что список является изменяемым, а кортеж - нет. Кортеж может быть хэширован, например, в качестве ключа для словарей. Список определяется с помощью [], а кортеж - с помощью () .
 
@@ -1055,15 +1055,15 @@ tuple_ex = (1,2,'test)
 tuple_ex[0] = 100 #Вернет ошибку
 ```
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 116. Що таке ітератори в Python
 В Python итераторы используются для итерации группы элементов, контейнеров, таких как список или строка. Под итерацией подразумевается, что что-то может быть зациклено с помощью оператора.
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 117. Що таке функція map в Python
 ```map()``` - это функция, которая принимает другую в качестве аргумента, а затем применяет её ко всем элементам итератора, передаваемым ей в качестве другого аргумента. Функция вернет объект ```map```, поэтому нам нужно преобразовать его в объект списка.
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 118. Що таке поверхнева копія
 Поверхностная копия используется при создании нового типа экземпляра и сохраняет значения, скопированные в новом. Также она используется для копирования ссылочных указателей. Это означает, что когда мы копируем объект в другую переменную, он будет привязан.
 ```
@@ -1075,7 +1075,7 @@ another_list[0] = 100
 print(list_example)
 ```
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 119. Що таке глибока копія
 Глубокая копия используется для хранения значений, которые уже скопированы. Глубокая копия не копирует ссылочные указатели на объекты. Она создает ссылку на объект, и новый объект, на который указывает другой, сохраняется. В отличие от неглубокой копии, изменения, внесенные в исходную копию, не повлияют ни на одну другую копию, использующую объект. Это значит, что они не привязаны.
 ```
@@ -1089,7 +1089,7 @@ another_list[0] = 100
 print(list_example)
 ```
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 120. Що робить функція zip()
 
 Она вернет итератор кортежей, сформирует n-пару значений из перечисляемых, передаваемых функции. n - это число итерируемых, которые передают функции.
@@ -1104,7 +1104,7 @@ for num, fruit, thing in zip([1,2,3], ['apple', 'grape', 'orange'], ['x', 2, Tru
     print(thing)
 ```
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 121. Що робить оператор with в Python
 Оператор ```with``` в Python гарантирует, что код очистки выполняется при работе с неуправляемыми ресурсами путем инкапсуляции общих задач подготовки и очистки. Он может быть использован, чтобы открыть файл, сделать что-то, а затем автоматически закрыть его. Также он может пригодиться для открытия соединения с базой данных, выполнения некоторой обработки, а затем автоматического закрытия, чтобы гарантировать, что ресурсы закрыты и доступны для других. with выполнит очистку ресурсов, даже если выдается исключение.
 ```
@@ -1114,7 +1114,7 @@ with open('database.txt') as data:
     print(data)
 ```
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 122. Коли виконується блок except в конструкції try-except 
 Блок ```try-except``` обычно используется, когда мы хотим что-то выполнить, если возникли ошибки. ```except``` выполняется, когда код в блоке ```try``` вызвал ошибки.
 ```
@@ -1125,11 +1125,11 @@ except:
    print('There is an error')
 ```
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 123. Де ви будете використовувати while замість for
 Для простого повторяющегося цикла, либо тогда, когда не нужно перебирать список элементов, например записи базы данных и символы в строке.
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 124. Чи є масиви NumPy в Python кращими за списки
 Мы используем массивы Python NumPy вместо списка по следующим трем причинам:
 
@@ -1139,7 +1139,7 @@ except:
 
 3. удобнее.
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 125. Як отримати поточний робочий каталог за допомогою Python
 Работая с Python, вам может понадобиться читать и записывать файлы из различных каталогов. Чтобы узнать, в каком вы сейчас работаете, можно использовать метод ```getcwd()``` из модуля os:
 ```
@@ -1147,7 +1147,7 @@ import os
 os.getcwd()
 ```
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 126. Що таке приведення в Python
 
 Приведение - это процесс преобразования значения переменной из одного типа в другой. В Python это можно сделать с помощью таких функций, как ```list(), int (), float() и str()```. Примером может служить преобразование строки в целочисленный объект:
@@ -1156,7 +1156,7 @@ a = '1'
 b = int(a)
 ```
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 127. Як можна видалити змінні в Python
 Для удаления переменной мы можем использовать функцию ```del()```. Считается хорошей практикой, убрать что-то лишнее, что не используется.
 ```
@@ -1164,7 +1164,7 @@ a = 1
 del a
 ```
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 128. В чому різниця між методами append та extend
 Они используются для добавления элементов в конец списка.
 ```
@@ -1172,7 +1172,7 @@ append(элемент): # добавляет элемент в конец спи
 extend(другой список): # добавляет элементы другого списка в конец первого.
 ```
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 129. Що означає *args, **kwargs і навіщо нам їх використовувати
 
 Мы используем ```*args```, когда неуверены, сколько аргументов будет передано функции, или если хотим передать сохраненный список или кортеж аргументов функции. ```**kwargs``` используется, когда мы не знаем, сколько аргументов ключевых слов будет передано, а также он может быть использован для передачи значений словаря в качестве аргументов ключевых слов. Идентификаторы ```args и kwargs``` необязательны, вы можете изменить их на другие, типа ```*другой **пример```, но лучше использовать имя по умолчанию.
@@ -1190,14 +1190,14 @@ def sample(**kwargs):
 sample(a = 'time', b = 1)
 ```
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 130. Що означає одинарний і подвійний підкреслення перед ім'ям об'єкта (dunder methods)
 
 Одиночное подчеркивание - имена в классе с подчеркиванием перед ними просто указывают другим программистам, что атрибут или метод предназначен для закрытого использования, однако с самим именем ничего особенного не делается.
 
 Двойное подчеркивание (искажение имени) - любой идентификатор вида ```__spam``` (не менее двух ведущих подчеркиваний, не более одного завершающего) заменяется на ```_имякласса__spam```, где имя класса - это текущее спрятанное имя с подчеркиванием перед ним. Это искажение выполняется без учета синтаксической позиции идентификатора, поэтому его можно использовать для определения экземпляра закрытого класса и его переменных, методов, а также глобальных и других переменных, хранящихся в экземплярах, частных для этого класса в экземплярах других. 
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 131. Що таке генератор
 
 Генератор Python створює послідовність значень для ітерації, часто за допомогою функції. Ми визначаємо функцію за допомогою ```yield``, яка використовується для отримання значення по одному, а потім використовуємо цикл ```for`` для ітерації.
@@ -1211,13 +1211,13 @@ for i in squares(7):
     print(i)
 ```
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 132. Яка мета одинарної змінної підкреслення в Python
 
 Вона призначена для зберігання результату останнього виконаного виразу (/statement) у сеансі інтерактивного інтерпретатора.  
 Цей прецедент було встановлено стандартним інтерпретатором CPython, а інші наслідували цей приклад.
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 133. Які типи успадкування існують в Python
 
 > Python підтримує різні типи успадкування.  
@@ -1228,7 +1228,7 @@ for i in squares(7):
 3. Ієрархічне успадкування;
 4. Множинне успадкування.
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 134. Що таке розпакування кортежу
 
 Це процес розпакування його значень і їхнього введення в кілька різних змінних.
@@ -1239,7 +1239,7 @@ tup = (1,2,3)
 a,b,c = tup
 ```
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 135. Чи звільняється вся пам'ять після виходу з Python
 
 Вихід із Python звільняє все, крім:
@@ -1250,14 +1250,14 @@ a,b,c = tup
 
 3. частини пам'яті, зарезервованої бібліотекою C.
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 136. Чи є функція дійсною, якщо вона не має оператора return
 
 Функція, яка нічого не повертає, повертає об'єкт ```None``.  
 Ключове слово return необов'язково позначає кінець функції, воно просто завершує її, якщо присутнє.  
 Зазвичай блок коду позначає функцію, і там, де закінчується блок, закінчується і тіло функції.
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 137. На що корисно використовувати ООП
 
 1. ООП забезпечує ясність у програмуванні і, отже, простоту в розв'язанні складних завдань.
@@ -1267,12 +1267,12 @@ a,b,c = tup
 5. Проблеми можуть бути розділені на дрібні частини, що полегшує їх вирішення
 6. Концепція поліморфізму надає програмі гнучкості, дозволяючи об'єктам мати кілька форм.
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 138. Що таке об'єкт
 
 Об'єкт - це сутність реального світу, яка є основною одиницею ООП, наприклад, стілець, кішка, собака тощо. Різні об'єкти мають різні стани або атрибути та поведінку.
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 139. В чому різниця між класом та структурою
 
 **Клас**: визначений користувачем проект, з якого створюються об'єкти.  
@@ -1280,7 +1280,7 @@ a,b,c = tup
 
 Структура. Структура - це, в основному, користувацький набір змінних різних типів даних.
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 140. Чи можете ви викликати метод базового класу без створення екземпляру
 
 Так, ви можете викликати базовий клас без його створення, якщо:
@@ -1288,7 +1288,7 @@ a,b,c = tup
 1. Це статичний метод
 2. базовий клас успадковується деяким іншим підкласом
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 141. В чому різниця між класом та об'єктом
 
 >**Об'єкт:**
@@ -1305,24 +1305,24 @@ a,b,c = tup
 4. Не займає місце в пам'яті при створенні
 5. Оголошується один раз
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 142. Що таке суперклас
 
 Суперклас або базовий клас - це клас, який діє як батьківський для деякого іншого класу або класів. Наприклад, клас "Автомобіль" є суперкласом класу "Машина".
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 143. Що таке підклас
 
 Клас, який успадковується від іншого класу, називається підкласом. Наприклад, клас "Машина" є підкласом або похідним від класу "Автомобіль".
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 144. Що таке абстракція
 
 Абстракція - це концепція ООП для побудови структури об'єктів реального світу.  
 Вона "показує" тільки суттєві атрибути і "ховає" непотрібну інформацію від сторонніх очей.  
 Основна мета абстракції - приховати непотрібні деталі від користувачів. Це одна з найважливіших концепцій ООП.
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 145. Різниця між процедурним програмуванням та ООП
 
 > Процедурне програмування:
@@ -1342,7 +1342,7 @@ a,b,c = tup
 - Дотримується парадигми програмування "знизу вгору".
 - Він менш складний за своєю природою, тому його легше модифікувати, розширювати і підтримувати.
 
-[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base#запитання-для-співбесіди-на-тему-python)
+[до змісту ⬆️](https://tendil.github.io/tjh-knowledge-base/python/#запитання-для-співбесіди-на-тему-python)
 ### 146. В чому різниця між модулем та пакетом в Python
 
 Кожен програмний файл Python являє собою модуль, який імпортує інші модулі як об'єкти.  
