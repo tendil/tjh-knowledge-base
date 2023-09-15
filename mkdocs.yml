@@ -4,19 +4,18 @@ site_author: Dmitry Meita
 site_url: https://tendil.github.io/tjh-knowledge-base
 nav:
   - Blog: blog/blog_index.md
+  - GIT Flow: gitflow/GITFLOW.md
   - Interview Questions & Answers:
-    - Python: python.md
-    - GIT: git.md
-    - JavaScript: javascript.md
-    - Java: java.md
-    - QA Manual: qa_manual.md
-    - QA Automation: qa_automation.md
-    - TypeScript: typescript.md
-    - CI/CD: cicd.md
-    - Основні принципи програмування: basic_principle_of_programming.md
-    - Теорія тестування: testing_theory.md
-    - Бази данних: database.md
-    - Загальні питання: general_questions.md
+    - Python: interview_questions/python.md
+    - GIT: interview_questions/git.md
+    - JavaScript: interview_questions/javascript.md
+    - Java: interview_questions/java.md
+    - QA Manual & QA Automation: interview_questions/qa_manual_qa_automation.md
+    - TypeScript: interview_questions/typescript.md
+    - CI/CD: interview_questions/cicd.md
+    - Основні принципи програмування: interview_questions/basic_principle_of_programming.md
+    - Бази данних: interview_questions/database.md
+    - Загальні питання: interview_questions/general_questions.md
 
 
 # Themes
