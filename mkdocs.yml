@@ -1,6 +1,17 @@
 site_name: TJHelpers Knowledge Base
 site_author: Dmitry Meita
 
+repo_name: tendil/tjh-knowledge-base
+
+repo_url: https://github.com/tendil/tjh-knowledge-base
+edit_uri: edit/main/docs/
+
+copyright: Copyright &copy; 2014 - 2023 TJHelpers
+
+site_description: >-
+  DESCRIPTION
+
+
 site_url: https://tendil.github.io/tjh-knowledge-base
 nav:
   - Blog: blog/blog_index.md
@@ -17,10 +28,41 @@ nav:
     - Бази данних: interview_questions/database.md
     - Загальні питання: interview_questions/general_questions.md
 
+extra_css:
+  - stylesheets/extra.css
+
 
 # Themes
 theme:
   name: material
+  language: uk
+  features:
+    - navigation.top
+    - navigation.footer
+    - navigation.instant
+    - navigation.path
+    - announce.dismiss
+    - content.action.edit
+    - content.action.view
+    - content.code.annotate
+    - content.code.copy
+    - search.suggest
+    - search.highlight
+    - search.share
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+      primary: custom
+      accent: deep purple
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+      primary: teal
+      accent: lime
+
 
 # Plugins
 plugins:
@@ -30,23 +72,32 @@ plugins:
   - minify:
       minify_html: true
 
+
 # Customization
 extra:
+  generator: false
+  consent:
+    title: Cookie consent
+    description: >-
+      We use cookies to recognize your repeated visits and preferences, as well
+      as to measure the effectiveness of our documentation and whether users
+      find what they're searching for. With your consent, you're helping us to
+      make our documentation better.
   annotate:
     json: [.s2]
-#  social:
-#    - icon: fontawesome/brands/github
-#      link: https://github.com/squidfunk
-#    - icon: fontawesome/brands/gitter
-#      link: https://gitter.im/squidfunk/mkdocs-material
-#    - icon: fontawesome/brands/docker
-#      link: https://hub.docker.com/r/squidfunk/mkdocs-material/
-#    - icon: fontawesome/brands/python
-#      link: https://pypi.org/project/mkdocs-material/
-#    - icon: fontawesome/brands/mastodon
-#      link: https://fosstodon.org/@squidfunk
-#    - icon: fontawesome/brands/twitter
-#      link: https://twitter.com/squidfunk
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/tendil/
+    - icon: fontawesome/brands/telegram
+      link: https://t.me/XllrepoDewelloper
+#  alternate:
+#    - name: English
+#      link: /en/
+#      lang: en
+#    - name: Deutsch
+#      link: /de/
+#      lang: de
+
 
 # Extensions
 markdown_extensions:
