@@ -1,6 +1,7 @@
 ## **6. Запитання для співбесіди на тему TypeScript**
 
 ---
+test
 
 - [1. Перелічіть вбудовані типи у Typescript](#1-typescript)
 - [2. Що таке модулі в Typescript?](#2-typescript)
