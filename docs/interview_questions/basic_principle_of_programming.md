@@ -2,7 +2,10 @@
 
 ---
 
-- [1. Статуси відповідей HTTP](#1-http)
+
+
+ tesat
+- [1. Статуси відповідей HTTP](#1-htt
 - [2. Що таке DRY, KISS, YAGNI](#2-DRY-KISS-YAGNI)
 - [3. Які патерни GOF вам відомі? Наведіть приклади їхнього використання](#3-gof)
 - [4. PageObject та PageFactory](#4-pageobject-pageFactory)
