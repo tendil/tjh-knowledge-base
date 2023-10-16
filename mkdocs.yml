@@ -16,6 +16,7 @@ site_url: https://tendil.github.io/tjh-knowledge-base
 nav:
   - Blog: blog/blog_index.md
   - GIT Flow: gitflow/GITFLOW.md
+  - TJH Parser Bot: telegram_bot/tjh_parser_bot.md
   - Interview Questions & Answers:
     - Python: interview_questions/python.md
     - GIT: interview_questions/git.md
@@ -35,7 +36,7 @@ extra_css:
 # Themes
 theme:
   name: material
-  language: uk
+  language: en
   features:
     - navigation.top
     - navigation.footer
@@ -91,13 +92,13 @@ extra:
       link: https://github.com/tendil/
     - icon: fontawesome/brands/telegram
       link: https://t.me/XllrepoDewelloper
-#  alternate:
-#    - name: English
-#      link: /en/
-#      lang: en
-#    - name: Deutsch
-#      link: /de/
-#      lang: de
+  alternate:
+    - name: English
+      link: /en/
+      lang: en
+    - name: Ukrainian
+      link: /uk/
+      lang: uk
 
 
 # Extensions
@@ -110,29 +111,29 @@ markdown_extensions:
   - md_in_html
   - toc:
       permalink: true
-  - pymdownx.arithmatex:
-      generic: true
-  - pymdownx.betterem:
-      smart_enable: all
-  - pymdownx.caret
-  - pymdownx.details
-  - pymdownx.highlight:
-      anchor_linenums: true
-      line_spans: __span
-      pygments_lang_class: true
-  - pymdownx.inlinehilite
-  - pymdownx.keys
-  - pymdownx.magiclink:
-      repo_url_shorthand: true
-  - pymdownx.mark
-  - pymdownx.smartsymbols
-  - pymdownx.superfences:
-      custom_fences:
-        - name: mermaid
-          class: mermaid
-          format: !!python/name:pymdownx.superfences.fence_code_format
-  - pymdownx.tabbed:
-      alternate_style: true
-  - pymdownx.tasklist:
-      custom_checkbox: true
-  - pymdownx.tilde
+#  - pymdownx.arithmatex:
+#      generic: true
+#  - pymdownx.betterem:
+#      smart_enable: all
+#  - pymdownx.caret
+#  - pymdownx.details
+#  - pymdownx.highlight:
+#      anchor_linenums: true
+#      line_spans: __span
+#      pygments_lang_class: true
+#  - pymdownx.inlinehilite
+#  - pymdownx.keys
+#  - pymdownx.magiclink:
+#      repo_url_shorthand: true
+#  - pymdownx.mark
+#  - pymdownx.smartsymbols
+#  - pymdownx.superfences:
+#      custom_fences:
+#        - name: mermaid
+#          class: mermaid
+#          format: !!python/name:pymdownx.superfences.fence_code_format
+#  - pymdownx.tabbed:
+#      alternate_style: true
+#  - pymdownx.tasklist:
+#      custom_checkbox: true
+#  - pymdownx.tilde
